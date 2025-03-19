@@ -1,0 +1,2001 @@
+Source,Source_Lat,Source_Lon,Destination,Dest_Lat,Dest_Lon,Road Type,Distance (km),Travel Time (hrs)
+Tiruchirappalli,10.7905,78.7047,Chennai,13.0827,80.2707,Highway,326.1,4.74
+Tiruchirappalli,10.7905,78.7047,Cuddalore,11.7447,79.768,Local Road,93.78,1.76
+Dindigul,10.3624,77.9695,Salem,11.6643,78.146,Local Road,304.77,3.9
+Coimbatore,11.0168,76.9558,Dharmapuri,12.1357,78.1603,Local Road,171.52,2.29
+Madurai,9.9252,78.1198,Kanchipuram,12.8342,79.7036,State Road,278.25,4.13
+Pudukkottai,10.3833,78.8167,Dharmapuri,12.1357,78.1603,State Road,436.27,8.37
+Coimbatore,11.0168,76.9558,Vellore,12.9165,79.1325,Local Road,274.28,4.17
+Salem,11.6643,78.146,Nagercoil,8.1773,77.4344,State Road,276.54,3.57
+Krishnagiri,12.5192,78.2138,Thanjavur,10.7867,79.1386,State Road,433.88,7.92
+Chennai,13.0827,80.2707,Kanchipuram,12.8342,79.7036,State Road,53.06,0.67
+Chennai,13.0827,80.2707,Madurai,9.9252,78.1198,State Road,96.48,1.82
+Vellore,12.9165,79.1325,Chennai,13.0827,80.2707,Local Road,215.96,3.47
+Dindigul,10.3624,77.9695,Kanchipuram,12.8342,79.7036,State Road,128.37,2.04
+Nagercoil,8.1773,77.4344,Kanchipuram,12.8342,79.7036,State Road,113.56,1.87
+Dharmapuri,12.1357,78.1603,Erode,11.341,77.7172,State Road,216.38,4.42
+Chennai,13.0827,80.2707,Krishnagiri,12.5192,78.2138,Highway,338.73,6.75
+Chennai,13.0827,80.2707,Sivakasi,9.4486,77.7984,State Road,393.04,7.46
+Cuddalore,11.7447,79.768,Tirunelveli,8.7139,77.7567,Highway,54.35,1.1
+Cuddalore,11.7447,79.768,Madurai,9.9252,78.1198,State Road,137.88,2.34
+Tirunelveli,8.7139,77.7567,Chennai,13.0827,80.2707,Local Road,126.52,3.14
+Dharmapuri,12.1357,78.1603,Thanjavur,10.7867,79.1386,Local Road,205.89,2.64
+Erode,11.341,77.7172,Krishnagiri,12.5192,78.2138,Highway,188.35,2.43
+Nagercoil,8.1773,77.4344,Cuddalore,11.7447,79.768,State Road,146.94,1.87
+Nagercoil,8.1773,77.4344,Chennai,13.0827,80.2707,State Road,395.21,7.78
+Dharmapuri,12.1357,78.1603,Cuddalore,11.7447,79.768,State Road,346.12,5.54
+Thoothukudi,8.7642,78.1348,Karur,10.9601,78.0766,Local Road,206.52,4.58
+Thanjavur,10.7867,79.1386,Dharmapuri,12.1357,78.1603,Local Road,206.41,5.03
+Cuddalore,11.7447,79.768,Karur,10.9601,78.0766,Highway,274.05,5.29
+Cuddalore,11.7447,79.768,Coimbatore,11.0168,76.9558,Local Road,347.23,7.02
+Sivakasi,9.4486,77.7984,Krishnagiri,12.5192,78.2138,Local Road,262.51,3.75
+Krishnagiri,12.5192,78.2138,Thoothukudi,8.7642,78.1348,Local Road,414.2,7.98
+Erode,11.341,77.7172,Madurai,9.9252,78.1198,Highway,362.38,6.31
+Tiruchirappalli,10.7905,78.7047,Vellore,12.9165,79.1325,State Road,485.9,12.13
+Krishnagiri,12.5192,78.2138,Chennai,13.0827,80.2707,Local Road,64.33,1.29
+Coimbatore,11.0168,76.9558,Nagercoil,8.1773,77.4344,Highway,499.93,10.19
+Karur,10.9601,78.0766,Madurai,9.9252,78.1198,Highway,218.06,3.06
+Thoothukudi,8.7642,78.1348,Dindigul,10.3624,77.9695,Highway,390.04,6.08
+Karur,10.9601,78.0766,Vellore,12.9165,79.1325,State Road,210.07,4.72
+Vellore,12.9165,79.1325,Salem,11.6643,78.146,Highway,336.46,8.01
+Pudukkottai,10.3833,78.8167,Chennai,13.0827,80.2707,Highway,321.0,5.33
+Thanjavur,10.7867,79.1386,Pudukkottai,10.3833,78.8167,Highway,373.89,5.07
+Dindigul,10.3624,77.9695,Krishnagiri,12.5192,78.2138,Local Road,188.37,3.18
+Sivakasi,9.4486,77.7984,Thanjavur,10.7867,79.1386,State Road,258.93,3.74
+Pudukkottai,10.3833,78.8167,Coimbatore,11.0168,76.9558,Highway,242.13,5.03
+Thanjavur,10.7867,79.1386,Cuddalore,11.7447,79.768,Local Road,127.82,2.53
+Thanjavur,10.7867,79.1386,Tiruchirappalli,10.7905,78.7047,Local Road,206.07,4.13
+Sivakasi,9.4486,77.7984,Thoothukudi,8.7642,78.1348,State Road,179.53,3.36
+Krishnagiri,12.5192,78.2138,Salem,11.6643,78.146,Local Road,90.67,1.68
+Krishnagiri,12.5192,78.2138,Dindigul,10.3624,77.9695,State Road,267.53,3.75
+Karur,10.9601,78.0766,Kanchipuram,12.8342,79.7036,Local Road,269.39,5.56
+Dharmapuri,12.1357,78.1603,Sivakasi,9.4486,77.7984,Highway,351.58,5.6
+Dindigul,10.3624,77.9695,Sivakasi,9.4486,77.7984,Highway,137.81,2.23
+Kanchipuram,12.8342,79.7036,Madurai,9.9252,78.1198,Highway,307.48,4.71
+Dindigul,10.3624,77.9695,Krishnagiri,12.5192,78.2138,State Road,68.53,1.53
+Sivakasi,9.4486,77.7984,Thanjavur,10.7867,79.1386,Highway,212.79,5.09
+Salem,11.6643,78.146,Tirunelveli,8.7139,77.7567,Local Road,324.15,4.41
+Kanchipuram,12.8342,79.7036,Erode,11.341,77.7172,Highway,332.08,4.53
+Salem,11.6643,78.146,Chennai,13.0827,80.2707,State Road,482.76,7.84
+Dharmapuri,12.1357,78.1603,Krishnagiri,12.5192,78.2138,Local Road,338.51,4.6
+Salem,11.6643,78.146,Erode,11.341,77.7172,Highway,358.02,6.54
+Nagercoil,8.1773,77.4344,Karur,10.9601,78.0766,Highway,183.21,4.39
+Chennai,13.0827,80.2707,Sivakasi,9.4486,77.7984,Highway,200.39,2.61
+Dindigul,10.3624,77.9695,Sivakasi,9.4486,77.7984,Highway,363.78,7.47
+Sivakasi,9.4486,77.7984,Salem,11.6643,78.146,Highway,299.03,4.9
+Krishnagiri,12.5192,78.2138,Salem,11.6643,78.146,Local Road,146.44,2.68
+Chennai,13.0827,80.2707,Cuddalore,11.7447,79.768,Highway,473.94,6.72
+Dharmapuri,12.1357,78.1603,Madurai,9.9252,78.1198,Highway,304.4,4.52
+Kanchipuram,12.8342,79.7036,Tirunelveli,8.7139,77.7567,Highway,295.78,5.97
+Coimbatore,11.0168,76.9558,Kanchipuram,12.8342,79.7036,Local Road,457.58,7.3
+Krishnagiri,12.5192,78.2138,Salem,11.6643,78.146,State Road,314.59,4.15
+Vellore,12.9165,79.1325,Thoothukudi,8.7642,78.1348,State Road,413.97,7.44
+Thoothukudi,8.7642,78.1348,Erode,11.341,77.7172,Local Road,338.15,4.95
+Thoothukudi,8.7642,78.1348,Dindigul,10.3624,77.9695,State Road,337.63,5.46
+Thanjavur,10.7867,79.1386,Salem,11.6643,78.146,Highway,257.07,6.25
+Erode,11.341,77.7172,Tirunelveli,8.7139,77.7567,Local Road,283.97,6.27
+Coimbatore,11.0168,76.9558,Dindigul,10.3624,77.9695,Local Road,322.19,5.95
+Madurai,9.9252,78.1198,Pudukkottai,10.3833,78.8167,Local Road,147.99,2.04
+Karur,10.9601,78.0766,Nagercoil,8.1773,77.4344,Local Road,77.97,1.08
+Coimbatore,11.0168,76.9558,Kanchipuram,12.8342,79.7036,State Road,468.19,6.06
+Salem,11.6643,78.146,Coimbatore,11.0168,76.9558,Highway,85.9,1.99
+Pudukkottai,10.3833,78.8167,Tirunelveli,8.7139,77.7567,Local Road,342.81,6.76
+Thanjavur,10.7867,79.1386,Kanchipuram,12.8342,79.7036,Local Road,474.56,7.29
+Kanchipuram,12.8342,79.7036,Chennai,13.0827,80.2707,Highway,61.45,1.05
+Madurai,9.9252,78.1198,Krishnagiri,12.5192,78.2138,Local Road,389.04,7.6
+Thanjavur,10.7867,79.1386,Erode,11.341,77.7172,Highway,332.6,4.96
+Pudukkottai,10.3833,78.8167,Thoothukudi,8.7642,78.1348,Local Road,471.83,6.4
+Tiruchirappalli,10.7905,78.7047,Cuddalore,11.7447,79.768,Highway,129.58,2.25
+Dharmapuri,12.1357,78.1603,Kanchipuram,12.8342,79.7036,Local Road,401.3,6.4
+Madurai,9.9252,78.1198,Chennai,13.0827,80.2707,Highway,75.12,1.68
+Madurai,9.9252,78.1198,Nagercoil,8.1773,77.4344,Local Road,287.6,5.05
+Erode,11.341,77.7172,Cuddalore,11.7447,79.768,Local Road,162.95,2.75
+Karur,10.9601,78.0766,Kanchipuram,12.8342,79.7036,State Road,244.78,3.95
+Madurai,9.9252,78.1198,Kanchipuram,12.8342,79.7036,State Road,283.13,5.04
+Krishnagiri,12.5192,78.2138,Thoothukudi,8.7642,78.1348,Highway,386.67,8.18
+Madurai,9.9252,78.1198,Thoothukudi,8.7642,78.1348,State Road,325.71,7.41
+Madurai,9.9252,78.1198,Kanchipuram,12.8342,79.7036,Local Road,412.32,8.49
+Kanchipuram,12.8342,79.7036,Krishnagiri,12.5192,78.2138,Local Road,430.34,7.48
+Sivakasi,9.4486,77.7984,Dindigul,10.3624,77.9695,Highway,252.58,3.87
+Sivakasi,9.4486,77.7984,Madurai,9.9252,78.1198,Highway,259.1,4.63
+Krishnagiri,12.5192,78.2138,Tiruchirappalli,10.7905,78.7047,State Road,186.05,2.59
+Cuddalore,11.7447,79.768,Thanjavur,10.7867,79.1386,Highway,432.95,9.41
+Pudukkottai,10.3833,78.8167,Thoothukudi,8.7642,78.1348,State Road,114.87,1.94
+Thoothukudi,8.7642,78.1348,Dindigul,10.3624,77.9695,Highway,441.49,7.47
+Thoothukudi,8.7642,78.1348,Salem,11.6643,78.146,State Road,356.5,5.57
+Dindigul,10.3624,77.9695,Dharmapuri,12.1357,78.1603,Local Road,231.18,3.97
+Cuddalore,11.7447,79.768,Dindigul,10.3624,77.9695,Local Road,397.51,6.0
+Thoothukudi,8.7642,78.1348,Dindigul,10.3624,77.9695,Highway,459.26,10.81
+Madurai,9.9252,78.1198,Chennai,13.0827,80.2707,State Road,343.62,6.82
+Chennai,13.0827,80.2707,Pudukkottai,10.3833,78.8167,Highway,69.87,1.27
+Dharmapuri,12.1357,78.1603,Kanchipuram,12.8342,79.7036,State Road,213.92,3.55
+Cuddalore,11.7447,79.768,Thoothukudi,8.7642,78.1348,Local Road,459.62,6.45
+Chennai,13.0827,80.2707,Kanchipuram,12.8342,79.7036,Highway,478.58,6.58
+Madurai,9.9252,78.1198,Thanjavur,10.7867,79.1386,State Road,436.25,9.69
+Chennai,13.0827,80.2707,Sivakasi,9.4486,77.7984,Highway,60.9,0.87
+Thanjavur,10.7867,79.1386,Chennai,13.0827,80.2707,State Road,236.4,4.42
+Chennai,13.0827,80.2707,Pudukkottai,10.3833,78.8167,State Road,306.92,4.27
+Tiruchirappalli,10.7905,78.7047,Thanjavur,10.7867,79.1386,State Road,274.1,6.77
+Tiruchirappalli,10.7905,78.7047,Pudukkottai,10.3833,78.8167,State Road,261.35,3.43
+Erode,11.341,77.7172,Chennai,13.0827,80.2707,State Road,73.93,1.09
+Vellore,12.9165,79.1325,Dharmapuri,12.1357,78.1603,State Road,307.49,4.02
+Krishnagiri,12.5192,78.2138,Madurai,9.9252,78.1198,Local Road,85.37,1.34
+Chennai,13.0827,80.2707,Cuddalore,11.7447,79.768,Highway,280.32,6.02
+Cuddalore,11.7447,79.768,Thanjavur,10.7867,79.1386,State Road,475.77,11.16
+Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,Highway,277.99,6.26
+Vellore,12.9165,79.1325,Dharmapuri,12.1357,78.1603,State Road,252.2,3.52
+Tirunelveli,8.7139,77.7567,Salem,11.6643,78.146,State Road,297.72,6.14
+Dindigul,10.3624,77.9695,Thanjavur,10.7867,79.1386,Highway,70.12,0.88
+Tiruchirappalli,10.7905,78.7047,Salem,11.6643,78.146,State Road,226.8,3.3
+Kanchipuram,12.8342,79.7036,Dindigul,10.3624,77.9695,Highway,255.61,5.64
+Coimbatore,11.0168,76.9558,Thoothukudi,8.7642,78.1348,Local Road,396.04,9.68
+Salem,11.6643,78.146,Tirunelveli,8.7139,77.7567,Highway,469.11,6.65
+Salem,11.6643,78.146,Thoothukudi,8.7642,78.1348,Local Road,447.43,6.13
+Nagercoil,8.1773,77.4344,Tirunelveli,8.7139,77.7567,Local Road,251.63,4.91
+Cuddalore,11.7447,79.768,Karur,10.9601,78.0766,Local Road,112.74,1.62
+Sivakasi,9.4486,77.7984,Krishnagiri,12.5192,78.2138,Local Road,359.02,6.05
+Pudukkottai,10.3833,78.8167,Madurai,9.9252,78.1198,Local Road,493.24,6.51
+Dindigul,10.3624,77.9695,Pudukkottai,10.3833,78.8167,Highway,92.35,1.72
+Pudukkottai,10.3833,78.8167,Cuddalore,11.7447,79.768,Local Road,398.56,5.24
+Chennai,13.0827,80.2707,Krishnagiri,12.5192,78.2138,Highway,149.8,2.97
+Thoothukudi,8.7642,78.1348,Cuddalore,11.7447,79.768,Highway,117.87,2.43
+Vellore,12.9165,79.1325,Thoothukudi,8.7642,78.1348,Local Road,231.16,2.98
+Krishnagiri,12.5192,78.2138,Coimbatore,11.0168,76.9558,Highway,256.44,4.68
+Thanjavur,10.7867,79.1386,Kanchipuram,12.8342,79.7036,Local Road,325.26,4.68
+Dindigul,10.3624,77.9695,Chennai,13.0827,80.2707,Local Road,259.48,3.67
+Krishnagiri,12.5192,78.2138,Sivakasi,9.4486,77.7984,Local Road,450.63,6.8
+Erode,11.341,77.7172,Thoothukudi,8.7642,78.1348,Local Road,274.11,4.08
+Madurai,9.9252,78.1198,Sivakasi,9.4486,77.7984,Highway,166.05,4.05
+Krishnagiri,12.5192,78.2138,Kanchipuram,12.8342,79.7036,Highway,489.05,6.51
+Thoothukudi,8.7642,78.1348,Tirunelveli,8.7139,77.7567,State Road,317.83,4.06
+Thanjavur,10.7867,79.1386,Dharmapuri,12.1357,78.1603,State Road,253.12,4.03
+Nagercoil,8.1773,77.4344,Coimbatore,11.0168,76.9558,Local Road,401.4,5.44
+Madurai,9.9252,78.1198,Tirunelveli,8.7139,77.7567,State Road,487.51,7.3
+Tiruchirappalli,10.7905,78.7047,Erode,11.341,77.7172,State Road,188.59,3.5
+Kanchipuram,12.8342,79.7036,Nagercoil,8.1773,77.4344,State Road,395.33,7.62
+Tiruchirappalli,10.7905,78.7047,Thoothukudi,8.7642,78.1348,Highway,405.81,5.1
+Madurai,9.9252,78.1198,Dindigul,10.3624,77.9695,Local Road,181.46,3.87
+Tirunelveli,8.7139,77.7567,Vellore,12.9165,79.1325,State Road,412.55,6.37
+Erode,11.341,77.7172,Karur,10.9601,78.0766,Highway,450.63,7.64
+Karur,10.9601,78.0766,Nagercoil,8.1773,77.4344,Highway,194.47,4.35
+Nagercoil,8.1773,77.4344,Tiruchirappalli,10.7905,78.7047,Local Road,247.75,3.77
+Krishnagiri,12.5192,78.2138,Pudukkottai,10.3833,78.8167,Highway,225.69,5.08
+Tirunelveli,8.7139,77.7567,Kanchipuram,12.8342,79.7036,Highway,489.59,10.95
+Coimbatore,11.0168,76.9558,Cuddalore,11.7447,79.768,State Road,449.95,7.61
+Karur,10.9601,78.0766,Thanjavur,10.7867,79.1386,State Road,269.92,4.96
+Thanjavur,10.7867,79.1386,Erode,11.341,77.7172,State Road,130.79,2.23
+Sivakasi,9.4486,77.7984,Thanjavur,10.7867,79.1386,Local Road,237.94,3.41
+Kanchipuram,12.8342,79.7036,Chennai,13.0827,80.2707,State Road,284.24,5.8
+Kanchipuram,12.8342,79.7036,Tirunelveli,8.7139,77.7567,Highway,390.94,7.12
+Thoothukudi,8.7642,78.1348,Erode,11.341,77.7172,Local Road,235.04,4.96
+Tiruchirappalli,10.7905,78.7047,Kanchipuram,12.8342,79.7036,State Road,252.92,3.34
+Kanchipuram,12.8342,79.7036,Pudukkottai,10.3833,78.8167,State Road,235.49,2.97
+Kanchipuram,12.8342,79.7036,Sivakasi,9.4486,77.7984,Highway,235.88,3.18
+Krishnagiri,12.5192,78.2138,Nagercoil,8.1773,77.4344,Local Road,282.29,4.52
+Dindigul,10.3624,77.9695,Salem,11.6643,78.146,Highway,439.7,5.55
+Erode,11.341,77.7172,Krishnagiri,12.5192,78.2138,State Road,362.05,6.06
+Chennai,13.0827,80.2707,Sivakasi,9.4486,77.7984,Local Road,389.89,5.59
+Vellore,12.9165,79.1325,Sivakasi,9.4486,77.7984,Highway,380.39,5.44
+Krishnagiri,12.5192,78.2138,Tirunelveli,8.7139,77.7567,State Road,353.66,7.33
+Karur,10.9601,78.0766,Krishnagiri,12.5192,78.2138,Local Road,473.18,11.15
+Vellore,12.9165,79.1325,Tirunelveli,8.7139,77.7567,Highway,74.05,0.96
+Salem,11.6643,78.146,Nagercoil,8.1773,77.4344,Highway,352.12,5.87
+Tiruchirappalli,10.7905,78.7047,Cuddalore,11.7447,79.768,Highway,496.56,7.46
+Nagercoil,8.1773,77.4344,Coimbatore,11.0168,76.9558,Local Road,261.12,4.73
+Tiruchirappalli,10.7905,78.7047,Thanjavur,10.7867,79.1386,State Road,276.44,3.67
+Sivakasi,9.4486,77.7984,Dharmapuri,12.1357,78.1603,Highway,263.89,3.3
+Dindigul,10.3624,77.9695,Vellore,12.9165,79.1325,Local Road,488.89,9.42
+Karur,10.9601,78.0766,Cuddalore,11.7447,79.768,Local Road,399.89,5.77
+Tiruchirappalli,10.7905,78.7047,Pudukkottai,10.3833,78.8167,Local Road,149.23,2.87
+Thanjavur,10.7867,79.1386,Tirunelveli,8.7139,77.7567,State Road,371.03,6.19
+Salem,11.6643,78.146,Tirunelveli,8.7139,77.7567,Local Road,380.33,6.73
+Thanjavur,10.7867,79.1386,Erode,11.341,77.7172,Local Road,81.63,1.36
+Kanchipuram,12.8342,79.7036,Vellore,12.9165,79.1325,Highway,480.15,7.72
+Chennai,13.0827,80.2707,Madurai,9.9252,78.1198,Highway,214.41,4.93
+Sivakasi,9.4486,77.7984,Vellore,12.9165,79.1325,Highway,264.9,5.2
+Karur,10.9601,78.0766,Krishnagiri,12.5192,78.2138,State Road,141.75,1.85
+Cuddalore,11.7447,79.768,Thanjavur,10.7867,79.1386,Highway,265.82,3.59
+Erode,11.341,77.7172,Salem,11.6643,78.146,State Road,406.86,6.73
+Karur,10.9601,78.0766,Salem,11.6643,78.146,State Road,327.51,4.77
+Karur,10.9601,78.0766,Pudukkottai,10.3833,78.8167,State Road,66.37,0.93
+Karur,10.9601,78.0766,Nagercoil,8.1773,77.4344,State Road,322.12,6.01
+Dindigul,10.3624,77.9695,Sivakasi,9.4486,77.7984,Local Road,425.44,6.72
+Cuddalore,11.7447,79.768,Sivakasi,9.4486,77.7984,State Road,476.95,7.71
+Thanjavur,10.7867,79.1386,Thoothukudi,8.7642,78.1348,Local Road,169.33,3.51
+Dharmapuri,12.1357,78.1603,Salem,11.6643,78.146,Highway,65.79,0.96
+Thoothukudi,8.7642,78.1348,Dindigul,10.3624,77.9695,Local Road,365.17,6.64
+Salem,11.6643,78.146,Thanjavur,10.7867,79.1386,Highway,279.58,5.87
+Salem,11.6643,78.146,Krishnagiri,12.5192,78.2138,Highway,467.86,10.75
+Thanjavur,10.7867,79.1386,Kanchipuram,12.8342,79.7036,Local Road,201.96,4.1
+Krishnagiri,12.5192,78.2138,Tiruchirappalli,10.7905,78.7047,State Road,262.67,5.57
+Thoothukudi,8.7642,78.1348,Salem,11.6643,78.146,Local Road,418.8,6.0
+Sivakasi,9.4486,77.7984,Erode,11.341,77.7172,Highway,281.3,4.74
+Pudukkottai,10.3833,78.8167,Chennai,13.0827,80.2707,Local Road,459.51,6.38
+Pudukkottai,10.3833,78.8167,Cuddalore,11.7447,79.768,State Road,421.27,8.08
+Dindigul,10.3624,77.9695,Coimbatore,11.0168,76.9558,State Road,72.87,1.15
+Coimbatore,11.0168,76.9558,Kanchipuram,12.8342,79.7036,State Road,363.76,6.1
+Karur,10.9601,78.0766,Thanjavur,10.7867,79.1386,Local Road,298.07,3.99
+Nagercoil,8.1773,77.4344,Dindigul,10.3624,77.9695,Highway,258.88,3.9
+Vellore,12.9165,79.1325,Krishnagiri,12.5192,78.2138,State Road,466.24,7.36
+Dharmapuri,12.1357,78.1603,Salem,11.6643,78.146,Highway,147.92,2.24
+Tirunelveli,8.7139,77.7567,Kanchipuram,12.8342,79.7036,Local Road,77.72,1.11
+Sivakasi,9.4486,77.7984,Vellore,12.9165,79.1325,State Road,304.54,4.38
+Coimbatore,11.0168,76.9558,Dindigul,10.3624,77.9695,State Road,381.43,8.58
+Pudukkottai,10.3833,78.8167,Krishnagiri,12.5192,78.2138,State Road,370.2,5.04
+Dindigul,10.3624,77.9695,Cuddalore,11.7447,79.768,State Road,453.42,8.13
+Coimbatore,11.0168,76.9558,Kanchipuram,12.8342,79.7036,Highway,441.94,8.22
+Nagercoil,8.1773,77.4344,Thanjavur,10.7867,79.1386,State Road,428.85,5.95
+Chennai,13.0827,80.2707,Pudukkottai,10.3833,78.8167,Local Road,266.49,5.38
+Dindigul,10.3624,77.9695,Tiruchirappalli,10.7905,78.7047,Highway,105.96,2.46
+Vellore,12.9165,79.1325,Kanchipuram,12.8342,79.7036,Local Road,345.09,7.2
+Kanchipuram,12.8342,79.7036,Thanjavur,10.7867,79.1386,Highway,485.36,6.24
+Sivakasi,9.4486,77.7984,Salem,11.6643,78.146,Local Road,354.38,6.19
+Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,Local Road,265.67,3.51
+Chennai,13.0827,80.2707,Kanchipuram,12.8342,79.7036,Local Road,99.42,2.12
+Salem,11.6643,78.146,Krishnagiri,12.5192,78.2138,State Road,462.57,7.83
+Kanchipuram,12.8342,79.7036,Dindigul,10.3624,77.9695,State Road,117.48,1.64
+Kanchipuram,12.8342,79.7036,Thanjavur,10.7867,79.1386,State Road,320.95,5.11
+Chennai,13.0827,80.2707,Tirunelveli,8.7139,77.7567,Local Road,73.92,1.44
+Tiruchirappalli,10.7905,78.7047,Pudukkottai,10.3833,78.8167,Highway,213.27,3.17
+Coimbatore,11.0168,76.9558,Sivakasi,9.4486,77.7984,State Road,384.21,6.01
+Sivakasi,9.4486,77.7984,Coimbatore,11.0168,76.9558,State Road,363.28,7.79
+Dharmapuri,12.1357,78.1603,Cuddalore,11.7447,79.768,State Road,148.53,1.89
+Erode,11.341,77.7172,Coimbatore,11.0168,76.9558,Local Road,482.04,9.45
+Salem,11.6643,78.146,Nagercoil,8.1773,77.4344,Highway,268.29,3.5
+Sivakasi,9.4486,77.7984,Karur,10.9601,78.0766,State Road,295.66,5.9
+Chennai,13.0827,80.2707,Kanchipuram,12.8342,79.7036,Highway,353.98,7.74
+Krishnagiri,12.5192,78.2138,Tirunelveli,8.7139,77.7567,State Road,362.84,6.33
+Sivakasi,9.4486,77.7984,Madurai,9.9252,78.1198,State Road,187.58,3.34
+Dindigul,10.3624,77.9695,Tirunelveli,8.7139,77.7567,State Road,313.33,5.61
+Tiruchirappalli,10.7905,78.7047,Thoothukudi,8.7642,78.1348,State Road,367.09,5.51
+Krishnagiri,12.5192,78.2138,Karur,10.9601,78.0766,Local Road,315.9,6.25
+Dindigul,10.3624,77.9695,Pudukkottai,10.3833,78.8167,State Road,223.17,3.12
+Salem,11.6643,78.146,Tirunelveli,8.7139,77.7567,State Road,162.9,2.95
+Pudukkottai,10.3833,78.8167,Krishnagiri,12.5192,78.2138,State Road,174.18,2.8
+Tirunelveli,8.7139,77.7567,Nagercoil,8.1773,77.4344,State Road,98.56,2.05
+Tirunelveli,8.7139,77.7567,Vellore,12.9165,79.1325,State Road,226.5,2.94
+Vellore,12.9165,79.1325,Krishnagiri,12.5192,78.2138,Local Road,300.63,7.16
+Dindigul,10.3624,77.9695,Nagercoil,8.1773,77.4344,State Road,249.77,3.71
+Karur,10.9601,78.0766,Chennai,13.0827,80.2707,Highway,243.26,4.97
+Krishnagiri,12.5192,78.2138,Thanjavur,10.7867,79.1386,State Road,272.82,4.17
+Thanjavur,10.7867,79.1386,Coimbatore,11.0168,76.9558,Highway,159.6,2.19
+Salem,11.6643,78.146,Erode,11.341,77.7172,Highway,327.44,5.02
+Pudukkottai,10.3833,78.8167,Krishnagiri,12.5192,78.2138,State Road,255.67,3.28
+Kanchipuram,12.8342,79.7036,Tiruchirappalli,10.7905,78.7047,State Road,493.14,6.45
+Tiruchirappalli,10.7905,78.7047,Krishnagiri,12.5192,78.2138,Local Road,413.78,6.65
+Cuddalore,11.7447,79.768,Dindigul,10.3624,77.9695,Local Road,395.01,9.42
+Erode,11.341,77.7172,Thoothukudi,8.7642,78.1348,State Road,188.5,2.42
+Kanchipuram,12.8342,79.7036,Karur,10.9601,78.0766,Highway,222.55,4.29
+Nagercoil,8.1773,77.4344,Coimbatore,11.0168,76.9558,Highway,374.21,5.0
+Vellore,12.9165,79.1325,Nagercoil,8.1773,77.4344,Highway,498.69,9.15
+Coimbatore,11.0168,76.9558,Kanchipuram,12.8342,79.7036,Highway,412.36,6.05
+Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,Local Road,357.77,6.92
+Vellore,12.9165,79.1325,Chennai,13.0827,80.2707,Local Road,481.19,8.52
+Thoothukudi,8.7642,78.1348,Tiruchirappalli,10.7905,78.7047,Local Road,106.89,1.94
+Krishnagiri,12.5192,78.2138,Tiruchirappalli,10.7905,78.7047,Highway,297.92,6.04
+Nagercoil,8.1773,77.4344,Madurai,9.9252,78.1198,State Road,338.82,6.3
+Tirunelveli,8.7139,77.7567,Salem,11.6643,78.146,State Road,425.46,7.71
+Nagercoil,8.1773,77.4344,Erode,11.341,77.7172,Local Road,450.18,9.36
+Vellore,12.9165,79.1325,Chennai,13.0827,80.2707,State Road,110.9,2.33
+Erode,11.341,77.7172,Salem,11.6643,78.146,Local Road,222.99,4.74
+Nagercoil,8.1773,77.4344,Madurai,9.9252,78.1198,Highway,223.45,3.71
+Dharmapuri,12.1357,78.1603,Coimbatore,11.0168,76.9558,Highway,340.34,5.44
+Salem,11.6643,78.146,Kanchipuram,12.8342,79.7036,Local Road,123.04,2.18
+Madurai,9.9252,78.1198,Pudukkottai,10.3833,78.8167,Highway,386.86,6.05
+Karur,10.9601,78.0766,Cuddalore,11.7447,79.768,State Road,262.93,4.57
+Cuddalore,11.7447,79.768,Thanjavur,10.7867,79.1386,State Road,110.4,2.2
+Dharmapuri,12.1357,78.1603,Thoothukudi,8.7642,78.1348,State Road,356.56,5.43
+Dharmapuri,12.1357,78.1603,Karur,10.9601,78.0766,Local Road,388.19,6.46
+Thoothukudi,8.7642,78.1348,Vellore,12.9165,79.1325,Highway,490.89,8.64
+Tirunelveli,8.7139,77.7567,Krishnagiri,12.5192,78.2138,State Road,450.05,8.43
+Sivakasi,9.4486,77.7984,Pudukkottai,10.3833,78.8167,Highway,439.46,8.06
+Tiruchirappalli,10.7905,78.7047,Chennai,13.0827,80.2707,Highway,176.41,4.01
+Salem,11.6643,78.146,Nagercoil,8.1773,77.4344,Local Road,499.34,9.11
+Salem,11.6643,78.146,Tiruchirappalli,10.7905,78.7047,Local Road,312.14,4.84
+Dharmapuri,12.1357,78.1603,Kanchipuram,12.8342,79.7036,State Road,183.42,3.07
+Cuddalore,11.7447,79.768,Sivakasi,9.4486,77.7984,State Road,344.01,5.04
+Krishnagiri,12.5192,78.2138,Tiruchirappalli,10.7905,78.7047,Local Road,325.63,6.0
+Erode,11.341,77.7172,Madurai,9.9252,78.1198,State Road,423.79,6.28
+Nagercoil,8.1773,77.4344,Vellore,12.9165,79.1325,State Road,109.96,1.44
+Chennai,13.0827,80.2707,Dharmapuri,12.1357,78.1603,Local Road,267.78,5.06
+Krishnagiri,12.5192,78.2138,Dharmapuri,12.1357,78.1603,State Road,133.99,1.86
+Kanchipuram,12.8342,79.7036,Dindigul,10.3624,77.9695,Highway,237.78,3.91
+Kanchipuram,12.8342,79.7036,Sivakasi,9.4486,77.7984,State Road,305.28,4.78
+Coimbatore,11.0168,76.9558,Krishnagiri,12.5192,78.2138,State Road,405.15,6.0
+Thoothukudi,8.7642,78.1348,Tiruchirappalli,10.7905,78.7047,State Road,337.35,5.45
+Karur,10.9601,78.0766,Chennai,13.0827,80.2707,Highway,181.48,2.5
+Thanjavur,10.7867,79.1386,Thoothukudi,8.7642,78.1348,State Road,315.79,7.23
+Chennai,13.0827,80.2707,Coimbatore,11.0168,76.9558,Local Road,356.36,4.86
+Karur,10.9601,78.0766,Tirunelveli,8.7139,77.7567,State Road,54.39,0.76
+Cuddalore,11.7447,79.768,Nagercoil,8.1773,77.4344,State Road,237.19,3.87
+Sivakasi,9.4486,77.7984,Vellore,12.9165,79.1325,Highway,383.4,5.67
+Krishnagiri,12.5192,78.2138,Karur,10.9601,78.0766,State Road,222.52,4.49
+Erode,11.341,77.7172,Dindigul,10.3624,77.9695,Local Road,360.27,4.71
+Erode,11.341,77.7172,Thoothukudi,8.7642,78.1348,Local Road,213.89,3.84
+Nagercoil,8.1773,77.4344,Coimbatore,11.0168,76.9558,Local Road,411.44,7.41
+Dharmapuri,12.1357,78.1603,Tiruchirappalli,10.7905,78.7047,Local Road,295.85,4.35
+Dindigul,10.3624,77.9695,Tirunelveli,8.7139,77.7567,State Road,79.38,1.05
+Madurai,9.9252,78.1198,Thoothukudi,8.7642,78.1348,State Road,296.96,4.78
+Tirunelveli,8.7139,77.7567,Salem,11.6643,78.146,State Road,300.81,4.31
+Madurai,9.9252,78.1198,Thoothukudi,8.7642,78.1348,Local Road,180.55,3.87
+Krishnagiri,12.5192,78.2138,Salem,11.6643,78.146,Highway,104.84,1.74
+Kanchipuram,12.8342,79.7036,Salem,11.6643,78.146,Local Road,494.5,8.18
+Erode,11.341,77.7172,Tiruchirappalli,10.7905,78.7047,Highway,438.59,9.27
+Tirunelveli,8.7139,77.7567,Krishnagiri,12.5192,78.2138,Highway,355.98,5.67
+Tirunelveli,8.7139,77.7567,Erode,11.341,77.7172,State Road,408.33,8.08
+Karur,10.9601,78.0766,Krishnagiri,12.5192,78.2138,Highway,106.32,1.97
+Erode,11.341,77.7172,Sivakasi,9.4486,77.7984,State Road,438.05,10.18
+Tirunelveli,8.7139,77.7567,Dharmapuri,12.1357,78.1603,Local Road,250.04,4.02
+Nagercoil,8.1773,77.4344,Coimbatore,11.0168,76.9558,Highway,356.04,4.53
+Kanchipuram,12.8342,79.7036,Dharmapuri,12.1357,78.1603,Local Road,460.8,5.82
+Nagercoil,8.1773,77.4344,Dharmapuri,12.1357,78.1603,State Road,411.44,8.86
+Madurai,9.9252,78.1198,Thoothukudi,8.7642,78.1348,Highway,86.8,1.92
+Tirunelveli,8.7139,77.7567,Thoothukudi,8.7642,78.1348,State Road,143.57,2.41
+Chennai,13.0827,80.2707,Tiruchirappalli,10.7905,78.7047,Highway,387.85,5.5
+Nagercoil,8.1773,77.4344,Vellore,12.9165,79.1325,State Road,177.1,4.31
+Krishnagiri,12.5192,78.2138,Tirunelveli,8.7139,77.7567,State Road,346.45,6.16
+Dindigul,10.3624,77.9695,Cuddalore,11.7447,79.768,Highway,122.57,1.72
+Erode,11.341,77.7172,Coimbatore,11.0168,76.9558,Local Road,366.12,5.7
+Tirunelveli,8.7139,77.7567,Nagercoil,8.1773,77.4344,State Road,274.26,5.52
+Sivakasi,9.4486,77.7984,Erode,11.341,77.7172,Local Road,183.06,2.6
+Sivakasi,9.4486,77.7984,Kanchipuram,12.8342,79.7036,Highway,468.43,9.77
+Coimbatore,11.0168,76.9558,Salem,11.6643,78.146,Highway,217.63,3.04
+Thoothukudi,8.7642,78.1348,Sivakasi,9.4486,77.7984,Local Road,242.77,5.27
+Tirunelveli,8.7139,77.7567,Erode,11.341,77.7172,Local Road,77.71,1.06
+Erode,11.341,77.7172,Thoothukudi,8.7642,78.1348,Local Road,147.52,2.37
+Thoothukudi,8.7642,78.1348,Salem,11.6643,78.146,State Road,457.15,7.36
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,Highway,57.75,1.2
+Coimbatore,11.0168,76.9558,Krishnagiri,12.5192,78.2138,Local Road,173.52,3.1
+Tirunelveli,8.7139,77.7567,Kanchipuram,12.8342,79.7036,Highway,453.1,10.31
+Dharmapuri,12.1357,78.1603,Krishnagiri,12.5192,78.2138,Highway,234.16,3.5
+Pudukkottai,10.3833,78.8167,Kanchipuram,12.8342,79.7036,Highway,68.48,0.91
+Thanjavur,10.7867,79.1386,Madurai,9.9252,78.1198,Highway,395.65,9.1
+Madurai,9.9252,78.1198,Nagercoil,8.1773,77.4344,State Road,117.7,2.27
+Thanjavur,10.7867,79.1386,Cuddalore,11.7447,79.768,State Road,267.54,6.46
+Nagercoil,8.1773,77.4344,Coimbatore,11.0168,76.9558,State Road,207.22,4.44
+Vellore,12.9165,79.1325,Tirunelveli,8.7139,77.7567,Highway,194.34,4.78
+Cuddalore,11.7447,79.768,Tirunelveli,8.7139,77.7567,Local Road,207.22,2.73
+Cuddalore,11.7447,79.768,Coimbatore,11.0168,76.9558,State Road,355.47,7.64
+Thoothukudi,8.7642,78.1348,Chennai,13.0827,80.2707,Highway,341.08,5.0
+Karur,10.9601,78.0766,Tirunelveli,8.7139,77.7567,State Road,314.88,4.14
+Chennai,13.0827,80.2707,Thoothukudi,8.7642,78.1348,Local Road,464.22,10.4
+Kanchipuram,12.8342,79.7036,Thoothukudi,8.7642,78.1348,State Road,236.25,3.88
+Krishnagiri,12.5192,78.2138,Sivakasi,9.4486,77.7984,State Road,248.77,4.45
+Dindigul,10.3624,77.9695,Erode,11.341,77.7172,Local Road,340.38,4.42
+Dindigul,10.3624,77.9695,Sivakasi,9.4486,77.7984,State Road,449.14,8.8
+Thoothukudi,8.7642,78.1348,Madurai,9.9252,78.1198,Local Road,178.14,2.26
+Dharmapuri,12.1357,78.1603,Coimbatore,11.0168,76.9558,State Road,426.98,5.51
+Pudukkottai,10.3833,78.8167,Tiruchirappalli,10.7905,78.7047,Local Road,238.22,5.89
+Krishnagiri,12.5192,78.2138,Dindigul,10.3624,77.9695,Highway,436.18,9.43
+Sivakasi,9.4486,77.7984,Dharmapuri,12.1357,78.1603,State Road,404.7,6.03
+Dindigul,10.3624,77.9695,Dharmapuri,12.1357,78.1603,State Road,380.21,4.96
+Erode,11.341,77.7172,Dharmapuri,12.1357,78.1603,Local Road,143.73,2.17
+Tiruchirappalli,10.7905,78.7047,Dharmapuri,12.1357,78.1603,Highway,437.77,6.47
+Thanjavur,10.7867,79.1386,Sivakasi,9.4486,77.7984,State Road,482.92,9.18
+Krishnagiri,12.5192,78.2138,Tirunelveli,8.7139,77.7567,Local Road,188.38,2.56
+Chennai,13.0827,80.2707,Krishnagiri,12.5192,78.2138,Local Road,329.04,5.51
+Tirunelveli,8.7139,77.7567,Madurai,9.9252,78.1198,State Road,461.25,6.35
+Thoothukudi,8.7642,78.1348,Kanchipuram,12.8342,79.7036,Local Road,134.47,2.39
+Cuddalore,11.7447,79.768,Thoothukudi,8.7642,78.1348,State Road,417.59,5.24
+Sivakasi,9.4486,77.7984,Chennai,13.0827,80.2707,State Road,254.46,6.27
+Cuddalore,11.7447,79.768,Madurai,9.9252,78.1198,State Road,491.04,11.63
+Salem,11.6643,78.146,Vellore,12.9165,79.1325,Local Road,400.58,7.41
+Thanjavur,10.7867,79.1386,Chennai,13.0827,80.2707,State Road,268.78,3.45
+Tirunelveli,8.7139,77.7567,Chennai,13.0827,80.2707,Local Road,159.91,2.48
+Nagercoil,8.1773,77.4344,Erode,11.341,77.7172,State Road,398.31,9.01
+Thoothukudi,8.7642,78.1348,Dindigul,10.3624,77.9695,State Road,131.75,3.11
+Sivakasi,9.4486,77.7984,Dindigul,10.3624,77.9695,Highway,472.39,6.15
+Krishnagiri,12.5192,78.2138,Thanjavur,10.7867,79.1386,Local Road,186.91,3.0
+Sivakasi,9.4486,77.7984,Dindigul,10.3624,77.9695,State Road,324.52,5.23
+Madurai,9.9252,78.1198,Thanjavur,10.7867,79.1386,Local Road,308.68,3.99
+Madurai,9.9252,78.1198,Tirunelveli,8.7139,77.7567,Local Road,475.09,6.11
+Dharmapuri,12.1357,78.1603,Karur,10.9601,78.0766,Local Road,79.82,1.76
+Dharmapuri,12.1357,78.1603,Madurai,9.9252,78.1198,Highway,315.36,5.8
+Dindigul,10.3624,77.9695,Pudukkottai,10.3833,78.8167,Highway,99.16,1.28
+Nagercoil,8.1773,77.4344,Kanchipuram,12.8342,79.7036,Local Road,160.85,3.71
+Pudukkottai,10.3833,78.8167,Vellore,12.9165,79.1325,Local Road,292.61,4.86
+Dharmapuri,12.1357,78.1603,Karur,10.9601,78.0766,Local Road,446.21,9.66
+Dharmapuri,12.1357,78.1603,Madurai,9.9252,78.1198,Local Road,126.54,1.61
+Salem,11.6643,78.146,Pudukkottai,10.3833,78.8167,State Road,220.6,3.81
+Tiruchirappalli,10.7905,78.7047,Dharmapuri,12.1357,78.1603,Highway,474.15,10.19
+Karur,10.9601,78.0766,Thanjavur,10.7867,79.1386,Local Road,386.35,5.84
+Kanchipuram,12.8342,79.7036,Tirunelveli,8.7139,77.7567,Local Road,275.97,5.62
+Erode,11.341,77.7172,Pudukkottai,10.3833,78.8167,Highway,294.11,6.43
+Erode,11.341,77.7172,Krishnagiri,12.5192,78.2138,Highway,283.77,4.38
+Dharmapuri,12.1357,78.1603,Erode,11.341,77.7172,Local Road,317.24,6.23
+Nagercoil,8.1773,77.4344,Dindigul,10.3624,77.9695,Local Road,430.24,8.86
+Cuddalore,11.7447,79.768,Tiruchirappalli,10.7905,78.7047,State Road,153.57,2.78
+Dindigul,10.3624,77.9695,Tiruchirappalli,10.7905,78.7047,State Road,329.71,5.95
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,State Road,226.55,3.64
+Sivakasi,9.4486,77.7984,Kanchipuram,12.8342,79.7036,State Road,372.22,5.06
+Erode,11.341,77.7172,Dharmapuri,12.1357,78.1603,Local Road,352.48,8.02
+Salem,11.6643,78.146,Sivakasi,9.4486,77.7984,State Road,344.63,5.75
+Krishnagiri,12.5192,78.2138,Dharmapuri,12.1357,78.1603,Highway,308.78,4.75
+Karur,10.9601,78.0766,Krishnagiri,12.5192,78.2138,State Road,153.75,2.62
+Chennai,13.0827,80.2707,Vellore,12.9165,79.1325,State Road,374.35,6.34
+Vellore,12.9165,79.1325,Thanjavur,10.7867,79.1386,Highway,213.93,3.59
+Tirunelveli,8.7139,77.7567,Pudukkottai,10.3833,78.8167,Local Road,288.39,5.01
+Coimbatore,11.0168,76.9558,Kanchipuram,12.8342,79.7036,Local Road,81.44,1.73
+Salem,11.6643,78.146,Thoothukudi,8.7642,78.1348,State Road,381.66,5.56
+Dindigul,10.3624,77.9695,Nagercoil,8.1773,77.4344,State Road,277.74,3.81
+Cuddalore,11.7447,79.768,Nagercoil,8.1773,77.4344,State Road,412.58,8.14
+Kanchipuram,12.8342,79.7036,Krishnagiri,12.5192,78.2138,Highway,178.72,2.65
+Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,State Road,240.04,4.76
+Krishnagiri,12.5192,78.2138,Thoothukudi,8.7642,78.1348,Highway,229.72,3.79
+Kanchipuram,12.8342,79.7036,Nagercoil,8.1773,77.4344,State Road,202.04,2.93
+Erode,11.341,77.7172,Chennai,13.0827,80.2707,State Road,144.79,2.11
+Madurai,9.9252,78.1198,Karur,10.9601,78.0766,State Road,484.25,6.17
+Chennai,13.0827,80.2707,Coimbatore,11.0168,76.9558,State Road,450.68,7.56
+Dharmapuri,12.1357,78.1603,Tiruchirappalli,10.7905,78.7047,State Road,208.91,2.67
+Madurai,9.9252,78.1198,Cuddalore,11.7447,79.768,Local Road,382.07,6.47
+Coimbatore,11.0168,76.9558,Karur,10.9601,78.0766,State Road,364.25,4.87
+Vellore,12.9165,79.1325,Thanjavur,10.7867,79.1386,Local Road,144.16,2.49
+Karur,10.9601,78.0766,Vellore,12.9165,79.1325,Local Road,374.54,6.2
+Pudukkottai,10.3833,78.8167,Salem,11.6643,78.146,Local Road,289.38,4.73
+Coimbatore,11.0168,76.9558,Nagercoil,8.1773,77.4344,Highway,226.17,3.49
+Coimbatore,11.0168,76.9558,Vellore,12.9165,79.1325,Highway,70.54,0.94
+Karur,10.9601,78.0766,Cuddalore,11.7447,79.768,Highway,57.82,1.16
+Tirunelveli,8.7139,77.7567,Erode,11.341,77.7172,Local Road,127.6,1.66
+Erode,11.341,77.7172,Krishnagiri,12.5192,78.2138,State Road,312.1,4.95
+Cuddalore,11.7447,79.768,Vellore,12.9165,79.1325,Local Road,305.09,5.67
+Chennai,13.0827,80.2707,Kanchipuram,12.8342,79.7036,Highway,314.99,6.14
+Tirunelveli,8.7139,77.7567,Madurai,9.9252,78.1198,State Road,342.4,6.72
+Pudukkottai,10.3833,78.8167,Thoothukudi,8.7642,78.1348,Local Road,350.46,4.67
+Pudukkottai,10.3833,78.8167,Coimbatore,11.0168,76.9558,State Road,161.58,2.65
+Dindigul,10.3624,77.9695,Coimbatore,11.0168,76.9558,Local Road,130.14,1.64
+Karur,10.9601,78.0766,Krishnagiri,12.5192,78.2138,State Road,113.11,1.44
+Erode,11.341,77.7172,Chennai,13.0827,80.2707,Highway,310.45,6.81
+Erode,11.341,77.7172,Krishnagiri,12.5192,78.2138,State Road,210.36,2.85
+Dindigul,10.3624,77.9695,Madurai,9.9252,78.1198,Local Road,112.77,2.57
+Thanjavur,10.7867,79.1386,Dindigul,10.3624,77.9695,Highway,334.7,5.9
+Salem,11.6643,78.146,Krishnagiri,12.5192,78.2138,Local Road,100.92,1.3
+Coimbatore,11.0168,76.9558,Nagercoil,8.1773,77.4344,Local Road,405.02,8.07
+Dindigul,10.3624,77.9695,Krishnagiri,12.5192,78.2138,Local Road,156.87,2.16
+Nagercoil,8.1773,77.4344,Salem,11.6643,78.146,Local Road,132.58,2.19
+Vellore,12.9165,79.1325,Krishnagiri,12.5192,78.2138,State Road,272.55,5.79
+Tirunelveli,8.7139,77.7567,Dindigul,10.3624,77.9695,Local Road,306.68,7.15
+Erode,11.341,77.7172,Thanjavur,10.7867,79.1386,State Road,484.19,6.88
+Nagercoil,8.1773,77.4344,Dharmapuri,12.1357,78.1603,State Road,308.79,4.06
+Erode,11.341,77.7172,Dharmapuri,12.1357,78.1603,State Road,397.14,5.36
+Sivakasi,9.4486,77.7984,Kanchipuram,12.8342,79.7036,Local Road,192.49,3.55
+Pudukkottai,10.3833,78.8167,Sivakasi,9.4486,77.7984,Local Road,123.15,2.4
+Kanchipuram,12.8342,79.7036,Nagercoil,8.1773,77.4344,Local Road,247.06,3.96
+Dindigul,10.3624,77.9695,Tiruchirappalli,10.7905,78.7047,Local Road,335.42,7.45
+Thanjavur,10.7867,79.1386,Coimbatore,11.0168,76.9558,Local Road,487.19,6.8
+Tiruchirappalli,10.7905,78.7047,Chennai,13.0827,80.2707,Highway,477.71,8.61
+Dharmapuri,12.1357,78.1603,Cuddalore,11.7447,79.768,Local Road,363.13,5.7
+Krishnagiri,12.5192,78.2138,Sivakasi,9.4486,77.7984,Highway,79.35,1.0
+Coimbatore,11.0168,76.9558,Pudukkottai,10.3833,78.8167,Local Road,175.82,2.54
+Vellore,12.9165,79.1325,Tirunelveli,8.7139,77.7567,Local Road,156.08,2.15
+Tirunelveli,8.7139,77.7567,Thoothukudi,8.7642,78.1348,Highway,94.91,1.39
+Cuddalore,11.7447,79.768,Dharmapuri,12.1357,78.1603,Local Road,415.79,5.45
+Dharmapuri,12.1357,78.1603,Salem,11.6643,78.146,Highway,350.76,5.51
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,Local Road,341.36,7.66
+Tiruchirappalli,10.7905,78.7047,Chennai,13.0827,80.2707,Highway,221.62,3.74
+Krishnagiri,12.5192,78.2138,Pudukkottai,10.3833,78.8167,Highway,258.41,4.21
+Salem,11.6643,78.146,Thanjavur,10.7867,79.1386,Highway,189.94,3.29
+Kanchipuram,12.8342,79.7036,Madurai,9.9252,78.1198,State Road,128.77,1.64
+Madurai,9.9252,78.1198,Vellore,12.9165,79.1325,State Road,294.54,5.08
+Salem,11.6643,78.146,Dindigul,10.3624,77.9695,Local Road,242.55,4.52
+Chennai,13.0827,80.2707,Tirunelveli,8.7139,77.7567,Local Road,83.48,1.43
+Thoothukudi,8.7642,78.1348,Cuddalore,11.7447,79.768,Highway,343.38,5.6
+Tirunelveli,8.7139,77.7567,Chennai,13.0827,80.2707,State Road,334.63,7.53
+Dharmapuri,12.1357,78.1603,Krishnagiri,12.5192,78.2138,Highway,212.41,3.41
+Tirunelveli,8.7139,77.7567,Krishnagiri,12.5192,78.2138,State Road,470.88,6.84
+Krishnagiri,12.5192,78.2138,Dindigul,10.3624,77.9695,Local Road,209.12,2.7
+Karur,10.9601,78.0766,Pudukkottai,10.3833,78.8167,Local Road,184.33,4.42
+Cuddalore,11.7447,79.768,Salem,11.6643,78.146,Highway,80.82,1.53
+Dindigul,10.3624,77.9695,Vellore,12.9165,79.1325,State Road,404.46,6.08
+Salem,11.6643,78.146,Sivakasi,9.4486,77.7984,State Road,359.38,4.73
+Thanjavur,10.7867,79.1386,Karur,10.9601,78.0766,Local Road,447.62,9.17
+Thoothukudi,8.7642,78.1348,Thanjavur,10.7867,79.1386,Highway,91.98,1.74
+Tirunelveli,8.7139,77.7567,Thanjavur,10.7867,79.1386,Highway,279.79,6.87
+Salem,11.6643,78.146,Nagercoil,8.1773,77.4344,Local Road,144.91,2.15
+Salem,11.6643,78.146,Pudukkottai,10.3833,78.8167,Highway,198.58,3.81
+Nagercoil,8.1773,77.4344,Thoothukudi,8.7642,78.1348,State Road,52.51,0.79
+Salem,11.6643,78.146,Sivakasi,9.4486,77.7984,State Road,252.2,3.18
+Chennai,13.0827,80.2707,Cuddalore,11.7447,79.768,State Road,333.0,6.7
+Krishnagiri,12.5192,78.2138,Pudukkottai,10.3833,78.8167,Highway,248.25,4.93
+Nagercoil,8.1773,77.4344,Cuddalore,11.7447,79.768,Highway,449.29,8.8
+Karur,10.9601,78.0766,Cuddalore,11.7447,79.768,Local Road,354.73,6.33
+Salem,11.6643,78.146,Thanjavur,10.7867,79.1386,Highway,480.54,8.48
+Tiruchirappalli,10.7905,78.7047,Sivakasi,9.4486,77.7984,State Road,476.18,10.36
+Sivakasi,9.4486,77.7984,Thanjavur,10.7867,79.1386,Local Road,138.37,3.35
+Erode,11.341,77.7172,Chennai,13.0827,80.2707,Local Road,173.38,3.54
+Sivakasi,9.4486,77.7984,Salem,11.6643,78.146,State Road,372.44,8.0
+Pudukkottai,10.3833,78.8167,Nagercoil,8.1773,77.4344,Highway,136.11,3.0
+Dindigul,10.3624,77.9695,Tirunelveli,8.7139,77.7567,Highway,284.62,3.75
+Salem,11.6643,78.146,Sivakasi,9.4486,77.7984,State Road,432.08,6.99
+Chennai,13.0827,80.2707,Karur,10.9601,78.0766,Highway,463.77,10.42
+Tiruchirappalli,10.7905,78.7047,Coimbatore,11.0168,76.9558,Local Road,485.78,6.14
+Tirunelveli,8.7139,77.7567,Erode,11.341,77.7172,Local Road,464.69,8.77
+Sivakasi,9.4486,77.7984,Kanchipuram,12.8342,79.7036,Local Road,88.93,1.56
+Chennai,13.0827,80.2707,Vellore,12.9165,79.1325,State Road,477.1,8.68
+Coimbatore,11.0168,76.9558,Madurai,9.9252,78.1198,State Road,467.61,10.45
+Coimbatore,11.0168,76.9558,Dharmapuri,12.1357,78.1603,Local Road,475.74,11.24
+Coimbatore,11.0168,76.9558,Thanjavur,10.7867,79.1386,State Road,250.55,4.24
+Thanjavur,10.7867,79.1386,Sivakasi,9.4486,77.7984,Local Road,315.36,4.43
+Tiruchirappalli,10.7905,78.7047,Sivakasi,9.4486,77.7984,Local Road,325.23,6.61
+Karur,10.9601,78.0766,Tirunelveli,8.7139,77.7567,Highway,370.32,7.08
+Dindigul,10.3624,77.9695,Thanjavur,10.7867,79.1386,State Road,442.87,6.08
+Sivakasi,9.4486,77.7984,Chennai,13.0827,80.2707,Highway,395.57,5.27
+Sivakasi,9.4486,77.7984,Chennai,13.0827,80.2707,Local Road,310.87,5.05
+Nagercoil,8.1773,77.4344,Dharmapuri,12.1357,78.1603,State Road,143.67,1.85
+Dindigul,10.3624,77.9695,Nagercoil,8.1773,77.4344,Local Road,226.16,4.75
+Salem,11.6643,78.146,Thanjavur,10.7867,79.1386,State Road,71.26,1.01
+Chennai,13.0827,80.2707,Kanchipuram,12.8342,79.7036,State Road,202.53,2.97
+Tirunelveli,8.7139,77.7567,Nagercoil,8.1773,77.4344,Local Road,60.96,1.19
+Vellore,12.9165,79.1325,Thanjavur,10.7867,79.1386,Local Road,170.17,3.88
+Dharmapuri,12.1357,78.1603,Pudukkottai,10.3833,78.8167,Highway,495.55,8.33
+Chennai,13.0827,80.2707,Tiruchirappalli,10.7905,78.7047,State Road,230.13,5.55
+Coimbatore,11.0168,76.9558,Cuddalore,11.7447,79.768,State Road,136.35,1.85
+Tiruchirappalli,10.7905,78.7047,Thoothukudi,8.7642,78.1348,State Road,334.68,7.12
+Salem,11.6643,78.146,Tirunelveli,8.7139,77.7567,State Road,482.61,6.58
+Madurai,9.9252,78.1198,Karur,10.9601,78.0766,Highway,345.44,5.3
+Krishnagiri,12.5192,78.2138,Sivakasi,9.4486,77.7984,State Road,324.55,8.0
+Pudukkottai,10.3833,78.8167,Salem,11.6643,78.146,Highway,118.23,1.64
+Chennai,13.0827,80.2707,Dindigul,10.3624,77.9695,Local Road,414.32,6.19
+Chennai,13.0827,80.2707,Krishnagiri,12.5192,78.2138,Highway,232.76,5.17
+Tirunelveli,8.7139,77.7567,Erode,11.341,77.7172,State Road,412.97,5.81
+Dindigul,10.3624,77.9695,Tiruchirappalli,10.7905,78.7047,Local Road,201.81,3.23
+Erode,11.341,77.7172,Nagercoil,8.1773,77.4344,State Road,154.64,2.24
+Coimbatore,11.0168,76.9558,Pudukkottai,10.3833,78.8167,Highway,139.23,1.98
+Tiruchirappalli,10.7905,78.7047,Vellore,12.9165,79.1325,Highway,305.94,4.43
+Kanchipuram,12.8342,79.7036,Tiruchirappalli,10.7905,78.7047,State Road,140.18,2.57
+Chennai,13.0827,80.2707,Krishnagiri,12.5192,78.2138,Highway,143.82,1.96
+Tiruchirappalli,10.7905,78.7047,Cuddalore,11.7447,79.768,Local Road,208.4,3.87
+Cuddalore,11.7447,79.768,Vellore,12.9165,79.1325,State Road,274.3,6.42
+Sivakasi,9.4486,77.7984,Thanjavur,10.7867,79.1386,State Road,114.59,1.54
+Salem,11.6643,78.146,Dharmapuri,12.1357,78.1603,State Road,124.69,2.06
+Salem,11.6643,78.146,Sivakasi,9.4486,77.7984,Local Road,187.07,4.61
+Dharmapuri,12.1357,78.1603,Thanjavur,10.7867,79.1386,Highway,418.69,5.45
+Nagercoil,8.1773,77.4344,Dindigul,10.3624,77.9695,Local Road,422.37,6.01
+Sivakasi,9.4486,77.7984,Pudukkottai,10.3833,78.8167,State Road,408.59,7.07
+Krishnagiri,12.5192,78.2138,Sivakasi,9.4486,77.7984,Highway,346.99,6.17
+Coimbatore,11.0168,76.9558,Dharmapuri,12.1357,78.1603,State Road,175.2,3.75
+Madurai,9.9252,78.1198,Krishnagiri,12.5192,78.2138,Highway,332.54,5.12
+Cuddalore,11.7447,79.768,Salem,11.6643,78.146,Highway,123.19,1.78
+Vellore,12.9165,79.1325,Coimbatore,11.0168,76.9558,Highway,415.31,6.58
+Tirunelveli,8.7139,77.7567,Kanchipuram,12.8342,79.7036,Highway,259.16,6.29
+Dindigul,10.3624,77.9695,Madurai,9.9252,78.1198,Highway,66.67,1.45
+Salem,11.6643,78.146,Tirunelveli,8.7139,77.7567,Local Road,347.96,5.58
+Krishnagiri,12.5192,78.2138,Erode,11.341,77.7172,Highway,343.25,5.11
+Sivakasi,9.4486,77.7984,Vellore,12.9165,79.1325,State Road,341.61,5.61
+Thoothukudi,8.7642,78.1348,Pudukkottai,10.3833,78.8167,Highway,378.15,7.67
+Karur,10.9601,78.0766,Coimbatore,11.0168,76.9558,Local Road,491.79,11.28
+Sivakasi,9.4486,77.7984,Krishnagiri,12.5192,78.2138,State Road,429.29,9.54
+Dharmapuri,12.1357,78.1603,Krishnagiri,12.5192,78.2138,Local Road,184.17,3.27
+Erode,11.341,77.7172,Madurai,9.9252,78.1198,State Road,81.21,1.2
+Salem,11.6643,78.146,Chennai,13.0827,80.2707,State Road,337.95,5.32
+Cuddalore,11.7447,79.768,Erode,11.341,77.7172,Local Road,80.24,1.03
+Thanjavur,10.7867,79.1386,Erode,11.341,77.7172,Local Road,109.32,2.52
+Dharmapuri,12.1357,78.1603,Krishnagiri,12.5192,78.2138,Local Road,182.08,2.53
+Sivakasi,9.4486,77.7984,Dindigul,10.3624,77.9695,Highway,216.95,3.48
+Vellore,12.9165,79.1325,Madurai,9.9252,78.1198,Local Road,205.39,4.96
+Dindigul,10.3624,77.9695,Thanjavur,10.7867,79.1386,Highway,257.45,3.93
+Thanjavur,10.7867,79.1386,Krishnagiri,12.5192,78.2138,Local Road,87.38,1.22
+Krishnagiri,12.5192,78.2138,Tiruchirappalli,10.7905,78.7047,Highway,221.78,2.9
+Chennai,13.0827,80.2707,Dharmapuri,12.1357,78.1603,Highway,363.43,4.73
+Thoothukudi,8.7642,78.1348,Pudukkottai,10.3833,78.8167,Highway,82.41,1.31
+Dindigul,10.3624,77.9695,Kanchipuram,12.8342,79.7036,Highway,84.27,1.89
+Thoothukudi,8.7642,78.1348,Krishnagiri,12.5192,78.2138,Local Road,443.55,5.88
+Cuddalore,11.7447,79.768,Vellore,12.9165,79.1325,Local Road,122.02,2.03
+Thanjavur,10.7867,79.1386,Sivakasi,9.4486,77.7984,Local Road,145.87,1.9
+Thoothukudi,8.7642,78.1348,Erode,11.341,77.7172,Highway,270.85,4.55
+Krishnagiri,12.5192,78.2138,Erode,11.341,77.7172,State Road,435.8,5.67
+Thanjavur,10.7867,79.1386,Madurai,9.9252,78.1198,Highway,371.61,6.59
+Karur,10.9601,78.0766,Pudukkottai,10.3833,78.8167,State Road,440.57,7.59
+Coimbatore,11.0168,76.9558,Kanchipuram,12.8342,79.7036,Local Road,477.68,7.23
+Cuddalore,11.7447,79.768,Tiruchirappalli,10.7905,78.7047,State Road,113.37,1.94
+Krishnagiri,12.5192,78.2138,Dharmapuri,12.1357,78.1603,Highway,291.57,5.77
+Kanchipuram,12.8342,79.7036,Salem,11.6643,78.146,Local Road,450.19,5.67
+Salem,11.6643,78.146,Kanchipuram,12.8342,79.7036,State Road,261.62,6.26
+Erode,11.341,77.7172,Karur,10.9601,78.0766,Local Road,412.13,8.05
+Pudukkottai,10.3833,78.8167,Cuddalore,11.7447,79.768,Local Road,222.23,3.62
+Madurai,9.9252,78.1198,Krishnagiri,12.5192,78.2138,Local Road,439.92,5.79
+Pudukkottai,10.3833,78.8167,Vellore,12.9165,79.1325,Highway,372.42,4.7
+Vellore,12.9165,79.1325,Kanchipuram,12.8342,79.7036,Highway,391.67,5.38
+Madurai,9.9252,78.1198,Chennai,13.0827,80.2707,Local Road,190.08,2.51
+Thoothukudi,8.7642,78.1348,Erode,11.341,77.7172,State Road,125.47,1.61
+Thanjavur,10.7867,79.1386,Nagercoil,8.1773,77.4344,Local Road,220.73,5.42
+Dharmapuri,12.1357,78.1603,Vellore,12.9165,79.1325,State Road,143.73,2.75
+Coimbatore,11.0168,76.9558,Chennai,13.0827,80.2707,Local Road,89.67,2.18
+Dharmapuri,12.1357,78.1603,Krishnagiri,12.5192,78.2138,Highway,389.83,8.2
+Pudukkottai,10.3833,78.8167,Nagercoil,8.1773,77.4344,Local Road,394.48,6.57
+Madurai,9.9252,78.1198,Pudukkottai,10.3833,78.8167,Highway,381.12,7.44
+Chennai,13.0827,80.2707,Kanchipuram,12.8342,79.7036,Highway,202.35,3.26
+Chennai,13.0827,80.2707,Madurai,9.9252,78.1198,Local Road,449.49,8.28
+Thoothukudi,8.7642,78.1348,Chennai,13.0827,80.2707,Local Road,331.17,5.81
+Erode,11.341,77.7172,Dindigul,10.3624,77.9695,State Road,152.36,2.94
+Vellore,12.9165,79.1325,Salem,11.6643,78.146,State Road,434.63,7.57
+Nagercoil,8.1773,77.4344,Cuddalore,11.7447,79.768,State Road,375.51,5.25
+Sivakasi,9.4486,77.7984,Karur,10.9601,78.0766,State Road,487.21,9.34
+Sivakasi,9.4486,77.7984,Cuddalore,11.7447,79.768,Highway,92.31,1.33
+Karur,10.9601,78.0766,Dindigul,10.3624,77.9695,Highway,332.22,5.01
+Nagercoil,8.1773,77.4344,Madurai,9.9252,78.1198,State Road,425.13,7.68
+Chennai,13.0827,80.2707,Madurai,9.9252,78.1198,Local Road,267.56,4.0
+Coimbatore,11.0168,76.9558,Nagercoil,8.1773,77.4344,State Road,205.43,3.75
+Thanjavur,10.7867,79.1386,Vellore,12.9165,79.1325,Highway,321.27,4.05
+Thoothukudi,8.7642,78.1348,Thanjavur,10.7867,79.1386,Local Road,436.76,8.96
+Thanjavur,10.7867,79.1386,Nagercoil,8.1773,77.4344,State Road,312.98,5.69
+Kanchipuram,12.8342,79.7036,Dindigul,10.3624,77.9695,Local Road,305.08,4.12
+Pudukkottai,10.3833,78.8167,Dharmapuri,12.1357,78.1603,Local Road,92.58,1.53
+Tiruchirappalli,10.7905,78.7047,Tirunelveli,8.7139,77.7567,Local Road,406.85,6.15
+Thanjavur,10.7867,79.1386,Kanchipuram,12.8342,79.7036,State Road,136.12,2.35
+Sivakasi,9.4486,77.7984,Krishnagiri,12.5192,78.2138,State Road,61.94,1.36
+Karur,10.9601,78.0766,Coimbatore,11.0168,76.9558,Local Road,159.14,3.69
+Thanjavur,10.7867,79.1386,Chennai,13.0827,80.2707,State Road,272.83,4.0
+Dharmapuri,12.1357,78.1603,Madurai,9.9252,78.1198,Local Road,377.55,5.22
+Sivakasi,9.4486,77.7984,Thanjavur,10.7867,79.1386,Highway,464.1,6.41
+Tiruchirappalli,10.7905,78.7047,Dharmapuri,12.1357,78.1603,Local Road,363.2,6.09
+Vellore,12.9165,79.1325,Pudukkottai,10.3833,78.8167,Highway,215.65,3.09
+Salem,11.6643,78.146,Dindigul,10.3624,77.9695,Highway,299.4,4.82
+Nagercoil,8.1773,77.4344,Thoothukudi,8.7642,78.1348,State Road,449.01,5.64
+Salem,11.6643,78.146,Vellore,12.9165,79.1325,Highway,252.58,3.52
+Vellore,12.9165,79.1325,Nagercoil,8.1773,77.4344,Highway,344.94,4.51
+Erode,11.341,77.7172,Dharmapuri,12.1357,78.1603,State Road,165.57,2.39
+Madurai,9.9252,78.1198,Erode,11.341,77.7172,Local Road,194.97,2.7
+Madurai,9.9252,78.1198,Tiruchirappalli,10.7905,78.7047,State Road,259.14,4.58
+Karur,10.9601,78.0766,Tirunelveli,8.7139,77.7567,Local Road,274.72,4.63
+Salem,11.6643,78.146,Chennai,13.0827,80.2707,State Road,469.8,6.97
+Tirunelveli,8.7139,77.7567,Salem,11.6643,78.146,State Road,264.06,4.23
+Tirunelveli,8.7139,77.7567,Coimbatore,11.0168,76.9558,Local Road,325.57,5.11
+Erode,11.341,77.7172,Chennai,13.0827,80.2707,State Road,334.1,5.27
+Thanjavur,10.7867,79.1386,Pudukkottai,10.3833,78.8167,State Road,105.21,1.46
+Madurai,9.9252,78.1198,Dharmapuri,12.1357,78.1603,State Road,245.35,4.41
+Thanjavur,10.7867,79.1386,Kanchipuram,12.8342,79.7036,Local Road,203.0,3.35
+Pudukkottai,10.3833,78.8167,Madurai,9.9252,78.1198,State Road,105.85,2.45
+Cuddalore,11.7447,79.768,Madurai,9.9252,78.1198,Local Road,145.05,2.13
+Tirunelveli,8.7139,77.7567,Chennai,13.0827,80.2707,Local Road,411.83,9.8
+Cuddalore,11.7447,79.768,Thoothukudi,8.7642,78.1348,Highway,465.85,7.7
+Madurai,9.9252,78.1198,Karur,10.9601,78.0766,Highway,90.22,1.45
+Krishnagiri,12.5192,78.2138,Vellore,12.9165,79.1325,Local Road,188.67,2.41
+Krishnagiri,12.5192,78.2138,Tirunelveli,8.7139,77.7567,Local Road,365.38,5.42
+Pudukkottai,10.3833,78.8167,Karur,10.9601,78.0766,Highway,453.82,10.34
+Tiruchirappalli,10.7905,78.7047,Kanchipuram,12.8342,79.7036,State Road,311.88,4.55
+Sivakasi,9.4486,77.7984,Coimbatore,11.0168,76.9558,Local Road,99.24,2.25
+Tirunelveli,8.7139,77.7567,Cuddalore,11.7447,79.768,State Road,398.1,7.74
+Coimbatore,11.0168,76.9558,Salem,11.6643,78.146,Local Road,308.28,6.52
+Vellore,12.9165,79.1325,Dharmapuri,12.1357,78.1603,State Road,106.72,2.58
+Dindigul,10.3624,77.9695,Madurai,9.9252,78.1198,State Road,242.05,3.99
+Krishnagiri,12.5192,78.2138,Sivakasi,9.4486,77.7984,Local Road,144.1,2.78
+Karur,10.9601,78.0766,Sivakasi,9.4486,77.7984,Highway,83.56,1.57
+Madurai,9.9252,78.1198,Salem,11.6643,78.146,Local Road,272.71,4.64
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,Local Road,255.52,5.8
+Vellore,12.9165,79.1325,Erode,11.341,77.7172,State Road,246.41,3.17
+Erode,11.341,77.7172,Cuddalore,11.7447,79.768,State Road,222.8,3.28
+Erode,11.341,77.7172,Thanjavur,10.7867,79.1386,State Road,402.96,5.89
+Thoothukudi,8.7642,78.1348,Tirunelveli,8.7139,77.7567,Local Road,364.08,5.18
+Kanchipuram,12.8342,79.7036,Vellore,12.9165,79.1325,Local Road,425.92,5.91
+Tiruchirappalli,10.7905,78.7047,Salem,11.6643,78.146,State Road,362.71,6.57
+Dindigul,10.3624,77.9695,Sivakasi,9.4486,77.7984,Highway,141.32,2.0
+Tirunelveli,8.7139,77.7567,Nagercoil,8.1773,77.4344,State Road,335.17,6.05
+Coimbatore,11.0168,76.9558,Erode,11.341,77.7172,Highway,467.2,6.07
+Madurai,9.9252,78.1198,Thanjavur,10.7867,79.1386,Highway,304.38,5.89
+Cuddalore,11.7447,79.768,Dindigul,10.3624,77.9695,State Road,156.71,2.18
+Erode,11.341,77.7172,Thanjavur,10.7867,79.1386,State Road,302.46,4.16
+Nagercoil,8.1773,77.4344,Dharmapuri,12.1357,78.1603,Highway,173.42,3.99
+Pudukkottai,10.3833,78.8167,Dharmapuri,12.1357,78.1603,Local Road,380.87,7.15
+Nagercoil,8.1773,77.4344,Sivakasi,9.4486,77.7984,Local Road,237.03,5.28
+Cuddalore,11.7447,79.768,Vellore,12.9165,79.1325,State Road,349.96,4.6
+Thanjavur,10.7867,79.1386,Salem,11.6643,78.146,State Road,291.12,4.1
+Coimbatore,11.0168,76.9558,Vellore,12.9165,79.1325,Local Road,172.94,2.82
+Karur,10.9601,78.0766,Pudukkottai,10.3833,78.8167,Local Road,485.86,6.93
+Erode,11.341,77.7172,Dharmapuri,12.1357,78.1603,Highway,396.87,6.93
+Cuddalore,11.7447,79.768,Madurai,9.9252,78.1198,State Road,202.01,4.8
+Erode,11.341,77.7172,Pudukkottai,10.3833,78.8167,Highway,108.75,1.99
+Tiruchirappalli,10.7905,78.7047,Nagercoil,8.1773,77.4344,Highway,103.78,1.55
+Thanjavur,10.7867,79.1386,Madurai,9.9252,78.1198,Local Road,293.64,7.29
+Pudukkottai,10.3833,78.8167,Erode,11.341,77.7172,State Road,307.24,5.57
+Tirunelveli,8.7139,77.7567,Krishnagiri,12.5192,78.2138,State Road,339.83,6.52
+Dindigul,10.3624,77.9695,Coimbatore,11.0168,76.9558,Highway,386.04,5.71
+Coimbatore,11.0168,76.9558,Cuddalore,11.7447,79.768,Highway,180.82,2.3
+Thanjavur,10.7867,79.1386,Dharmapuri,12.1357,78.1603,State Road,103.61,2.4
+Vellore,12.9165,79.1325,Thoothukudi,8.7642,78.1348,State Road,177.92,4.32
+Thanjavur,10.7867,79.1386,Thoothukudi,8.7642,78.1348,State Road,204.9,2.94
+Salem,11.6643,78.146,Thoothukudi,8.7642,78.1348,Local Road,393.49,6.2
+Salem,11.6643,78.146,Sivakasi,9.4486,77.7984,State Road,205.53,2.58
+Tiruchirappalli,10.7905,78.7047,Chennai,13.0827,80.2707,State Road,373.38,8.62
+Tiruchirappalli,10.7905,78.7047,Thanjavur,10.7867,79.1386,State Road,87.49,1.41
+Erode,11.341,77.7172,Dindigul,10.3624,77.9695,Highway,66.09,1.51
+Chennai,13.0827,80.2707,Tiruchirappalli,10.7905,78.7047,Local Road,197.21,3.19
+Chennai,13.0827,80.2707,Salem,11.6643,78.146,State Road,413.5,5.37
+Sivakasi,9.4486,77.7984,Chennai,13.0827,80.2707,State Road,85.63,1.28
+Coimbatore,11.0168,76.9558,Dharmapuri,12.1357,78.1603,State Road,192.02,3.86
+Tiruchirappalli,10.7905,78.7047,Salem,11.6643,78.146,Highway,444.86,5.74
+Thoothukudi,8.7642,78.1348,Kanchipuram,12.8342,79.7036,State Road,170.85,2.53
+Thanjavur,10.7867,79.1386,Dharmapuri,12.1357,78.1603,State Road,171.42,3.09
+Sivakasi,9.4486,77.7984,Dindigul,10.3624,77.9695,Local Road,474.32,5.95
+Tirunelveli,8.7139,77.7567,Nagercoil,8.1773,77.4344,State Road,276.09,3.51
+Madurai,9.9252,78.1198,Cuddalore,11.7447,79.768,Local Road,211.95,3.67
+Erode,11.341,77.7172,Dindigul,10.3624,77.9695,Local Road,452.78,7.29
+Karur,10.9601,78.0766,Pudukkottai,10.3833,78.8167,Local Road,81.74,1.73
+Tirunelveli,8.7139,77.7567,Erode,11.341,77.7172,Highway,148.52,3.52
+Cuddalore,11.7447,79.768,Thanjavur,10.7867,79.1386,Local Road,136.87,3.07
+Thanjavur,10.7867,79.1386,Kanchipuram,12.8342,79.7036,Highway,180.18,2.79
+Thoothukudi,8.7642,78.1348,Thanjavur,10.7867,79.1386,State Road,413.68,9.31
+Krishnagiri,12.5192,78.2138,Madurai,9.9252,78.1198,Local Road,313.19,5.62
+Thanjavur,10.7867,79.1386,Chennai,13.0827,80.2707,State Road,425.38,6.06
+Thoothukudi,8.7642,78.1348,Nagercoil,8.1773,77.4344,Highway,273.39,6.29
+Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,State Road,321.18,7.29
+Thanjavur,10.7867,79.1386,Dharmapuri,12.1357,78.1603,Local Road,383.81,6.9
+Kanchipuram,12.8342,79.7036,Cuddalore,11.7447,79.768,Highway,427.29,8.56
+Madurai,9.9252,78.1198,Tiruchirappalli,10.7905,78.7047,Local Road,187.08,3.87
+Cuddalore,11.7447,79.768,Coimbatore,11.0168,76.9558,Highway,146.76,1.94
+Chennai,13.0827,80.2707,Dindigul,10.3624,77.9695,Local Road,90.81,1.74
+Cuddalore,11.7447,79.768,Pudukkottai,10.3833,78.8167,Local Road,54.58,0.82
+Thoothukudi,8.7642,78.1348,Sivakasi,9.4486,77.7984,State Road,199.61,3.32
+Krishnagiri,12.5192,78.2138,Sivakasi,9.4486,77.7984,Highway,317.74,4.02
+Chennai,13.0827,80.2707,Pudukkottai,10.3833,78.8167,Local Road,498.51,7.3
+Tirunelveli,8.7139,77.7567,Nagercoil,8.1773,77.4344,Highway,365.99,5.59
+Dharmapuri,12.1357,78.1603,Madurai,9.9252,78.1198,Highway,425.48,5.51
+Coimbatore,11.0168,76.9558,Tirunelveli,8.7139,77.7567,Local Road,102.0,1.52
+Thoothukudi,8.7642,78.1348,Karur,10.9601,78.0766,Local Road,87.98,1.61
+Salem,11.6643,78.146,Vellore,12.9165,79.1325,Local Road,53.15,0.82
+Madurai,9.9252,78.1198,Pudukkottai,10.3833,78.8167,Local Road,496.71,11.1
+Pudukkottai,10.3833,78.8167,Chennai,13.0827,80.2707,Local Road,307.09,5.52
+Sivakasi,9.4486,77.7984,Krishnagiri,12.5192,78.2138,Local Road,481.62,8.35
+Krishnagiri,12.5192,78.2138,Madurai,9.9252,78.1198,Highway,472.0,6.94
+Karur,10.9601,78.0766,Pudukkottai,10.3833,78.8167,Local Road,121.45,1.68
+Tiruchirappalli,10.7905,78.7047,Kanchipuram,12.8342,79.7036,Local Road,79.74,1.07
+Dharmapuri,12.1357,78.1603,Erode,11.341,77.7172,Local Road,401.02,9.46
+Thoothukudi,8.7642,78.1348,Chennai,13.0827,80.2707,State Road,444.8,7.42
+Thanjavur,10.7867,79.1386,Chennai,13.0827,80.2707,Local Road,404.0,5.86
+Salem,11.6643,78.146,Chennai,13.0827,80.2707,State Road,295.23,6.05
+Tirunelveli,8.7139,77.7567,Krishnagiri,12.5192,78.2138,Highway,88.19,1.49
+Chennai,13.0827,80.2707,Nagercoil,8.1773,77.4344,Local Road,369.61,8.32
+Dindigul,10.3624,77.9695,Thoothukudi,8.7642,78.1348,State Road,418.99,5.53
+Pudukkottai,10.3833,78.8167,Karur,10.9601,78.0766,Local Road,69.45,1.38
+Nagercoil,8.1773,77.4344,Cuddalore,11.7447,79.768,State Road,414.59,6.11
+Thoothukudi,8.7642,78.1348,Coimbatore,11.0168,76.9558,Highway,463.74,9.78
+Vellore,12.9165,79.1325,Dharmapuri,12.1357,78.1603,Local Road,87.75,1.27
+Chennai,13.0827,80.2707,Tirunelveli,8.7139,77.7567,State Road,249.66,3.64
+Dharmapuri,12.1357,78.1603,Tiruchirappalli,10.7905,78.7047,Local Road,467.4,7.89
+Madurai,9.9252,78.1198,Pudukkottai,10.3833,78.8167,State Road,107.89,1.53
+Chennai,13.0827,80.2707,Tirunelveli,8.7139,77.7567,Highway,174.49,2.51
+Coimbatore,11.0168,76.9558,Nagercoil,8.1773,77.4344,Highway,168.37,3.69
+Chennai,13.0827,80.2707,Kanchipuram,12.8342,79.7036,State Road,206.35,3.13
+Karur,10.9601,78.0766,Madurai,9.9252,78.1198,Highway,63.25,1.52
+Tirunelveli,8.7139,77.7567,Cuddalore,11.7447,79.768,Highway,355.61,6.22
+Karur,10.9601,78.0766,Madurai,9.9252,78.1198,Highway,326.42,5.99
+Tirunelveli,8.7139,77.7567,Kanchipuram,12.8342,79.7036,State Road,92.56,1.19
+Krishnagiri,12.5192,78.2138,Thoothukudi,8.7642,78.1348,State Road,404.85,9.0
+Krishnagiri,12.5192,78.2138,Thoothukudi,8.7642,78.1348,Highway,333.54,6.47
+Kanchipuram,12.8342,79.7036,Krishnagiri,12.5192,78.2138,Highway,262.08,3.33
+Pudukkottai,10.3833,78.8167,Kanchipuram,12.8342,79.7036,Highway,158.09,2.09
+Madurai,9.9252,78.1198,Coimbatore,11.0168,76.9558,State Road,167.1,3.03
+Tiruchirappalli,10.7905,78.7047,Erode,11.341,77.7172,Highway,155.51,2.73
+Vellore,12.9165,79.1325,Dindigul,10.3624,77.9695,Highway,237.4,3.0
+Coimbatore,11.0168,76.9558,Cuddalore,11.7447,79.768,State Road,243.0,5.42
+Dindigul,10.3624,77.9695,Nagercoil,8.1773,77.4344,Highway,293.94,5.56
+Karur,10.9601,78.0766,Kanchipuram,12.8342,79.7036,Highway,372.13,5.43
+Thoothukudi,8.7642,78.1348,Madurai,9.9252,78.1198,Local Road,284.05,6.82
+Kanchipuram,12.8342,79.7036,Dindigul,10.3624,77.9695,State Road,365.85,5.01
+Tirunelveli,8.7139,77.7567,Thoothukudi,8.7642,78.1348,State Road,313.21,4.86
+Tirunelveli,8.7139,77.7567,Thanjavur,10.7867,79.1386,State Road,342.45,4.73
+Tiruchirappalli,10.7905,78.7047,Coimbatore,11.0168,76.9558,Local Road,169.1,2.69
+Dindigul,10.3624,77.9695,Kanchipuram,12.8342,79.7036,Local Road,128.9,2.65
+Tiruchirappalli,10.7905,78.7047,Karur,10.9601,78.0766,Local Road,102.39,2.4
+Thanjavur,10.7867,79.1386,Erode,11.341,77.7172,State Road,103.89,1.45
+Karur,10.9601,78.0766,Thanjavur,10.7867,79.1386,Highway,394.18,6.32
+Dindigul,10.3624,77.9695,Nagercoil,8.1773,77.4344,Highway,358.47,7.27
+Tirunelveli,8.7139,77.7567,Thanjavur,10.7867,79.1386,State Road,361.33,6.02
+Tiruchirappalli,10.7905,78.7047,Tirunelveli,8.7139,77.7567,Local Road,139.32,3.39
+Tiruchirappalli,10.7905,78.7047,Vellore,12.9165,79.1325,Highway,207.15,3.14
+Chennai,13.0827,80.2707,Thoothukudi,8.7642,78.1348,Local Road,171.49,2.65
+Dharmapuri,12.1357,78.1603,Thoothukudi,8.7642,78.1348,Local Road,414.67,5.7
+Dharmapuri,12.1357,78.1603,Tirunelveli,8.7139,77.7567,Highway,347.16,8.03
+Karur,10.9601,78.0766,Pudukkottai,10.3833,78.8167,Highway,112.93,2.28
+Chennai,13.0827,80.2707,Erode,11.341,77.7172,Highway,62.34,1.22
+Salem,11.6643,78.146,Erode,11.341,77.7172,Highway,450.87,9.82
+Kanchipuram,12.8342,79.7036,Vellore,12.9165,79.1325,Local Road,137.02,3.14
+Chennai,13.0827,80.2707,Krishnagiri,12.5192,78.2138,Local Road,81.2,1.59
+Erode,11.341,77.7172,Tiruchirappalli,10.7905,78.7047,Local Road,270.12,5.03
+Thoothukudi,8.7642,78.1348,Kanchipuram,12.8342,79.7036,Local Road,436.21,5.48
+Tiruchirappalli,10.7905,78.7047,Karur,10.9601,78.0766,Highway,163.03,2.31
+Erode,11.341,77.7172,Kanchipuram,12.8342,79.7036,State Road,149.63,2.56
+Salem,11.6643,78.146,Tirunelveli,8.7139,77.7567,Local Road,454.8,9.12
+Dharmapuri,12.1357,78.1603,Dindigul,10.3624,77.9695,Local Road,294.3,4.03
+Coimbatore,11.0168,76.9558,Erode,11.341,77.7172,Highway,134.82,1.89
+Krishnagiri,12.5192,78.2138,Tiruchirappalli,10.7905,78.7047,Highway,405.73,5.87
+Dindigul,10.3624,77.9695,Coimbatore,11.0168,76.9558,State Road,95.79,1.5
+Tirunelveli,8.7139,77.7567,Salem,11.6643,78.146,State Road,331.58,5.9
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,State Road,156.59,2.43
+Chennai,13.0827,80.2707,Coimbatore,11.0168,76.9558,Local Road,89.46,1.46
+Pudukkottai,10.3833,78.8167,Thanjavur,10.7867,79.1386,State Road,395.98,6.13
+Tirunelveli,8.7139,77.7567,Tiruchirappalli,10.7905,78.7047,State Road,167.36,3.5
+Tiruchirappalli,10.7905,78.7047,Coimbatore,11.0168,76.9558,Highway,484.97,8.26
+Erode,11.341,77.7172,Dharmapuri,12.1357,78.1603,Highway,360.52,7.6
+Thoothukudi,8.7642,78.1348,Tiruchirappalli,10.7905,78.7047,State Road,384.1,6.88
+Dharmapuri,12.1357,78.1603,Thanjavur,10.7867,79.1386,State Road,231.56,3.09
+Karur,10.9601,78.0766,Thanjavur,10.7867,79.1386,State Road,375.0,4.96
+Tiruchirappalli,10.7905,78.7047,Salem,11.6643,78.146,Highway,242.05,4.31
+Krishnagiri,12.5192,78.2138,Coimbatore,11.0168,76.9558,State Road,96.29,1.8
+Karur,10.9601,78.0766,Nagercoil,8.1773,77.4344,Highway,201.46,3.92
+Dharmapuri,12.1357,78.1603,Dindigul,10.3624,77.9695,Highway,206.6,3.89
+Karur,10.9601,78.0766,Kanchipuram,12.8342,79.7036,State Road,332.48,6.32
+Thanjavur,10.7867,79.1386,Sivakasi,9.4486,77.7984,State Road,200.29,3.7
+Nagercoil,8.1773,77.4344,Coimbatore,11.0168,76.9558,State Road,336.38,5.3
+Nagercoil,8.1773,77.4344,Vellore,12.9165,79.1325,Local Road,113.28,1.87
+Coimbatore,11.0168,76.9558,Dharmapuri,12.1357,78.1603,Highway,466.94,11.55
+Coimbatore,11.0168,76.9558,Chennai,13.0827,80.2707,Local Road,311.15,4.24
+Sivakasi,9.4486,77.7984,Vellore,12.9165,79.1325,State Road,483.58,7.3
+Chennai,13.0827,80.2707,Dharmapuri,12.1357,78.1603,Local Road,337.03,7.11
+Pudukkottai,10.3833,78.8167,Nagercoil,8.1773,77.4344,Highway,147.09,2.15
+Kanchipuram,12.8342,79.7036,Salem,11.6643,78.146,Highway,329.12,7.33
+Sivakasi,9.4486,77.7984,Salem,11.6643,78.146,Highway,341.83,5.3
+Vellore,12.9165,79.1325,Kanchipuram,12.8342,79.7036,Highway,392.14,5.21
+Dindigul,10.3624,77.9695,Erode,11.341,77.7172,Highway,484.46,9.13
+Nagercoil,8.1773,77.4344,Chennai,13.0827,80.2707,State Road,458.78,10.77
+Nagercoil,8.1773,77.4344,Karur,10.9601,78.0766,State Road,398.24,6.19
+Erode,11.341,77.7172,Karur,10.9601,78.0766,Highway,76.45,1.08
+Nagercoil,8.1773,77.4344,Karur,10.9601,78.0766,Local Road,413.43,8.19
+Salem,11.6643,78.146,Cuddalore,11.7447,79.768,Local Road,386.41,5.9
+Kanchipuram,12.8342,79.7036,Dindigul,10.3624,77.9695,Local Road,409.23,6.78
+Tiruchirappalli,10.7905,78.7047,Salem,11.6643,78.146,Local Road,427.62,10.48
+Tiruchirappalli,10.7905,78.7047,Pudukkottai,10.3833,78.8167,State Road,69.79,1.21
+Tirunelveli,8.7139,77.7567,Kanchipuram,12.8342,79.7036,Highway,399.38,8.79
+Krishnagiri,12.5192,78.2138,Tirunelveli,8.7139,77.7567,State Road,93.38,2.16
+Cuddalore,11.7447,79.768,Dharmapuri,12.1357,78.1603,State Road,220.39,3.41
+Vellore,12.9165,79.1325,Thanjavur,10.7867,79.1386,State Road,134.05,3.22
+Thanjavur,10.7867,79.1386,Nagercoil,8.1773,77.4344,State Road,310.95,6.58
+Erode,11.341,77.7172,Thoothukudi,8.7642,78.1348,Local Road,499.71,11.24
+Kanchipuram,12.8342,79.7036,Tiruchirappalli,10.7905,78.7047,Highway,447.57,9.77
+Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,Local Road,450.61,6.33
+Tiruchirappalli,10.7905,78.7047,Thoothukudi,8.7642,78.1348,Highway,182.5,2.81
+Kanchipuram,12.8342,79.7036,Vellore,12.9165,79.1325,Highway,453.01,5.7
+Nagercoil,8.1773,77.4344,Tirunelveli,8.7139,77.7567,Local Road,247.71,3.41
+Erode,11.341,77.7172,Krishnagiri,12.5192,78.2138,Highway,450.94,5.87
+Nagercoil,8.1773,77.4344,Karur,10.9601,78.0766,State Road,258.62,5.29
+Tirunelveli,8.7139,77.7567,Pudukkottai,10.3833,78.8167,Local Road,410.87,5.39
+Erode,11.341,77.7172,Dharmapuri,12.1357,78.1603,Local Road,352.3,6.61
+Tiruchirappalli,10.7905,78.7047,Chennai,13.0827,80.2707,State Road,178.59,3.02
+Krishnagiri,12.5192,78.2138,Tirunelveli,8.7139,77.7567,State Road,296.24,3.9
+Cuddalore,11.7447,79.768,Thoothukudi,8.7642,78.1348,Local Road,177.49,2.38
+Madurai,9.9252,78.1198,Coimbatore,11.0168,76.9558,Highway,448.4,10.2
+Tirunelveli,8.7139,77.7567,Tiruchirappalli,10.7905,78.7047,Highway,432.8,5.41
+Tirunelveli,8.7139,77.7567,Tiruchirappalli,10.7905,78.7047,Highway,370.96,5.24
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,Highway,487.29,7.8
+Tirunelveli,8.7139,77.7567,Vellore,12.9165,79.1325,Local Road,87.52,1.61
+Vellore,12.9165,79.1325,Madurai,9.9252,78.1198,State Road,430.04,6.73
+Chennai,13.0827,80.2707,Karur,10.9601,78.0766,Local Road,479.59,9.7
+Coimbatore,11.0168,76.9558,Erode,11.341,77.7172,Local Road,328.29,4.23
+Vellore,12.9165,79.1325,Krishnagiri,12.5192,78.2138,State Road,378.76,6.54
+Chennai,13.0827,80.2707,Cuddalore,11.7447,79.768,Highway,425.49,6.84
+Sivakasi,9.4486,77.7984,Tirunelveli,8.7139,77.7567,Highway,312.55,7.1
+Chennai,13.0827,80.2707,Tiruchirappalli,10.7905,78.7047,Local Road,347.51,5.57
+Thoothukudi,8.7642,78.1348,Chennai,13.0827,80.2707,State Road,364.45,8.84
+Thanjavur,10.7867,79.1386,Krishnagiri,12.5192,78.2138,Local Road,452.61,11.06
+Salem,11.6643,78.146,Chennai,13.0827,80.2707,Highway,448.71,7.16
+Pudukkottai,10.3833,78.8167,Tirunelveli,8.7139,77.7567,Local Road,354.27,6.9
+Nagercoil,8.1773,77.4344,Pudukkottai,10.3833,78.8167,Local Road,485.55,7.78
+Krishnagiri,12.5192,78.2138,Vellore,12.9165,79.1325,State Road,366.76,5.8
+Thoothukudi,8.7642,78.1348,Madurai,9.9252,78.1198,Highway,231.49,3.51
+Erode,11.341,77.7172,Madurai,9.9252,78.1198,Highway,207.26,4.26
+Pudukkottai,10.3833,78.8167,Tiruchirappalli,10.7905,78.7047,Local Road,229.35,3.33
+Karur,10.9601,78.0766,Krishnagiri,12.5192,78.2138,State Road,320.69,4.78
+Tirunelveli,8.7139,77.7567,Madurai,9.9252,78.1198,Highway,165.17,2.61
+Thanjavur,10.7867,79.1386,Sivakasi,9.4486,77.7984,Local Road,240.48,4.28
+Dharmapuri,12.1357,78.1603,Tiruchirappalli,10.7905,78.7047,State Road,377.43,5.27
+Sivakasi,9.4486,77.7984,Thoothukudi,8.7642,78.1348,State Road,76.88,1.41
+Salem,11.6643,78.146,Chennai,13.0827,80.2707,Highway,93.36,1.41
+Chennai,13.0827,80.2707,Thoothukudi,8.7642,78.1348,State Road,220.89,3.63
+Pudukkottai,10.3833,78.8167,Karur,10.9601,78.0766,Local Road,414.43,5.23
+Dharmapuri,12.1357,78.1603,Chennai,13.0827,80.2707,State Road,304.71,3.82
+Cuddalore,11.7447,79.768,Madurai,9.9252,78.1198,Local Road,447.12,7.83
+Tiruchirappalli,10.7905,78.7047,Thoothukudi,8.7642,78.1348,State Road,310.44,3.9
+Cuddalore,11.7447,79.768,Chennai,13.0827,80.2707,Highway,238.13,4.38
+Vellore,12.9165,79.1325,Thanjavur,10.7867,79.1386,State Road,188.99,2.69
+Thoothukudi,8.7642,78.1348,Karur,10.9601,78.0766,Local Road,498.36,9.09
+Pudukkottai,10.3833,78.8167,Salem,11.6643,78.146,State Road,309.65,5.05
+Coimbatore,11.0168,76.9558,Madurai,9.9252,78.1198,Local Road,440.72,9.99
+Vellore,12.9165,79.1325,Chennai,13.0827,80.2707,Highway,499.53,8.0
+Coimbatore,11.0168,76.9558,Erode,11.341,77.7172,Highway,107.65,1.82
+Kanchipuram,12.8342,79.7036,Salem,11.6643,78.146,Highway,303.34,6.25
+Krishnagiri,12.5192,78.2138,Tirunelveli,8.7139,77.7567,Highway,386.4,5.09
+Karur,10.9601,78.0766,Chennai,13.0827,80.2707,State Road,331.2,7.79
+Cuddalore,11.7447,79.768,Karur,10.9601,78.0766,Local Road,154.74,2.33
+Dharmapuri,12.1357,78.1603,Cuddalore,11.7447,79.768,Local Road,402.39,5.85
+Kanchipuram,12.8342,79.7036,Nagercoil,8.1773,77.4344,State Road,124.82,2.14
+Dindigul,10.3624,77.9695,Sivakasi,9.4486,77.7984,Highway,309.84,5.13
+Tirunelveli,8.7139,77.7567,Thoothukudi,8.7642,78.1348,Local Road,117.78,2.54
+Pudukkottai,10.3833,78.8167,Kanchipuram,12.8342,79.7036,State Road,207.66,3.06
+Nagercoil,8.1773,77.4344,Tirunelveli,8.7139,77.7567,State Road,368.85,4.87
+Nagercoil,8.1773,77.4344,Coimbatore,11.0168,76.9558,Local Road,481.01,7.43
+Karur,10.9601,78.0766,Thanjavur,10.7867,79.1386,Local Road,350.1,5.67
+Vellore,12.9165,79.1325,Dindigul,10.3624,77.9695,Highway,277.5,4.6
+Salem,11.6643,78.146,Tirunelveli,8.7139,77.7567,Highway,384.25,6.84
+Kanchipuram,12.8342,79.7036,Dharmapuri,12.1357,78.1603,State Road,375.61,8.26
+Thanjavur,10.7867,79.1386,Krishnagiri,12.5192,78.2138,Highway,328.92,5.18
+Erode,11.341,77.7172,Thanjavur,10.7867,79.1386,Local Road,78.77,1.15
+Nagercoil,8.1773,77.4344,Madurai,9.9252,78.1198,Local Road,498.01,7.84
+Pudukkottai,10.3833,78.8167,Karur,10.9601,78.0766,State Road,328.08,4.99
+Coimbatore,11.0168,76.9558,Tirunelveli,8.7139,77.7567,Local Road,144.21,2.96
+Madurai,9.9252,78.1198,Karur,10.9601,78.0766,State Road,269.73,5.31
+Thoothukudi,8.7642,78.1348,Karur,10.9601,78.0766,Highway,412.73,9.36
+Thanjavur,10.7867,79.1386,Salem,11.6643,78.146,Local Road,76.59,1.08
+Erode,11.341,77.7172,Coimbatore,11.0168,76.9558,Local Road,126.01,2.33
+Sivakasi,9.4486,77.7984,Erode,11.341,77.7172,Local Road,429.62,8.62
+Cuddalore,11.7447,79.768,Tiruchirappalli,10.7905,78.7047,State Road,277.13,5.57
+Pudukkottai,10.3833,78.8167,Thoothukudi,8.7642,78.1348,Local Road,196.85,2.63
+Thanjavur,10.7867,79.1386,Vellore,12.9165,79.1325,Highway,330.65,7.95
+Kanchipuram,12.8342,79.7036,Dindigul,10.3624,77.9695,Highway,494.92,7.73
+Pudukkottai,10.3833,78.8167,Madurai,9.9252,78.1198,State Road,307.55,5.38
+Nagercoil,8.1773,77.4344,Cuddalore,11.7447,79.768,Local Road,188.18,2.47
+Dindigul,10.3624,77.9695,Coimbatore,11.0168,76.9558,Local Road,151.37,2.29
+Kanchipuram,12.8342,79.7036,Thanjavur,10.7867,79.1386,State Road,91.82,1.23
+Tiruchirappalli,10.7905,78.7047,Vellore,12.9165,79.1325,Highway,108.43,1.81
+Vellore,12.9165,79.1325,Thanjavur,10.7867,79.1386,State Road,180.37,2.67
+Karur,10.9601,78.0766,Chennai,13.0827,80.2707,Highway,156.79,2.98
+Salem,11.6643,78.146,Madurai,9.9252,78.1198,Local Road,444.58,10.22
+Krishnagiri,12.5192,78.2138,Pudukkottai,10.3833,78.8167,State Road,317.05,4.41
+Dindigul,10.3624,77.9695,Thoothukudi,8.7642,78.1348,State Road,84.84,1.64
+Vellore,12.9165,79.1325,Kanchipuram,12.8342,79.7036,Local Road,400.97,5.93
+Krishnagiri,12.5192,78.2138,Thanjavur,10.7867,79.1386,State Road,307.54,5.42
+Cuddalore,11.7447,79.768,Vellore,12.9165,79.1325,Local Road,63.97,0.97
+Karur,10.9601,78.0766,Salem,11.6643,78.146,Highway,95.38,1.84
+Chennai,13.0827,80.2707,Sivakasi,9.4486,77.7984,State Road,265.56,4.21
+Tiruchirappalli,10.7905,78.7047,Dindigul,10.3624,77.9695,State Road,373.28,6.99
+Madurai,9.9252,78.1198,Erode,11.341,77.7172,State Road,373.22,8.19
+Dharmapuri,12.1357,78.1603,Nagercoil,8.1773,77.4344,State Road,158.68,3.29
+Nagercoil,8.1773,77.4344,Tiruchirappalli,10.7905,78.7047,State Road,187.46,4.06
+Karur,10.9601,78.0766,Dharmapuri,12.1357,78.1603,State Road,110.15,1.48
+Cuddalore,11.7447,79.768,Erode,11.341,77.7172,State Road,280.82,3.86
+Cuddalore,11.7447,79.768,Pudukkottai,10.3833,78.8167,Local Road,384.94,5.63
+Cuddalore,11.7447,79.768,Tiruchirappalli,10.7905,78.7047,Local Road,402.6,5.07
+Salem,11.6643,78.146,Dindigul,10.3624,77.9695,Highway,89.46,1.87
+Erode,11.341,77.7172,Coimbatore,11.0168,76.9558,State Road,388.12,5.0
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,Local Road,105.1,1.46
+Dharmapuri,12.1357,78.1603,Tiruchirappalli,10.7905,78.7047,State Road,369.09,5.34
+Madurai,9.9252,78.1198,Karur,10.9601,78.0766,State Road,269.14,4.07
+Kanchipuram,12.8342,79.7036,Krishnagiri,12.5192,78.2138,Local Road,369.38,8.26
+Chennai,13.0827,80.2707,Cuddalore,11.7447,79.768,State Road,449.76,6.51
+Vellore,12.9165,79.1325,Nagercoil,8.1773,77.4344,Highway,143.68,2.23
+Karur,10.9601,78.0766,Erode,11.341,77.7172,Highway,234.22,3.1
+Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,Highway,456.24,7.56
+Thanjavur,10.7867,79.1386,Chennai,13.0827,80.2707,Highway,205.7,4.12
+Pudukkottai,10.3833,78.8167,Coimbatore,11.0168,76.9558,Local Road,486.12,9.23
+Vellore,12.9165,79.1325,Thoothukudi,8.7642,78.1348,Highway,186.38,2.46
+Tiruchirappalli,10.7905,78.7047,Vellore,12.9165,79.1325,State Road,365.65,7.38
+Cuddalore,11.7447,79.768,Salem,11.6643,78.146,State Road,162.3,2.07
+Kanchipuram,12.8342,79.7036,Vellore,12.9165,79.1325,Highway,327.29,6.22
+Krishnagiri,12.5192,78.2138,Dindigul,10.3624,77.9695,Local Road,58.94,1.47
+Krishnagiri,12.5192,78.2138,Pudukkottai,10.3833,78.8167,Highway,246.85,3.29
+Sivakasi,9.4486,77.7984,Dindigul,10.3624,77.9695,Highway,282.09,4.85
+Nagercoil,8.1773,77.4344,Chennai,13.0827,80.2707,State Road,200.21,3.62
+Nagercoil,8.1773,77.4344,Pudukkottai,10.3833,78.8167,Local Road,260.25,5.19
+Coimbatore,11.0168,76.9558,Nagercoil,8.1773,77.4344,Local Road,120.82,1.64
+Nagercoil,8.1773,77.4344,Kanchipuram,12.8342,79.7036,Local Road,168.97,2.9
+Tirunelveli,8.7139,77.7567,Dindigul,10.3624,77.9695,Highway,393.14,6.46
+Dharmapuri,12.1357,78.1603,Sivakasi,9.4486,77.7984,State Road,438.21,6.2
+Nagercoil,8.1773,77.4344,Sivakasi,9.4486,77.7984,State Road,245.33,3.31
+Cuddalore,11.7447,79.768,Krishnagiri,12.5192,78.2138,Local Road,380.76,6.31
+Salem,11.6643,78.146,Vellore,12.9165,79.1325,State Road,437.36,5.85
+Tirunelveli,8.7139,77.7567,Nagercoil,8.1773,77.4344,State Road,326.51,5.39
+Madurai,9.9252,78.1198,Dindigul,10.3624,77.9695,Highway,204.4,2.67
+Coimbatore,11.0168,76.9558,Karur,10.9601,78.0766,Highway,154.06,2.32
+Sivakasi,9.4486,77.7984,Kanchipuram,12.8342,79.7036,Local Road,180.03,3.22
+Sivakasi,9.4486,77.7984,Karur,10.9601,78.0766,Highway,392.78,6.38
+Krishnagiri,12.5192,78.2138,Erode,11.341,77.7172,Local Road,422.98,8.83
+Madurai,9.9252,78.1198,Tiruchirappalli,10.7905,78.7047,Local Road,316.98,5.93
+Cuddalore,11.7447,79.768,Nagercoil,8.1773,77.4344,Highway,324.93,6.58
+Thoothukudi,8.7642,78.1348,Thanjavur,10.7867,79.1386,State Road,394.1,4.99
+Cuddalore,11.7447,79.768,Erode,11.341,77.7172,Local Road,448.06,10.83
+Coimbatore,11.0168,76.9558,Madurai,9.9252,78.1198,Highway,124.01,1.89
+Tirunelveli,8.7139,77.7567,Coimbatore,11.0168,76.9558,State Road,405.05,5.6
+Thanjavur,10.7867,79.1386,Tirunelveli,8.7139,77.7567,Local Road,356.57,7.78
+Thanjavur,10.7867,79.1386,Kanchipuram,12.8342,79.7036,Local Road,357.86,5.49
+Coimbatore,11.0168,76.9558,Pudukkottai,10.3833,78.8167,State Road,190.4,3.33
+Coimbatore,11.0168,76.9558,Salem,11.6643,78.146,Local Road,306.64,3.93
+Thanjavur,10.7867,79.1386,Vellore,12.9165,79.1325,State Road,275.52,3.55
+Karur,10.9601,78.0766,Madurai,9.9252,78.1198,Highway,207.46,4.07
+Nagercoil,8.1773,77.4344,Karur,10.9601,78.0766,State Road,484.18,7.8
+Cuddalore,11.7447,79.768,Sivakasi,9.4486,77.7984,Local Road,405.09,5.46
+Karur,10.9601,78.0766,Tiruchirappalli,10.7905,78.7047,Local Road,439.43,8.95
+Thanjavur,10.7867,79.1386,Vellore,12.9165,79.1325,Local Road,50.16,0.85
+Erode,11.341,77.7172,Krishnagiri,12.5192,78.2138,Local Road,209.41,2.72
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,State Road,115.84,1.8
+Pudukkottai,10.3833,78.8167,Tirunelveli,8.7139,77.7567,State Road,95.5,2.26
+Tirunelveli,8.7139,77.7567,Sivakasi,9.4486,77.7984,State Road,74.62,1.05
+Thanjavur,10.7867,79.1386,Dharmapuri,12.1357,78.1603,Highway,204.18,4.25
+Dindigul,10.3624,77.9695,Kanchipuram,12.8342,79.7036,Local Road,234.07,3.81
+Coimbatore,11.0168,76.9558,Karur,10.9601,78.0766,State Road,206.29,3.07
+Tirunelveli,8.7139,77.7567,Erode,11.341,77.7172,Local Road,279.05,4.89
+Salem,11.6643,78.146,Sivakasi,9.4486,77.7984,Local Road,263.8,3.31
+Vellore,12.9165,79.1325,Madurai,9.9252,78.1198,Local Road,213.36,3.17
+Chennai,13.0827,80.2707,Coimbatore,11.0168,76.9558,Highway,304.04,4.07
+Dindigul,10.3624,77.9695,Tirunelveli,8.7139,77.7567,Highway,111.72,1.82
+Vellore,12.9165,79.1325,Karur,10.9601,78.0766,State Road,275.56,4.48
+Coimbatore,11.0168,76.9558,Krishnagiri,12.5192,78.2138,Local Road,258.32,3.67
+Nagercoil,8.1773,77.4344,Erode,11.341,77.7172,Local Road,387.97,5.53
+Dindigul,10.3624,77.9695,Tiruchirappalli,10.7905,78.7047,Highway,386.54,5.89
+Tiruchirappalli,10.7905,78.7047,Krishnagiri,12.5192,78.2138,Local Road,344.41,5.1
+Cuddalore,11.7447,79.768,Thoothukudi,8.7642,78.1348,State Road,290.5,4.34
+Thoothukudi,8.7642,78.1348,Thanjavur,10.7867,79.1386,State Road,344.16,6.67
+Coimbatore,11.0168,76.9558,Tirunelveli,8.7139,77.7567,Highway,308.7,5.42
+Thanjavur,10.7867,79.1386,Dharmapuri,12.1357,78.1603,State Road,64.15,1.17
+Cuddalore,11.7447,79.768,Thanjavur,10.7867,79.1386,Highway,337.63,6.16
+Pudukkottai,10.3833,78.8167,Sivakasi,9.4486,77.7984,State Road,376.73,6.53
+Thanjavur,10.7867,79.1386,Erode,11.341,77.7172,Local Road,349.26,4.77
+Salem,11.6643,78.146,Kanchipuram,12.8342,79.7036,Local Road,498.95,6.46
+Thanjavur,10.7867,79.1386,Sivakasi,9.4486,77.7984,Local Road,135.33,2.81
+Dindigul,10.3624,77.9695,Erode,11.341,77.7172,Highway,104.37,1.41
+Krishnagiri,12.5192,78.2138,Dindigul,10.3624,77.9695,State Road,449.97,9.81
+Sivakasi,9.4486,77.7984,Thanjavur,10.7867,79.1386,Highway,298.35,5.28
+Madurai,9.9252,78.1198,Cuddalore,11.7447,79.768,Local Road,404.12,7.91
+Kanchipuram,12.8342,79.7036,Karur,10.9601,78.0766,Highway,70.13,1.01
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,Highway,193.35,4.37
+Thanjavur,10.7867,79.1386,Tirunelveli,8.7139,77.7567,Highway,442.34,8.13
+Sivakasi,9.4486,77.7984,Chennai,13.0827,80.2707,State Road,124.51,1.95
+Thanjavur,10.7867,79.1386,Pudukkottai,10.3833,78.8167,State Road,74.46,0.99
+Salem,11.6643,78.146,Cuddalore,11.7447,79.768,Highway,403.62,5.55
+Kanchipuram,12.8342,79.7036,Tiruchirappalli,10.7905,78.7047,State Road,117.96,2.6
+Vellore,12.9165,79.1325,Erode,11.341,77.7172,Local Road,404.97,5.47
+Thoothukudi,8.7642,78.1348,Salem,11.6643,78.146,Highway,306.33,5.63
+Dharmapuri,12.1357,78.1603,Dindigul,10.3624,77.9695,State Road,328.39,5.76
+Dindigul,10.3624,77.9695,Kanchipuram,12.8342,79.7036,Local Road,137.08,3.16
+Thoothukudi,8.7642,78.1348,Coimbatore,11.0168,76.9558,State Road,497.04,8.83
+Sivakasi,9.4486,77.7984,Thoothukudi,8.7642,78.1348,State Road,476.93,10.79
+Dharmapuri,12.1357,78.1603,Tirunelveli,8.7139,77.7567,State Road,370.66,4.72
+Nagercoil,8.1773,77.4344,Vellore,12.9165,79.1325,Local Road,71.31,1.15
+Dindigul,10.3624,77.9695,Chennai,13.0827,80.2707,Highway,493.66,10.98
+Madurai,9.9252,78.1198,Cuddalore,11.7447,79.768,Local Road,439.84,9.94
+Vellore,12.9165,79.1325,Pudukkottai,10.3833,78.8167,State Road,107.65,1.85
+Coimbatore,11.0168,76.9558,Sivakasi,9.4486,77.7984,State Road,167.32,3.03
+Vellore,12.9165,79.1325,Karur,10.9601,78.0766,State Road,438.8,6.91
+Thanjavur,10.7867,79.1386,Erode,11.341,77.7172,Highway,482.83,8.33
+Coimbatore,11.0168,76.9558,Madurai,9.9252,78.1198,Local Road,393.64,5.62
+Karur,10.9601,78.0766,Thanjavur,10.7867,79.1386,State Road,459.32,6.31
+Nagercoil,8.1773,77.4344,Thanjavur,10.7867,79.1386,Local Road,188.63,2.87
+Dindigul,10.3624,77.9695,Kanchipuram,12.8342,79.7036,Local Road,488.94,6.49
+Karur,10.9601,78.0766,Cuddalore,11.7447,79.768,Local Road,385.06,9.48
+Madurai,9.9252,78.1198,Karur,10.9601,78.0766,Local Road,294.43,5.16
+Tirunelveli,8.7139,77.7567,Krishnagiri,12.5192,78.2138,Local Road,129.41,2.2
+Karur,10.9601,78.0766,Madurai,9.9252,78.1198,Highway,308.25,6.95
+Kanchipuram,12.8342,79.7036,Erode,11.341,77.7172,State Road,461.58,6.05
+Tiruchirappalli,10.7905,78.7047,Vellore,12.9165,79.1325,State Road,258.92,5.57
+Nagercoil,8.1773,77.4344,Tirunelveli,8.7139,77.7567,Local Road,440.02,10.58
+Salem,11.6643,78.146,Coimbatore,11.0168,76.9558,Local Road,343.13,4.38
+Dindigul,10.3624,77.9695,Vellore,12.9165,79.1325,State Road,371.55,6.0
+Tiruchirappalli,10.7905,78.7047,Krishnagiri,12.5192,78.2138,State Road,226.6,4.39
+Vellore,12.9165,79.1325,Krishnagiri,12.5192,78.2138,Highway,230.27,4.13
+Thoothukudi,8.7642,78.1348,Cuddalore,11.7447,79.768,Local Road,133.49,1.81
+Dindigul,10.3624,77.9695,Thoothukudi,8.7642,78.1348,Local Road,61.5,1.38
+Pudukkottai,10.3833,78.8167,Kanchipuram,12.8342,79.7036,Highway,263.93,3.7
+Tiruchirappalli,10.7905,78.7047,Chennai,13.0827,80.2707,Highway,241.13,3.23
+Coimbatore,11.0168,76.9558,Karur,10.9601,78.0766,State Road,384.74,9.08
+Dharmapuri,12.1357,78.1603,Thanjavur,10.7867,79.1386,Local Road,135.87,2.29
+Dharmapuri,12.1357,78.1603,Nagercoil,8.1773,77.4344,Highway,184.86,4.03
+Tirunelveli,8.7139,77.7567,Chennai,13.0827,80.2707,Highway,110.19,1.42
+Thanjavur,10.7867,79.1386,Coimbatore,11.0168,76.9558,Highway,169.89,2.36
+Karur,10.9601,78.0766,Salem,11.6643,78.146,State Road,499.97,8.25
+Kanchipuram,12.8342,79.7036,Dharmapuri,12.1357,78.1603,Local Road,456.89,9.16
+Pudukkottai,10.3833,78.8167,Dharmapuri,12.1357,78.1603,Highway,381.48,8.86
+Tirunelveli,8.7139,77.7567,Krishnagiri,12.5192,78.2138,Local Road,310.22,7.12
+Vellore,12.9165,79.1325,Pudukkottai,10.3833,78.8167,Local Road,385.11,9.5
+Sivakasi,9.4486,77.7984,Coimbatore,11.0168,76.9558,State Road,88.52,1.9
+Karur,10.9601,78.0766,Madurai,9.9252,78.1198,Highway,431.1,6.39
+Krishnagiri,12.5192,78.2138,Dindigul,10.3624,77.9695,Highway,366.6,4.88
+Coimbatore,11.0168,76.9558,Kanchipuram,12.8342,79.7036,Local Road,120.65,1.79
+Cuddalore,11.7447,79.768,Krishnagiri,12.5192,78.2138,Highway,93.74,1.99
+Salem,11.6643,78.146,Krishnagiri,12.5192,78.2138,State Road,309.77,6.45
+Thanjavur,10.7867,79.1386,Dindigul,10.3624,77.9695,Local Road,414.86,9.25
+Dharmapuri,12.1357,78.1603,Sivakasi,9.4486,77.7984,Local Road,277.91,4.19
+Kanchipuram,12.8342,79.7036,Dharmapuri,12.1357,78.1603,Highway,124.59,2.12
+Coimbatore,11.0168,76.9558,Erode,11.341,77.7172,Local Road,128.64,2.16
+Kanchipuram,12.8342,79.7036,Pudukkottai,10.3833,78.8167,Local Road,463.45,11.49
+Dharmapuri,12.1357,78.1603,Thoothukudi,8.7642,78.1348,State Road,193.47,4.64
+Vellore,12.9165,79.1325,Sivakasi,9.4486,77.7984,Local Road,190.65,4.32
+Dindigul,10.3624,77.9695,Tiruchirappalli,10.7905,78.7047,Local Road,180.43,3.39
+Madurai,9.9252,78.1198,Vellore,12.9165,79.1325,State Road,463.81,7.58
+Sivakasi,9.4486,77.7984,Salem,11.6643,78.146,State Road,430.63,7.25
+Chennai,13.0827,80.2707,Tiruchirappalli,10.7905,78.7047,Highway,97.37,1.41
+Nagercoil,8.1773,77.4344,Dindigul,10.3624,77.9695,Highway,237.04,5.14
+Chennai,13.0827,80.2707,Thoothukudi,8.7642,78.1348,State Road,51.8,0.94
+Thoothukudi,8.7642,78.1348,Kanchipuram,12.8342,79.7036,State Road,364.83,4.68
+Karur,10.9601,78.0766,Krishnagiri,12.5192,78.2138,State Road,438.99,9.42
+Dharmapuri,12.1357,78.1603,Krishnagiri,12.5192,78.2138,Highway,248.04,3.28
+Nagercoil,8.1773,77.4344,Erode,11.341,77.7172,Highway,497.64,11.97
+Dharmapuri,12.1357,78.1603,Krishnagiri,12.5192,78.2138,Local Road,305.51,7.2
+Thanjavur,10.7867,79.1386,Karur,10.9601,78.0766,Highway,219.81,5.24
+Coimbatore,11.0168,76.9558,Kanchipuram,12.8342,79.7036,State Road,151.71,3.49
+Coimbatore,11.0168,76.9558,Thoothukudi,8.7642,78.1348,Highway,82.41,1.63
+Erode,11.341,77.7172,Cuddalore,11.7447,79.768,Highway,84.52,1.3
+Tirunelveli,8.7139,77.7567,Sivakasi,9.4486,77.7984,Highway,403.99,5.59
+Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,Highway,478.03,10.03
+Thoothukudi,8.7642,78.1348,Tiruchirappalli,10.7905,78.7047,Local Road,463.18,6.83
+Madurai,9.9252,78.1198,Erode,11.341,77.7172,Local Road,125.86,1.91
+Coimbatore,11.0168,76.9558,Thanjavur,10.7867,79.1386,State Road,150.14,3.54
+Madurai,9.9252,78.1198,Tirunelveli,8.7139,77.7567,Local Road,404.09,8.35
+Thanjavur,10.7867,79.1386,Coimbatore,11.0168,76.9558,Highway,232.57,3.01
+Nagercoil,8.1773,77.4344,Tirunelveli,8.7139,77.7567,Highway,195.55,3.87
+Sivakasi,9.4486,77.7984,Salem,11.6643,78.146,Highway,438.91,9.08
+Cuddalore,11.7447,79.768,Coimbatore,11.0168,76.9558,Highway,409.0,7.24
+Pudukkottai,10.3833,78.8167,Erode,11.341,77.7172,State Road,460.22,8.27
+Chennai,13.0827,80.2707,Krishnagiri,12.5192,78.2138,State Road,433.45,9.1
+Cuddalore,11.7447,79.768,Karur,10.9601,78.0766,State Road,207.71,2.84
+Dindigul,10.3624,77.9695,Nagercoil,8.1773,77.4344,Highway,497.86,9.24
+Tirunelveli,8.7139,77.7567,Kanchipuram,12.8342,79.7036,Local Road,52.14,0.97
+Dindigul,10.3624,77.9695,Kanchipuram,12.8342,79.7036,State Road,288.84,3.94
+Erode,11.341,77.7172,Tirunelveli,8.7139,77.7567,Highway,220.93,4.99
+Nagercoil,8.1773,77.4344,Sivakasi,9.4486,77.7984,Local Road,277.73,6.12
+Chennai,13.0827,80.2707,Tirunelveli,8.7139,77.7567,Highway,83.33,1.24
+Krishnagiri,12.5192,78.2138,Chennai,13.0827,80.2707,State Road,396.46,6.41
+Pudukkottai,10.3833,78.8167,Dharmapuri,12.1357,78.1603,Local Road,136.51,1.8
+Erode,11.341,77.7172,Vellore,12.9165,79.1325,State Road,485.42,10.71
+Sivakasi,9.4486,77.7984,Dindigul,10.3624,77.9695,Highway,339.66,7.49
+Kanchipuram,12.8342,79.7036,Salem,11.6643,78.146,Highway,409.64,6.71
+Madurai,9.9252,78.1198,Kanchipuram,12.8342,79.7036,Highway,305.69,6.5
+Thanjavur,10.7867,79.1386,Madurai,9.9252,78.1198,Highway,266.79,3.96
+Karur,10.9601,78.0766,Nagercoil,8.1773,77.4344,State Road,400.71,9.08
+Dindigul,10.3624,77.9695,Nagercoil,8.1773,77.4344,Highway,315.68,6.8
+Nagercoil,8.1773,77.4344,Pudukkottai,10.3833,78.8167,State Road,160.95,2.3
+Madurai,9.9252,78.1198,Vellore,12.9165,79.1325,Local Road,367.91,8.66
+Thanjavur,10.7867,79.1386,Dharmapuri,12.1357,78.1603,State Road,295.02,4.95
+Chennai,13.0827,80.2707,Krishnagiri,12.5192,78.2138,Highway,382.72,4.98
+Vellore,12.9165,79.1325,Coimbatore,11.0168,76.9558,Highway,272.46,3.8
+Chennai,13.0827,80.2707,Tiruchirappalli,10.7905,78.7047,Local Road,475.03,6.6
+Dindigul,10.3624,77.9695,Kanchipuram,12.8342,79.7036,Local Road,107.8,2.52
+Dindigul,10.3624,77.9695,Dharmapuri,12.1357,78.1603,Highway,331.35,5.1
+Salem,11.6643,78.146,Cuddalore,11.7447,79.768,State Road,472.81,6.08
+Pudukkottai,10.3833,78.8167,Erode,11.341,77.7172,State Road,228.34,2.91
+Cuddalore,11.7447,79.768,Dindigul,10.3624,77.9695,Local Road,237.92,3.09
+Chennai,13.0827,80.2707,Tiruchirappalli,10.7905,78.7047,State Road,56.32,0.75
+Chennai,13.0827,80.2707,Thanjavur,10.7867,79.1386,Highway,185.47,3.47
+Cuddalore,11.7447,79.768,Tiruchirappalli,10.7905,78.7047,Highway,479.94,6.53
+Vellore,12.9165,79.1325,Chennai,13.0827,80.2707,Highway,340.06,4.6
+Madurai,9.9252,78.1198,Coimbatore,11.0168,76.9558,State Road,303.95,4.46
+Dindigul,10.3624,77.9695,Kanchipuram,12.8342,79.7036,Local Road,50.25,0.95
+Tirunelveli,8.7139,77.7567,Karur,10.9601,78.0766,Local Road,415.76,9.86
+Chennai,13.0827,80.2707,Pudukkottai,10.3833,78.8167,Local Road,319.92,4.59
+Salem,11.6643,78.146,Coimbatore,11.0168,76.9558,Local Road,245.17,3.19
+Kanchipuram,12.8342,79.7036,Thoothukudi,8.7642,78.1348,Local Road,442.32,7.36
+Tiruchirappalli,10.7905,78.7047,Cuddalore,11.7447,79.768,Local Road,404.07,6.78
+Salem,11.6643,78.146,Krishnagiri,12.5192,78.2138,Local Road,330.03,7.32
+Dindigul,10.3624,77.9695,Sivakasi,9.4486,77.7984,State Road,147.04,3.32
+Chennai,13.0827,80.2707,Thoothukudi,8.7642,78.1348,Local Road,153.84,2.36
+Coimbatore,11.0168,76.9558,Madurai,9.9252,78.1198,State Road,57.01,1.01
+Krishnagiri,12.5192,78.2138,Thanjavur,10.7867,79.1386,Local Road,288.13,5.07
+Dindigul,10.3624,77.9695,Salem,11.6643,78.146,Local Road,450.78,6.96
+Erode,11.341,77.7172,Cuddalore,11.7447,79.768,Local Road,161.08,2.74
+Sivakasi,9.4486,77.7984,Chennai,13.0827,80.2707,State Road,177.38,4.16
+Madurai,9.9252,78.1198,Pudukkottai,10.3833,78.8167,Local Road,178.8,3.69
+Salem,11.6643,78.146,Dharmapuri,12.1357,78.1603,Local Road,453.68,5.87
+Thanjavur,10.7867,79.1386,Tirunelveli,8.7139,77.7567,Local Road,412.24,8.68
+Salem,11.6643,78.146,Kanchipuram,12.8342,79.7036,Local Road,436.32,6.31
+Cuddalore,11.7447,79.768,Pudukkottai,10.3833,78.8167,Local Road,333.34,4.21
+Sivakasi,9.4486,77.7984,Salem,11.6643,78.146,Highway,354.92,4.7
+Kanchipuram,12.8342,79.7036,Thanjavur,10.7867,79.1386,State Road,482.92,7.66
+Chennai,13.0827,80.2707,Nagercoil,8.1773,77.4344,Highway,255.08,4.96
+Coimbatore,11.0168,76.9558,Erode,11.341,77.7172,State Road,240.67,4.5
+Thanjavur,10.7867,79.1386,Cuddalore,11.7447,79.768,Local Road,455.29,7.29
+Krishnagiri,12.5192,78.2138,Nagercoil,8.1773,77.4344,State Road,74.78,1.49
+Coimbatore,11.0168,76.9558,Vellore,12.9165,79.1325,Highway,194.46,4.14
+Krishnagiri,12.5192,78.2138,Cuddalore,11.7447,79.768,Highway,153.64,3.03
+Sivakasi,9.4486,77.7984,Thoothukudi,8.7642,78.1348,State Road,323.13,5.77
+Kanchipuram,12.8342,79.7036,Thoothukudi,8.7642,78.1348,Highway,127.98,1.85
+Dindigul,10.3624,77.9695,Madurai,9.9252,78.1198,Local Road,119.1,1.93
+Tirunelveli,8.7139,77.7567,Thoothukudi,8.7642,78.1348,Local Road,313.5,4.03
+Karur,10.9601,78.0766,Krishnagiri,12.5192,78.2138,Highway,355.05,8.4
+Krishnagiri,12.5192,78.2138,Tiruchirappalli,10.7905,78.7047,Local Road,396.35,5.59
+Dharmapuri,12.1357,78.1603,Chennai,13.0827,80.2707,State Road,251.26,3.3
+Erode,11.341,77.7172,Dharmapuri,12.1357,78.1603,State Road,127.01,2.68
+Vellore,12.9165,79.1325,Cuddalore,11.7447,79.768,Highway,252.24,3.47
+Sivakasi,9.4486,77.7984,Nagercoil,8.1773,77.4344,Local Road,494.01,10.5
+Tirunelveli,8.7139,77.7567,Tiruchirappalli,10.7905,78.7047,State Road,137.19,1.93
+Salem,11.6643,78.146,Erode,11.341,77.7172,State Road,475.72,9.22
+Tiruchirappalli,10.7905,78.7047,Dharmapuri,12.1357,78.1603,State Road,319.82,4.6
+Karur,10.9601,78.0766,Thanjavur,10.7867,79.1386,Local Road,122.88,1.93
+Vellore,12.9165,79.1325,Erode,11.341,77.7172,Highway,410.65,8.45
+Pudukkottai,10.3833,78.8167,Karur,10.9601,78.0766,Highway,325.58,5.27
+Thanjavur,10.7867,79.1386,Dharmapuri,12.1357,78.1603,State Road,107.39,1.43
+Krishnagiri,12.5192,78.2138,Kanchipuram,12.8342,79.7036,Highway,217.69,4.52
+Nagercoil,8.1773,77.4344,Tirunelveli,8.7139,77.7567,State Road,344.49,5.81
+Pudukkottai,10.3833,78.8167,Dharmapuri,12.1357,78.1603,State Road,63.04,0.93
+Dindigul,10.3624,77.9695,Nagercoil,8.1773,77.4344,Local Road,96.9,1.97
+Coimbatore,11.0168,76.9558,Nagercoil,8.1773,77.4344,State Road,476.15,7.05
+Tirunelveli,8.7139,77.7567,Vellore,12.9165,79.1325,Local Road,260.06,4.71
+Vellore,12.9165,79.1325,Pudukkottai,10.3833,78.8167,State Road,388.64,6.34
+Cuddalore,11.7447,79.768,Karur,10.9601,78.0766,Highway,113.56,1.72
+Coimbatore,11.0168,76.9558,Karur,10.9601,78.0766,Local Road,223.01,3.37
+Tirunelveli,8.7139,77.7567,Vellore,12.9165,79.1325,Local Road,349.01,6.03
+Karur,10.9601,78.0766,Coimbatore,11.0168,76.9558,State Road,176.93,2.47
+Coimbatore,11.0168,76.9558,Salem,11.6643,78.146,Local Road,111.12,2.39
+Sivakasi,9.4486,77.7984,Thoothukudi,8.7642,78.1348,Highway,465.69,6.08
+Cuddalore,11.7447,79.768,Dharmapuri,12.1357,78.1603,State Road,238.43,3.99
+Coimbatore,11.0168,76.9558,Thoothukudi,8.7642,78.1348,Local Road,496.65,6.42
+Thanjavur,10.7867,79.1386,Coimbatore,11.0168,76.9558,Local Road,181.42,2.41
+Nagercoil,8.1773,77.4344,Chennai,13.0827,80.2707,Local Road,252.54,3.28
+Krishnagiri,12.5192,78.2138,Sivakasi,9.4486,77.7984,State Road,186.84,2.41
+Coimbatore,11.0168,76.9558,Thoothukudi,8.7642,78.1348,Local Road,376.99,7.67
+Thoothukudi,8.7642,78.1348,Karur,10.9601,78.0766,State Road,177.84,3.39
+Karur,10.9601,78.0766,Erode,11.341,77.7172,State Road,418.87,6.05
+Karur,10.9601,78.0766,Salem,11.6643,78.146,State Road,355.66,7.7
+Coimbatore,11.0168,76.9558,Chennai,13.0827,80.2707,State Road,113.29,1.55
+Salem,11.6643,78.146,Thoothukudi,8.7642,78.1348,Highway,70.61,0.96
+Madurai,9.9252,78.1198,Dharmapuri,12.1357,78.1603,Highway,205.02,4.9
+Pudukkottai,10.3833,78.8167,Tiruchirappalli,10.7905,78.7047,Highway,264.94,4.99
+Vellore,12.9165,79.1325,Pudukkottai,10.3833,78.8167,State Road,246.77,4.63
+Tiruchirappalli,10.7905,78.7047,Tirunelveli,8.7139,77.7567,State Road,305.02,7.12
+Nagercoil,8.1773,77.4344,Thoothukudi,8.7642,78.1348,Highway,399.68,5.71
+Dharmapuri,12.1357,78.1603,Nagercoil,8.1773,77.4344,Highway,165.94,3.31
+Tirunelveli,8.7139,77.7567,Salem,11.6643,78.146,Highway,50.28,1.11
+Thoothukudi,8.7642,78.1348,Dindigul,10.3624,77.9695,State Road,197.7,3.39
+Coimbatore,11.0168,76.9558,Thanjavur,10.7867,79.1386,Local Road,231.38,3.47
+Erode,11.341,77.7172,Cuddalore,11.7447,79.768,State Road,465.77,6.55
+Madurai,9.9252,78.1198,Chennai,13.0827,80.2707,Local Road,117.47,2.76
+Thanjavur,10.7867,79.1386,Sivakasi,9.4486,77.7984,State Road,495.59,6.6
+Kanchipuram,12.8342,79.7036,Chennai,13.0827,80.2707,Local Road,203.48,2.93
+Dindigul,10.3624,77.9695,Dharmapuri,12.1357,78.1603,State Road,62.11,0.8
+Dharmapuri,12.1357,78.1603,Coimbatore,11.0168,76.9558,Local Road,318.91,6.05
+Madurai,9.9252,78.1198,Dharmapuri,12.1357,78.1603,State Road,422.13,5.59
+Kanchipuram,12.8342,79.7036,Cuddalore,11.7447,79.768,Highway,55.9,1.28
+Tiruchirappalli,10.7905,78.7047,Salem,11.6643,78.146,Local Road,300.86,3.85
+Tiruchirappalli,10.7905,78.7047,Karur,10.9601,78.0766,State Road,215.51,4.35
+Dindigul,10.3624,77.9695,Coimbatore,11.0168,76.9558,State Road,83.13,1.44
+Madurai,9.9252,78.1198,Kanchipuram,12.8342,79.7036,Local Road,441.66,8.99
+Erode,11.341,77.7172,Thanjavur,10.7867,79.1386,Highway,223.96,2.82
+Tiruchirappalli,10.7905,78.7047,Pudukkottai,10.3833,78.8167,Local Road,342.08,5.38
+Karur,10.9601,78.0766,Madurai,9.9252,78.1198,Highway,302.27,5.66
+Dharmapuri,12.1357,78.1603,Krishnagiri,12.5192,78.2138,Highway,428.1,6.27
+Coimbatore,11.0168,76.9558,Sivakasi,9.4486,77.7984,State Road,263.88,4.15
+Pudukkottai,10.3833,78.8167,Thoothukudi,8.7642,78.1348,State Road,180.36,2.97
+Cuddalore,11.7447,79.768,Vellore,12.9165,79.1325,State Road,439.11,6.3
+Dindigul,10.3624,77.9695,Vellore,12.9165,79.1325,State Road,211.05,3.66
+Nagercoil,8.1773,77.4344,Madurai,9.9252,78.1198,State Road,53.43,1.26
+Sivakasi,9.4486,77.7984,Salem,11.6643,78.146,Highway,486.67,10.24
+Chennai,13.0827,80.2707,Tiruchirappalli,10.7905,78.7047,Highway,211.15,3.21
+Dindigul,10.3624,77.9695,Pudukkottai,10.3833,78.8167,State Road,254.24,5.97
+Cuddalore,11.7447,79.768,Tirunelveli,8.7139,77.7567,State Road,450.32,9.33
+Dharmapuri,12.1357,78.1603,Thanjavur,10.7867,79.1386,Local Road,155.22,3.28
+Thanjavur,10.7867,79.1386,Karur,10.9601,78.0766,State Road,217.04,4.17
+Vellore,12.9165,79.1325,Kanchipuram,12.8342,79.7036,Highway,274.81,3.99
+Coimbatore,11.0168,76.9558,Vellore,12.9165,79.1325,Local Road,431.49,10.26
+Kanchipuram,12.8342,79.7036,Coimbatore,11.0168,76.9558,Highway,319.55,7.11
+Madurai,9.9252,78.1198,Tirunelveli,8.7139,77.7567,State Road,449.76,6.64
+Kanchipuram,12.8342,79.7036,Tiruchirappalli,10.7905,78.7047,Highway,464.92,10.41
+Thoothukudi,8.7642,78.1348,Krishnagiri,12.5192,78.2138,Highway,66.28,1.33
+Dharmapuri,12.1357,78.1603,Madurai,9.9252,78.1198,State Road,50.47,1.02
+Thanjavur,10.7867,79.1386,Tiruchirappalli,10.7905,78.7047,Highway,117.33,1.72
+Nagercoil,8.1773,77.4344,Chennai,13.0827,80.2707,Highway,244.61,5.88
+Coimbatore,11.0168,76.9558,Vellore,12.9165,79.1325,Local Road,158.88,2.67
+Tiruchirappalli,10.7905,78.7047,Thanjavur,10.7867,79.1386,State Road,379.21,6.96
+Thanjavur,10.7867,79.1386,Dindigul,10.3624,77.9695,State Road,174.12,2.57
+Karur,10.9601,78.0766,Nagercoil,8.1773,77.4344,Highway,166.67,2.23
+Cuddalore,11.7447,79.768,Sivakasi,9.4486,77.7984,Local Road,372.66,7.73
+Salem,11.6643,78.146,Thoothukudi,8.7642,78.1348,Local Road,491.37,6.62
+Coimbatore,11.0168,76.9558,Thanjavur,10.7867,79.1386,Highway,362.24,5.63
+Erode,11.341,77.7172,Karur,10.9601,78.0766,Highway,286.62,5.52
+Thoothukudi,8.7642,78.1348,Erode,11.341,77.7172,Local Road,358.03,7.68
+Salem,11.6643,78.146,Pudukkottai,10.3833,78.8167,Local Road,392.5,9.07
+Dindigul,10.3624,77.9695,Cuddalore,11.7447,79.768,Highway,394.04,7.72
+Thanjavur,10.7867,79.1386,Vellore,12.9165,79.1325,Highway,321.2,4.11
+Kanchipuram,12.8342,79.7036,Karur,10.9601,78.0766,Local Road,493.97,11.6
+Krishnagiri,12.5192,78.2138,Sivakasi,9.4486,77.7984,Highway,360.27,6.04
+Pudukkottai,10.3833,78.8167,Coimbatore,11.0168,76.9558,Local Road,213.89,5.07
+Thanjavur,10.7867,79.1386,Karur,10.9601,78.0766,State Road,168.56,3.55
+Krishnagiri,12.5192,78.2138,Sivakasi,9.4486,77.7984,Highway,280.49,3.63
+Chennai,13.0827,80.2707,Salem,11.6643,78.146,State Road,179.07,4.34
+Nagercoil,8.1773,77.4344,Vellore,12.9165,79.1325,Local Road,119.72,2.26
+Karur,10.9601,78.0766,Kanchipuram,12.8342,79.7036,Local Road,67.4,1.33
+Krishnagiri,12.5192,78.2138,Thoothukudi,8.7642,78.1348,Local Road,246.02,4.02
+Tirunelveli,8.7139,77.7567,Karur,10.9601,78.0766,Local Road,96.26,2.35
+Tirunelveli,8.7139,77.7567,Cuddalore,11.7447,79.768,Local Road,67.2,1.09
+Tiruchirappalli,10.7905,78.7047,Sivakasi,9.4486,77.7984,State Road,350.97,6.2
+Dindigul,10.3624,77.9695,Krishnagiri,12.5192,78.2138,Highway,226.03,3.45
+Nagercoil,8.1773,77.4344,Vellore,12.9165,79.1325,State Road,119.51,1.58
+Thanjavur,10.7867,79.1386,Nagercoil,8.1773,77.4344,Highway,107.65,1.45
+Karur,10.9601,78.0766,Cuddalore,11.7447,79.768,State Road,134.04,1.93
+Madurai,9.9252,78.1198,Thanjavur,10.7867,79.1386,State Road,138.81,1.8
+Kanchipuram,12.8342,79.7036,Tirunelveli,8.7139,77.7567,Highway,88.02,1.18
+Madurai,9.9252,78.1198,Cuddalore,11.7447,79.768,Highway,234.54,3.71
+Cuddalore,11.7447,79.768,Coimbatore,11.0168,76.9558,Local Road,279.09,4.88
+Thanjavur,10.7867,79.1386,Erode,11.341,77.7172,Local Road,165.85,2.22
+Chennai,13.0827,80.2707,Dindigul,10.3624,77.9695,State Road,164.06,2.83
+Tiruchirappalli,10.7905,78.7047,Dindigul,10.3624,77.9695,State Road,166.91,3.85
+Tiruchirappalli,10.7905,78.7047,Cuddalore,11.7447,79.768,Highway,237.57,3.8
+Thoothukudi,8.7642,78.1348,Nagercoil,8.1773,77.4344,Highway,421.23,9.88
+Krishnagiri,12.5192,78.2138,Karur,10.9601,78.0766,Highway,282.86,4.17
+Tiruchirappalli,10.7905,78.7047,Nagercoil,8.1773,77.4344,State Road,227.75,2.92
+Tiruchirappalli,10.7905,78.7047,Krishnagiri,12.5192,78.2138,Local Road,127.21,2.21
+Coimbatore,11.0168,76.9558,Tirunelveli,8.7139,77.7567,Highway,243.49,3.33
+Thoothukudi,8.7642,78.1348,Thanjavur,10.7867,79.1386,Local Road,339.34,6.74
+Dindigul,10.3624,77.9695,Dharmapuri,12.1357,78.1603,State Road,144.98,2.99
+Dharmapuri,12.1357,78.1603,Kanchipuram,12.8342,79.7036,Highway,238.65,4.82
+Kanchipuram,12.8342,79.7036,Dharmapuri,12.1357,78.1603,State Road,97.78,1.98
+Cuddalore,11.7447,79.768,Dindigul,10.3624,77.9695,State Road,475.36,6.68
+Sivakasi,9.4486,77.7984,Nagercoil,8.1773,77.4344,State Road,379.94,8.47
+Dindigul,10.3624,77.9695,Thanjavur,10.7867,79.1386,Local Road,191.31,2.9
+Karur,10.9601,78.0766,Coimbatore,11.0168,76.9558,Local Road,396.53,9.25
+Salem,11.6643,78.146,Tirunelveli,8.7139,77.7567,Local Road,366.69,4.73
+Sivakasi,9.4486,77.7984,Vellore,12.9165,79.1325,State Road,472.6,7.11
+Coimbatore,11.0168,76.9558,Dindigul,10.3624,77.9695,Highway,195.8,2.54
+Tiruchirappalli,10.7905,78.7047,Kanchipuram,12.8342,79.7036,State Road,295.26,3.93
+Vellore,12.9165,79.1325,Thoothukudi,8.7642,78.1348,Highway,395.13,8.82
+Pudukkottai,10.3833,78.8167,Dharmapuri,12.1357,78.1603,State Road,94.63,1.45
+Thanjavur,10.7867,79.1386,Karur,10.9601,78.0766,State Road,258.1,3.35
+Vellore,12.9165,79.1325,Nagercoil,8.1773,77.4344,Local Road,184.21,3.63
+Tirunelveli,8.7139,77.7567,Madurai,9.9252,78.1198,Local Road,255.47,4.84
+Chennai,13.0827,80.2707,Karur,10.9601,78.0766,Highway,210.84,4.51
+Krishnagiri,12.5192,78.2138,Karur,10.9601,78.0766,State Road,301.68,3.93
+Thoothukudi,8.7642,78.1348,Salem,11.6643,78.146,State Road,268.35,4.38
+Coimbatore,11.0168,76.9558,Dindigul,10.3624,77.9695,Highway,96.26,1.45
+Karur,10.9601,78.0766,Madurai,9.9252,78.1198,State Road,444.11,10.15
+Sivakasi,9.4486,77.7984,Chennai,13.0827,80.2707,State Road,110.16,1.41
+Dharmapuri,12.1357,78.1603,Sivakasi,9.4486,77.7984,Highway,317.56,4.28
+Cuddalore,11.7447,79.768,Karur,10.9601,78.0766,State Road,195.79,4.16
+Sivakasi,9.4486,77.7984,Thoothukudi,8.7642,78.1348,Highway,393.6,5.83
+Dharmapuri,12.1357,78.1603,Tirunelveli,8.7139,77.7567,State Road,385.83,7.16
+Salem,11.6643,78.146,Dharmapuri,12.1357,78.1603,Local Road,302.51,6.67
+Tiruchirappalli,10.7905,78.7047,Karur,10.9601,78.0766,State Road,346.98,4.66
+Chennai,13.0827,80.2707,Vellore,12.9165,79.1325,Local Road,147.16,2.31
+Kanchipuram,12.8342,79.7036,Thanjavur,10.7867,79.1386,State Road,375.85,4.94
+Coimbatore,11.0168,76.9558,Thoothukudi,8.7642,78.1348,State Road,478.9,7.56
+Dharmapuri,12.1357,78.1603,Pudukkottai,10.3833,78.8167,State Road,152.3,3.32
+Coimbatore,11.0168,76.9558,Madurai,9.9252,78.1198,Local Road,445.87,10.38
+Tiruchirappalli,10.7905,78.7047,Krishnagiri,12.5192,78.2138,State Road,251.38,3.6
+Vellore,12.9165,79.1325,Krishnagiri,12.5192,78.2138,Local Road,476.27,10.83
+Dindigul,10.3624,77.9695,Pudukkottai,10.3833,78.8167,Local Road,376.39,5.82
+Pudukkottai,10.3833,78.8167,Dharmapuri,12.1357,78.1603,Local Road,348.41,8.27
+Sivakasi,9.4486,77.7984,Karur,10.9601,78.0766,State Road,280.6,5.23
+Pudukkottai,10.3833,78.8167,Salem,11.6643,78.146,Local Road,52.99,0.92
+Karur,10.9601,78.0766,Thoothukudi,8.7642,78.1348,Highway,100.84,1.33
+Thoothukudi,8.7642,78.1348,Kanchipuram,12.8342,79.7036,Highway,122.24,2.06
+Kanchipuram,12.8342,79.7036,Vellore,12.9165,79.1325,Highway,478.12,7.72
+Thoothukudi,8.7642,78.1348,Sivakasi,9.4486,77.7984,State Road,167.41,2.41
+Cuddalore,11.7447,79.768,Tiruchirappalli,10.7905,78.7047,State Road,76.15,1.49
+Karur,10.9601,78.0766,Nagercoil,8.1773,77.4344,Local Road,197.92,2.99
+Thanjavur,10.7867,79.1386,Cuddalore,11.7447,79.768,State Road,331.99,5.15
+Nagercoil,8.1773,77.4344,Thoothukudi,8.7642,78.1348,Highway,129.14,2.79
+Vellore,12.9165,79.1325,Salem,11.6643,78.146,Local Road,65.4,1.44
+Sivakasi,9.4486,77.7984,Coimbatore,11.0168,76.9558,Local Road,478.81,6.43
+Madurai,9.9252,78.1198,Thanjavur,10.7867,79.1386,Highway,270.33,4.73
+Sivakasi,9.4486,77.7984,Tirunelveli,8.7139,77.7567,Local Road,419.97,7.54
+Salem,11.6643,78.146,Dharmapuri,12.1357,78.1603,Local Road,333.75,5.72
+Erode,11.341,77.7172,Madurai,9.9252,78.1198,Highway,251.61,4.17
+Pudukkottai,10.3833,78.8167,Thoothukudi,8.7642,78.1348,State Road,138.85,3.4
+Karur,10.9601,78.0766,Coimbatore,11.0168,76.9558,Local Road,237.06,3.24
+Pudukkottai,10.3833,78.8167,Sivakasi,9.4486,77.7984,Highway,390.59,7.89
+Nagercoil,8.1773,77.4344,Krishnagiri,12.5192,78.2138,State Road,91.91,1.58
+Tiruchirappalli,10.7905,78.7047,Cuddalore,11.7447,79.768,Local Road,377.81,5.28
+Thoothukudi,8.7642,78.1348,Coimbatore,11.0168,76.9558,State Road,155.1,3.14
+Coimbatore,11.0168,76.9558,Nagercoil,8.1773,77.4344,Local Road,331.2,7.21
+Vellore,12.9165,79.1325,Pudukkottai,10.3833,78.8167,Local Road,99.72,1.87
+Dharmapuri,12.1357,78.1603,Nagercoil,8.1773,77.4344,Highway,323.36,6.07
+Tiruchirappalli,10.7905,78.7047,Thanjavur,10.7867,79.1386,State Road,120.89,2.37
+Thoothukudi,8.7642,78.1348,Tiruchirappalli,10.7905,78.7047,State Road,330.63,8.21
+Vellore,12.9165,79.1325,Tiruchirappalli,10.7905,78.7047,State Road,266.59,3.44
+Pudukkottai,10.3833,78.8167,Chennai,13.0827,80.2707,Local Road,314.69,5.13
+Nagercoil,8.1773,77.4344,Vellore,12.9165,79.1325,State Road,263.5,4.06
+Nagercoil,8.1773,77.4344,Chennai,13.0827,80.2707,State Road,234.11,4.06
+Erode,11.341,77.7172,Tirunelveli,8.7139,77.7567,Highway,99.87,1.51
+Tiruchirappalli,10.7905,78.7047,Salem,11.6643,78.146,Highway,54.44,1.13
+Chennai,13.0827,80.2707,Dharmapuri,12.1357,78.1603,Local Road,391.31,5.59
+Dharmapuri,12.1357,78.1603,Nagercoil,8.1773,77.4344,Local Road,419.83,8.85
+Erode,11.341,77.7172,Chennai,13.0827,80.2707,Highway,426.75,9.89
+Pudukkottai,10.3833,78.8167,Cuddalore,11.7447,79.768,Highway,347.72,7.16
+Dharmapuri,12.1357,78.1603,Nagercoil,8.1773,77.4344,Highway,261.13,5.12
+Tiruchirappalli,10.7905,78.7047,Krishnagiri,12.5192,78.2138,Local Road,159.63,2.62
+Krishnagiri,12.5192,78.2138,Sivakasi,9.4486,77.7984,Highway,361.26,4.79
+Pudukkottai,10.3833,78.8167,Chennai,13.0827,80.2707,Highway,299.95,4.15
+Coimbatore,11.0168,76.9558,Nagercoil,8.1773,77.4344,State Road,481.04,10.02
+Chennai,13.0827,80.2707,Vellore,12.9165,79.1325,State Road,499.84,6.47
+Thoothukudi,8.7642,78.1348,Madurai,9.9252,78.1198,Highway,154.4,2.56
+Karur,10.9601,78.0766,Coimbatore,11.0168,76.9558,State Road,204.78,3.62
+Dharmapuri,12.1357,78.1603,Krishnagiri,12.5192,78.2138,State Road,113.04,1.92
+Tirunelveli,8.7139,77.7567,Chennai,13.0827,80.2707,Highway,142.0,2.2
+Dindigul,10.3624,77.9695,Krishnagiri,12.5192,78.2138,Highway,137.59,1.74
+Nagercoil,8.1773,77.4344,Pudukkottai,10.3833,78.8167,State Road,343.7,5.65
+Madurai,9.9252,78.1198,Erode,11.341,77.7172,State Road,390.47,8.69
+Chennai,13.0827,80.2707,Tiruchirappalli,10.7905,78.7047,Local Road,258.07,4.83
+Madurai,9.9252,78.1198,Erode,11.341,77.7172,Highway,200.21,3.68
+Sivakasi,9.4486,77.7984,Salem,11.6643,78.146,State Road,224.89,4.81
+Vellore,12.9165,79.1325,Nagercoil,8.1773,77.4344,Local Road,382.89,5.32
+Salem,11.6643,78.146,Coimbatore,11.0168,76.9558,Local Road,85.13,1.2
+Erode,11.341,77.7172,Tirunelveli,8.7139,77.7567,Local Road,478.34,8.92
+Thanjavur,10.7867,79.1386,Tiruchirappalli,10.7905,78.7047,Local Road,393.02,9.36
+Thanjavur,10.7867,79.1386,Kanchipuram,12.8342,79.7036,Highway,387.74,5.75
+Nagercoil,8.1773,77.4344,Thoothukudi,8.7642,78.1348,Highway,140.33,3.36
+Coimbatore,11.0168,76.9558,Kanchipuram,12.8342,79.7036,Highway,151.46,2.53
+Salem,11.6643,78.146,Dindigul,10.3624,77.9695,State Road,294.34,6.08
+Vellore,12.9165,79.1325,Erode,11.341,77.7172,Local Road,244.26,3.76
+Krishnagiri,12.5192,78.2138,Coimbatore,11.0168,76.9558,Highway,382.1,9.14
+Sivakasi,9.4486,77.7984,Tiruchirappalli,10.7905,78.7047,State Road,213.48,3.48
+Tirunelveli,8.7139,77.7567,Cuddalore,11.7447,79.768,State Road,258.83,5.0
+Tirunelveli,8.7139,77.7567,Coimbatore,11.0168,76.9558,Local Road,213.75,3.29
+Tirunelveli,8.7139,77.7567,Cuddalore,11.7447,79.768,Highway,161.66,2.92
+Nagercoil,8.1773,77.4344,Thoothukudi,8.7642,78.1348,Local Road,467.73,8.75
+Dharmapuri,12.1357,78.1603,Madurai,9.9252,78.1198,Local Road,231.92,5.78
+Thoothukudi,8.7642,78.1348,Pudukkottai,10.3833,78.8167,State Road,282.56,6.84
+Karur,10.9601,78.0766,Tiruchirappalli,10.7905,78.7047,Highway,264.12,4.81
+Dharmapuri,12.1357,78.1603,Pudukkottai,10.3833,78.8167,Local Road,327.33,4.96
+Sivakasi,9.4486,77.7984,Erode,11.341,77.7172,Local Road,137.16,2.45
+Thoothukudi,8.7642,78.1348,Vellore,12.9165,79.1325,Local Road,396.31,5.41
+Thoothukudi,8.7642,78.1348,Salem,11.6643,78.146,Local Road,447.7,7.73
+Krishnagiri,12.5192,78.2138,Nagercoil,8.1773,77.4344,Highway,307.93,4.84
+Dindigul,10.3624,77.9695,Dharmapuri,12.1357,78.1603,Highway,481.19,8.05
+Vellore,12.9165,79.1325,Chennai,13.0827,80.2707,State Road,245.63,3.96
+Tiruchirappalli,10.7905,78.7047,Madurai,9.9252,78.1198,Highway,91.99,1.5
+Thoothukudi,8.7642,78.1348,Dharmapuri,12.1357,78.1603,Highway,389.14,5.97
+Krishnagiri,12.5192,78.2138,Thanjavur,10.7867,79.1386,Highway,96.21,2.38
+Chennai,13.0827,80.2707,Tirunelveli,8.7139,77.7567,State Road,254.0,4.12
+Thanjavur,10.7867,79.1386,Madurai,9.9252,78.1198,Highway,68.86,1.12
+Salem,11.6643,78.146,Thoothukudi,8.7642,78.1348,Highway,125.61,1.94
+Sivakasi,9.4486,77.7984,Tiruchirappalli,10.7905,78.7047,Highway,52.26,0.76
+Sivakasi,9.4486,77.7984,Madurai,9.9252,78.1198,State Road,204.99,2.96
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,Highway,347.28,4.36
+Coimbatore,11.0168,76.9558,Karur,10.9601,78.0766,Highway,399.55,7.39
+Dindigul,10.3624,77.9695,Vellore,12.9165,79.1325,State Road,402.03,9.76
+Pudukkottai,10.3833,78.8167,Kanchipuram,12.8342,79.7036,Highway,105.63,1.65
+Thanjavur,10.7867,79.1386,Cuddalore,11.7447,79.768,State Road,428.79,8.37
+Madurai,9.9252,78.1198,Coimbatore,11.0168,76.9558,Highway,335.59,5.1
+Sivakasi,9.4486,77.7984,Nagercoil,8.1773,77.4344,Local Road,134.58,1.83
+Thoothukudi,8.7642,78.1348,Coimbatore,11.0168,76.9558,State Road,493.9,6.83
+Coimbatore,11.0168,76.9558,Madurai,9.9252,78.1198,State Road,162.82,2.09
+Vellore,12.9165,79.1325,Tiruchirappalli,10.7905,78.7047,Highway,420.45,6.32
+Vellore,12.9165,79.1325,Dindigul,10.3624,77.9695,Local Road,332.71,4.27
+Erode,11.341,77.7172,Tiruchirappalli,10.7905,78.7047,State Road,462.42,6.82
+Pudukkottai,10.3833,78.8167,Karur,10.9601,78.0766,Local Road,399.42,5.67
+Thoothukudi,8.7642,78.1348,Pudukkottai,10.3833,78.8167,Highway,230.91,3.47
+Sivakasi,9.4486,77.7984,Dharmapuri,12.1357,78.1603,Highway,494.16,8.13
+Thanjavur,10.7867,79.1386,Madurai,9.9252,78.1198,State Road,271.66,5.72
+Erode,11.341,77.7172,Coimbatore,11.0168,76.9558,Highway,234.8,2.99
+Thanjavur,10.7867,79.1386,Kanchipuram,12.8342,79.7036,Local Road,419.49,6.78
+Krishnagiri,12.5192,78.2138,Erode,11.341,77.7172,State Road,216.64,3.88
+Thoothukudi,8.7642,78.1348,Coimbatore,11.0168,76.9558,Highway,324.17,7.56
+Nagercoil,8.1773,77.4344,Karur,10.9601,78.0766,State Road,361.33,4.73
+Dindigul,10.3624,77.9695,Madurai,9.9252,78.1198,State Road,376.99,6.16
+Tirunelveli,8.7139,77.7567,Sivakasi,9.4486,77.7984,State Road,247.72,4.54
+Tiruchirappalli,10.7905,78.7047,Tirunelveli,8.7139,77.7567,State Road,472.59,6.32
+Tirunelveli,8.7139,77.7567,Erode,11.341,77.7172,State Road,446.8,10.31
+Sivakasi,9.4486,77.7984,Thoothukudi,8.7642,78.1348,Highway,209.14,4.79
+Dindigul,10.3624,77.9695,Pudukkottai,10.3833,78.8167,Highway,165.5,2.67
+Madurai,9.9252,78.1198,Coimbatore,11.0168,76.9558,State Road,241.07,5.18
+Tirunelveli,8.7139,77.7567,Salem,11.6643,78.146,Local Road,259.2,3.97
+Erode,11.341,77.7172,Kanchipuram,12.8342,79.7036,State Road,226.3,3.74
+Kanchipuram,12.8342,79.7036,Erode,11.341,77.7172,Local Road,378.3,6.07
+Nagercoil,8.1773,77.4344,Salem,11.6643,78.146,State Road,487.23,6.73
+Dharmapuri,12.1357,78.1603,Thanjavur,10.7867,79.1386,Highway,386.35,5.52
+Krishnagiri,12.5192,78.2138,Thoothukudi,8.7642,78.1348,Local Road,229.77,4.92
+Cuddalore,11.7447,79.768,Nagercoil,8.1773,77.4344,Highway,193.42,2.61
+Krishnagiri,12.5192,78.2138,Dharmapuri,12.1357,78.1603,Highway,167.9,2.16
+Thanjavur,10.7867,79.1386,Sivakasi,9.4486,77.7984,Highway,470.93,10.02
+Madurai,9.9252,78.1198,Thanjavur,10.7867,79.1386,Highway,467.14,11.12
+Thanjavur,10.7867,79.1386,Erode,11.341,77.7172,Local Road,222.36,3.79
+Tirunelveli,8.7139,77.7567,Tiruchirappalli,10.7905,78.7047,State Road,286.11,4.13
+Thanjavur,10.7867,79.1386,Dindigul,10.3624,77.9695,State Road,185.88,2.88
+Karur,10.9601,78.0766,Vellore,12.9165,79.1325,Highway,402.34,5.24
+Pudukkottai,10.3833,78.8167,Sivakasi,9.4486,77.7984,State Road,368.58,6.64
+Thoothukudi,8.7642,78.1348,Krishnagiri,12.5192,78.2138,Highway,323.09,4.22
+Nagercoil,8.1773,77.4344,Tiruchirappalli,10.7905,78.7047,Local Road,144.19,1.89
+Chennai,13.0827,80.2707,Cuddalore,11.7447,79.768,State Road,297.58,6.99
+Dharmapuri,12.1357,78.1603,Nagercoil,8.1773,77.4344,Local Road,105.93,1.37
+Chennai,13.0827,80.2707,Madurai,9.9252,78.1198,Local Road,135.95,2.68
+Pudukkottai,10.3833,78.8167,Coimbatore,11.0168,76.9558,State Road,174.97,2.35
+Sivakasi,9.4486,77.7984,Nagercoil,8.1773,77.4344,Highway,257.84,3.46
+Kanchipuram,12.8342,79.7036,Chennai,13.0827,80.2707,State Road,156.78,2.2
+Salem,11.6643,78.146,Chennai,13.0827,80.2707,Highway,163.64,2.06
+Pudukkottai,10.3833,78.8167,Madurai,9.9252,78.1198,Local Road,380.88,5.44
+Kanchipuram,12.8342,79.7036,Nagercoil,8.1773,77.4344,State Road,306.15,5.2
+Sivakasi,9.4486,77.7984,Erode,11.341,77.7172,Local Road,171.32,3.81
+Krishnagiri,12.5192,78.2138,Madurai,9.9252,78.1198,State Road,182.36,3.19
+Coimbatore,11.0168,76.9558,Krishnagiri,12.5192,78.2138,State Road,385.75,5.21
+Kanchipuram,12.8342,79.7036,Coimbatore,11.0168,76.9558,State Road,279.24,6.77
+Tirunelveli,8.7139,77.7567,Dharmapuri,12.1357,78.1603,State Road,394.94,6.14
+Vellore,12.9165,79.1325,Thoothukudi,8.7642,78.1348,Local Road,481.75,11.18
+Nagercoil,8.1773,77.4344,Kanchipuram,12.8342,79.7036,State Road,170.49,3.16
+Erode,11.341,77.7172,Nagercoil,8.1773,77.4344,State Road,208.14,3.31
+Madurai,9.9252,78.1198,Coimbatore,11.0168,76.9558,Local Road,90.18,1.37
+Thoothukudi,8.7642,78.1348,Karur,10.9601,78.0766,State Road,421.65,5.53
+Nagercoil,8.1773,77.4344,Dharmapuri,12.1357,78.1603,Highway,444.42,6.92
+Thoothukudi,8.7642,78.1348,Nagercoil,8.1773,77.4344,State Road,78.39,1.09
+Vellore,12.9165,79.1325,Dindigul,10.3624,77.9695,Local Road,442.96,7.79
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,State Road,188.47,3.08
+Vellore,12.9165,79.1325,Cuddalore,11.7447,79.768,State Road,327.18,4.55
+Kanchipuram,12.8342,79.7036,Vellore,12.9165,79.1325,Local Road,229.91,5.2
+Vellore,12.9165,79.1325,Salem,11.6643,78.146,Local Road,202.52,3.3
+Pudukkottai,10.3833,78.8167,Coimbatore,11.0168,76.9558,State Road,382.0,6.01
+Erode,11.341,77.7172,Krishnagiri,12.5192,78.2138,Local Road,267.83,4.68
+Nagercoil,8.1773,77.4344,Karur,10.9601,78.0766,Local Road,422.96,8.09
+Dindigul,10.3624,77.9695,Cuddalore,11.7447,79.768,Local Road,214.21,2.95
+Vellore,12.9165,79.1325,Kanchipuram,12.8342,79.7036,Local Road,127.73,2.93
+Vellore,12.9165,79.1325,Sivakasi,9.4486,77.7984,Highway,217.7,5.28
+Kanchipuram,12.8342,79.7036,Erode,11.341,77.7172,State Road,243.27,4.79
+Erode,11.341,77.7172,Kanchipuram,12.8342,79.7036,Highway,171.81,3.31
+Dindigul,10.3624,77.9695,Coimbatore,11.0168,76.9558,Local Road,128.66,2.37
+Karur,10.9601,78.0766,Vellore,12.9165,79.1325,State Road,215.08,3.12
+Tirunelveli,8.7139,77.7567,Vellore,12.9165,79.1325,Local Road,415.57,5.96
+Pudukkottai,10.3833,78.8167,Chennai,13.0827,80.2707,State Road,345.7,4.67
+Karur,10.9601,78.0766,Kanchipuram,12.8342,79.7036,Local Road,388.29,9.38
+Dindigul,10.3624,77.9695,Pudukkottai,10.3833,78.8167,Local Road,309.32,3.92
+Dindigul,10.3624,77.9695,Dharmapuri,12.1357,78.1603,Highway,205.76,3.58
+Cuddalore,11.7447,79.768,Pudukkottai,10.3833,78.8167,Local Road,400.96,6.95
+Pudukkottai,10.3833,78.8167,Sivakasi,9.4486,77.7984,Highway,213.78,5.18
+Tiruchirappalli,10.7905,78.7047,Thanjavur,10.7867,79.1386,Highway,349.59,5.16
+Madurai,9.9252,78.1198,Tiruchirappalli,10.7905,78.7047,Highway,114.43,1.97
+Salem,11.6643,78.146,Pudukkottai,10.3833,78.8167,Local Road,487.13,6.61
+Coimbatore,11.0168,76.9558,Karur,10.9601,78.0766,Local Road,423.6,5.5
+Salem,11.6643,78.146,Dindigul,10.3624,77.9695,State Road,208.55,2.62
+Karur,10.9601,78.0766,Sivakasi,9.4486,77.7984,Highway,399.01,9.34
+Pudukkottai,10.3833,78.8167,Cuddalore,11.7447,79.768,Highway,349.07,6.17
+Dindigul,10.3624,77.9695,Cuddalore,11.7447,79.768,State Road,396.15,5.2
+Dindigul,10.3624,77.9695,Coimbatore,11.0168,76.9558,Local Road,316.49,5.1
+Dindigul,10.3624,77.9695,Chennai,13.0827,80.2707,Highway,97.85,1.38
+Tiruchirappalli,10.7905,78.7047,Vellore,12.9165,79.1325,Local Road,311.91,6.29
+Kanchipuram,12.8342,79.7036,Thoothukudi,8.7642,78.1348,Highway,144.95,3.56
+Salem,11.6643,78.146,Chennai,13.0827,80.2707,Local Road,177.63,3.26
+Dindigul,10.3624,77.9695,Karur,10.9601,78.0766,Local Road,260.45,3.85
+Tiruchirappalli,10.7905,78.7047,Krishnagiri,12.5192,78.2138,Local Road,372.07,4.66
+Krishnagiri,12.5192,78.2138,Erode,11.341,77.7172,Local Road,100.58,2.51
+Tiruchirappalli,10.7905,78.7047,Nagercoil,8.1773,77.4344,State Road,242.97,3.28
+Krishnagiri,12.5192,78.2138,Cuddalore,11.7447,79.768,Local Road,236.47,3.05
+Madurai,9.9252,78.1198,Vellore,12.9165,79.1325,Local Road,349.66,5.41
+Kanchipuram,12.8342,79.7036,Karur,10.9601,78.0766,Local Road,166.81,2.28
+Dharmapuri,12.1357,78.1603,Thoothukudi,8.7642,78.1348,State Road,401.85,7.66
+Thoothukudi,8.7642,78.1348,Krishnagiri,12.5192,78.2138,Highway,477.66,9.11
+Nagercoil,8.1773,77.4344,Thanjavur,10.7867,79.1386,Local Road,242.37,3.55
+Coimbatore,11.0168,76.9558,Thoothukudi,8.7642,78.1348,Local Road,479.1,7.42
+Cuddalore,11.7447,79.768,Sivakasi,9.4486,77.7984,Highway,166.46,2.65
+Cuddalore,11.7447,79.768,Madurai,9.9252,78.1198,State Road,348.28,7.0
+Dharmapuri,12.1357,78.1603,Kanchipuram,12.8342,79.7036,Local Road,218.95,3.68
+Vellore,12.9165,79.1325,Nagercoil,8.1773,77.4344,Highway,472.44,7.1
+Karur,10.9601,78.0766,Kanchipuram,12.8342,79.7036,Highway,483.42,10.98
+Thoothukudi,8.7642,78.1348,Vellore,12.9165,79.1325,Local Road,84.32,2.02
+Tiruchirappalli,10.7905,78.7047,Pudukkottai,10.3833,78.8167,Highway,266.15,6.32
+Salem,11.6643,78.146,Erode,11.341,77.7172,State Road,221.0,3.18
+Sivakasi,9.4486,77.7984,Pudukkottai,10.3833,78.8167,State Road,74.71,1.55
+Thanjavur,10.7867,79.1386,Kanchipuram,12.8342,79.7036,State Road,124.9,1.56
+Tirunelveli,8.7139,77.7567,Chennai,13.0827,80.2707,Local Road,485.33,6.37
+Pudukkottai,10.3833,78.8167,Sivakasi,9.4486,77.7984,Local Road,345.73,5.78
+Vellore,12.9165,79.1325,Cuddalore,11.7447,79.768,State Road,462.36,8.8
+Thanjavur,10.7867,79.1386,Erode,11.341,77.7172,Highway,497.85,11.71
+Tiruchirappalli,10.7905,78.7047,Tirunelveli,8.7139,77.7567,State Road,340.7,5.06
+Pudukkottai,10.3833,78.8167,Nagercoil,8.1773,77.4344,State Road,352.09,6.09
+Dindigul,10.3624,77.9695,Salem,11.6643,78.146,Highway,146.02,3.09
+Thoothukudi,8.7642,78.1348,Tirunelveli,8.7139,77.7567,Local Road,83.34,1.29
+Pudukkottai,10.3833,78.8167,Krishnagiri,12.5192,78.2138,Highway,221.21,4.48
+Thanjavur,10.7867,79.1386,Cuddalore,11.7447,79.768,Highway,455.98,10.52
+Dindigul,10.3624,77.9695,Kanchipuram,12.8342,79.7036,Highway,202.05,2.82
+Coimbatore,11.0168,76.9558,Madurai,9.9252,78.1198,Highway,232.33,3.69
+Nagercoil,8.1773,77.4344,Dindigul,10.3624,77.9695,State Road,140.81,2.64
+Salem,11.6643,78.146,Karur,10.9601,78.0766,State Road,160.76,2.32
+Kanchipuram,12.8342,79.7036,Tiruchirappalli,10.7905,78.7047,Local Road,494.74,9.97
+Nagercoil,8.1773,77.4344,Erode,11.341,77.7172,Highway,481.63,6.29
+Sivakasi,9.4486,77.7984,Krishnagiri,12.5192,78.2138,State Road,82.34,1.98
+Krishnagiri,12.5192,78.2138,Salem,11.6643,78.146,State Road,250.88,5.4
+Madurai,9.9252,78.1198,Pudukkottai,10.3833,78.8167,Local Road,122.32,2.46
+Sivakasi,9.4486,77.7984,Erode,11.341,77.7172,Highway,344.36,4.92
+Madurai,9.9252,78.1198,Salem,11.6643,78.146,State Road,94.2,1.41
+Coimbatore,11.0168,76.9558,Nagercoil,8.1773,77.4344,Highway,374.68,8.21
+Erode,11.341,77.7172,Coimbatore,11.0168,76.9558,Local Road,300.96,4.55
+Krishnagiri,12.5192,78.2138,Madurai,9.9252,78.1198,Local Road,428.24,7.33
+Tirunelveli,8.7139,77.7567,Dindigul,10.3624,77.9695,Local Road,147.63,2.32
+Karur,10.9601,78.0766,Thanjavur,10.7867,79.1386,Local Road,226.59,4.16
+Nagercoil,8.1773,77.4344,Thoothukudi,8.7642,78.1348,State Road,195.04,2.58
+Pudukkottai,10.3833,78.8167,Madurai,9.9252,78.1198,State Road,229.32,4.05
+Coimbatore,11.0168,76.9558,Krishnagiri,12.5192,78.2138,Highway,478.17,6.36
+Tiruchirappalli,10.7905,78.7047,Madurai,9.9252,78.1198,Local Road,486.53,11.89
+Dharmapuri,12.1357,78.1603,Chennai,13.0827,80.2707,Highway,83.82,1.92
+Pudukkottai,10.3833,78.8167,Cuddalore,11.7447,79.768,Highway,385.58,6.59
+Sivakasi,9.4486,77.7984,Madurai,9.9252,78.1198,Local Road,453.11,6.95
+Chennai,13.0827,80.2707,Madurai,9.9252,78.1198,State Road,91.63,1.19
+Thanjavur,10.7867,79.1386,Dindigul,10.3624,77.9695,Highway,176.49,3.1
+Dharmapuri,12.1357,78.1603,Sivakasi,9.4486,77.7984,Local Road,130.96,2.25
+Salem,11.6643,78.146,Sivakasi,9.4486,77.7984,State Road,411.25,7.41
+Salem,11.6643,78.146,Chennai,13.0827,80.2707,Highway,499.36,11.58
+Chennai,13.0827,80.2707,Tiruchirappalli,10.7905,78.7047,State Road,423.02,7.0
+Cuddalore,11.7447,79.768,Sivakasi,9.4486,77.7984,Highway,438.21,7.12
+Dindigul,10.3624,77.9695,Chennai,13.0827,80.2707,Highway,238.44,4.75
+Cuddalore,11.7447,79.768,Erode,11.341,77.7172,State Road,310.59,4.49
+Krishnagiri,12.5192,78.2138,Cuddalore,11.7447,79.768,Local Road,97.82,1.28
+Dharmapuri,12.1357,78.1603,Chennai,13.0827,80.2707,Highway,476.48,9.71
+Dindigul,10.3624,77.9695,Thoothukudi,8.7642,78.1348,Local Road,406.61,5.96
+Dindigul,10.3624,77.9695,Dharmapuri,12.1357,78.1603,Highway,439.04,7.37
+Madurai,9.9252,78.1198,Krishnagiri,12.5192,78.2138,State Road,169.86,2.54
+Krishnagiri,12.5192,78.2138,Dharmapuri,12.1357,78.1603,Highway,375.8,7.52
+Thoothukudi,8.7642,78.1348,Tirunelveli,8.7139,77.7567,Highway,88.83,1.38
+Cuddalore,11.7447,79.768,Erode,11.341,77.7172,State Road,218.97,4.3
+Coimbatore,11.0168,76.9558,Madurai,9.9252,78.1198,Local Road,313.15,5.57
+Tiruchirappalli,10.7905,78.7047,Thanjavur,10.7867,79.1386,State Road,354.36,5.14
+Chennai,13.0827,80.2707,Pudukkottai,10.3833,78.8167,State Road,79.37,1.42
+Chennai,13.0827,80.2707,Vellore,12.9165,79.1325,State Road,231.29,4.15
+Sivakasi,9.4486,77.7984,Pudukkottai,10.3833,78.8167,State Road,91.09,2.12
+Coimbatore,11.0168,76.9558,Thoothukudi,8.7642,78.1348,Highway,241.25,5.36
+Thoothukudi,8.7642,78.1348,Pudukkottai,10.3833,78.8167,Local Road,202.31,3.01
+Krishnagiri,12.5192,78.2138,Erode,11.341,77.7172,State Road,366.13,6.8
+Cuddalore,11.7447,79.768,Kanchipuram,12.8342,79.7036,State Road,165.75,3.45
+Krishnagiri,12.5192,78.2138,Dindigul,10.3624,77.9695,Highway,294.58,3.75
+Cuddalore,11.7447,79.768,Thoothukudi,8.7642,78.1348,Highway,85.39,1.93
+Erode,11.341,77.7172,Nagercoil,8.1773,77.4344,Local Road,412.0,6.28
+Dharmapuri,12.1357,78.1603,Madurai,9.9252,78.1198,State Road,337.75,7.28
+Vellore,12.9165,79.1325,Kanchipuram,12.8342,79.7036,Local Road,323.83,4.82
+Kanchipuram,12.8342,79.7036,Tiruchirappalli,10.7905,78.7047,Highway,476.59,6.64
+Dharmapuri,12.1357,78.1603,Pudukkottai,10.3833,78.8167,State Road,75.15,1.46
+Sivakasi,9.4486,77.7984,Thoothukudi,8.7642,78.1348,Local Road,419.03,5.62
+Kanchipuram,12.8342,79.7036,Nagercoil,8.1773,77.4344,Highway,140.03,2.16
+Cuddalore,11.7447,79.768,Dindigul,10.3624,77.9695,State Road,200.78,2.98
+Dharmapuri,12.1357,78.1603,Thoothukudi,8.7642,78.1348,State Road,464.9,6.45
+Krishnagiri,12.5192,78.2138,Dharmapuri,12.1357,78.1603,State Road,223.28,4.87
+Tiruchirappalli,10.7905,78.7047,Tirunelveli,8.7139,77.7567,State Road,248.25,5.16
+Krishnagiri,12.5192,78.2138,Nagercoil,8.1773,77.4344,Local Road,281.79,4.31
+Chennai,13.0827,80.2707,Nagercoil,8.1773,77.4344,State Road,321.11,4.32
+Salem,11.6643,78.146,Coimbatore,11.0168,76.9558,State Road,322.65,6.5
+Tiruchirappalli,10.7905,78.7047,Cuddalore,11.7447,79.768,Local Road,435.46,7.57
+Thoothukudi,8.7642,78.1348,Chennai,13.0827,80.2707,Highway,324.93,4.33
+Thoothukudi,8.7642,78.1348,Madurai,9.9252,78.1198,Local Road,448.18,7.12
+Thanjavur,10.7867,79.1386,Madurai,9.9252,78.1198,Highway,439.69,6.57
+Krishnagiri,12.5192,78.2138,Salem,11.6643,78.146,Local Road,413.0,10.02
+Sivakasi,9.4486,77.7984,Vellore,12.9165,79.1325,Highway,438.7,6.34
+Dharmapuri,12.1357,78.1603,Salem,11.6643,78.146,Local Road,293.3,6.18
+Tiruchirappalli,10.7905,78.7047,Dindigul,10.3624,77.9695,Highway,444.09,7.49
+Karur,10.9601,78.0766,Coimbatore,11.0168,76.9558,Highway,406.02,5.59
+Kanchipuram,12.8342,79.7036,Cuddalore,11.7447,79.768,Highway,374.16,6.04
+Thanjavur,10.7867,79.1386,Pudukkottai,10.3833,78.8167,Highway,447.17,8.51
+Cuddalore,11.7447,79.768,Nagercoil,8.1773,77.4344,Local Road,136.48,2.97
+Thanjavur,10.7867,79.1386,Cuddalore,11.7447,79.768,Local Road,169.71,3.34
+Nagercoil,8.1773,77.4344,Madurai,9.9252,78.1198,State Road,334.15,6.09
+Pudukkottai,10.3833,78.8167,Sivakasi,9.4486,77.7984,State Road,52.5,0.77
+Nagercoil,8.1773,77.4344,Krishnagiri,12.5192,78.2138,Highway,212.65,3.01
+Tirunelveli,8.7139,77.7567,Thanjavur,10.7867,79.1386,State Road,399.56,6.38
+Dindigul,10.3624,77.9695,Tiruchirappalli,10.7905,78.7047,Highway,100.9,1.96
+Dindigul,10.3624,77.9695,Thoothukudi,8.7642,78.1348,Local Road,349.64,6.72
+Cuddalore,11.7447,79.768,Sivakasi,9.4486,77.7984,Highway,466.49,7.71
+Erode,11.341,77.7172,Kanchipuram,12.8342,79.7036,Highway,117.37,1.97
+Sivakasi,9.4486,77.7984,Coimbatore,11.0168,76.9558,Local Road,184.02,2.5
+Vellore,12.9165,79.1325,Tirunelveli,8.7139,77.7567,State Road,97.81,1.37
+Pudukkottai,10.3833,78.8167,Salem,11.6643,78.146,Highway,262.49,5.15
+Thanjavur,10.7867,79.1386,Nagercoil,8.1773,77.4344,Highway,434.74,6.76
+Cuddalore,11.7447,79.768,Tirunelveli,8.7139,77.7567,Local Road,200.88,3.99
+Salem,11.6643,78.146,Cuddalore,11.7447,79.768,Highway,71.83,1.75
+Dharmapuri,12.1357,78.1603,Pudukkottai,10.3833,78.8167,State Road,364.6,5.84
+Erode,11.341,77.7172,Chennai,13.0827,80.2707,State Road,499.71,11.92
+Vellore,12.9165,79.1325,Coimbatore,11.0168,76.9558,State Road,285.03,5.18
+Tirunelveli,8.7139,77.7567,Salem,11.6643,78.146,Local Road,372.45,7.07
+Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,Local Road,244.46,5.5
+Cuddalore,11.7447,79.768,Vellore,12.9165,79.1325,State Road,152.66,2.68
+Dindigul,10.3624,77.9695,Thoothukudi,8.7642,78.1348,State Road,465.1,6.3
+Krishnagiri,12.5192,78.2138,Dharmapuri,12.1357,78.1603,State Road,140.14,3.3
+Dharmapuri,12.1357,78.1603,Pudukkottai,10.3833,78.8167,Highway,433.42,6.49
+Dindigul,10.3624,77.9695,Erode,11.341,77.7172,Local Road,281.36,5.97
+Thoothukudi,8.7642,78.1348,Thanjavur,10.7867,79.1386,Local Road,364.52,7.39
+Dindigul,10.3624,77.9695,Madurai,9.9252,78.1198,Local Road,449.77,6.21
+Erode,11.341,77.7172,Krishnagiri,12.5192,78.2138,Local Road,78.28,1.1
+Erode,11.341,77.7172,Vellore,12.9165,79.1325,Local Road,291.47,3.74
+Dindigul,10.3624,77.9695,Coimbatore,11.0168,76.9558,Local Road,457.24,10.2
+Krishnagiri,12.5192,78.2138,Salem,11.6643,78.146,State Road,443.66,10.67
+Thoothukudi,8.7642,78.1348,Pudukkottai,10.3833,78.8167,State Road,61.16,1.12
+Chennai,13.0827,80.2707,Kanchipuram,12.8342,79.7036,State Road,351.64,4.85
+Vellore,12.9165,79.1325,Salem,11.6643,78.146,Highway,219.59,4.49
+Salem,11.6643,78.146,Krishnagiri,12.5192,78.2138,State Road,219.54,2.8
+Dindigul,10.3624,77.9695,Krishnagiri,12.5192,78.2138,Local Road,76.89,1.72
+Thanjavur,10.7867,79.1386,Cuddalore,11.7447,79.768,Highway,406.99,5.29
+Salem,11.6643,78.146,Dharmapuri,12.1357,78.1603,Highway,382.07,6.22
+Salem,11.6643,78.146,Thanjavur,10.7867,79.1386,Local Road,193.13,2.43
+Nagercoil,8.1773,77.4344,Thoothukudi,8.7642,78.1348,State Road,276.72,5.91
+Krishnagiri,12.5192,78.2138,Salem,11.6643,78.146,Local Road,490.25,8.2
+Krishnagiri,12.5192,78.2138,Erode,11.341,77.7172,State Road,378.72,8.44
+Coimbatore,11.0168,76.9558,Karur,10.9601,78.0766,State Road,65.91,0.9
+Pudukkottai,10.3833,78.8167,Kanchipuram,12.8342,79.7036,Highway,145.17,3.0
+Karur,10.9601,78.0766,Thoothukudi,8.7642,78.1348,Local Road,392.74,4.92
+Sivakasi,9.4486,77.7984,Pudukkottai,10.3833,78.8167,Local Road,393.05,7.65
+Vellore,12.9165,79.1325,Coimbatore,11.0168,76.9558,Highway,175.9,2.74
+Madurai,9.9252,78.1198,Pudukkottai,10.3833,78.8167,State Road,329.86,8.01
+Dindigul,10.3624,77.9695,Coimbatore,11.0168,76.9558,State Road,461.05,10.8
+Vellore,12.9165,79.1325,Thanjavur,10.7867,79.1386,State Road,221.08,3.04
+Salem,11.6643,78.146,Kanchipuram,12.8342,79.7036,Highway,74.84,1.18
+Dharmapuri,12.1357,78.1603,Krishnagiri,12.5192,78.2138,Local Road,327.79,4.42
+Vellore,12.9165,79.1325,Thoothukudi,8.7642,78.1348,Highway,428.07,6.32
+Salem,11.6643,78.146,Pudukkottai,10.3833,78.8167,Highway,51.09,0.81
+Chennai,13.0827,80.2707,Salem,11.6643,78.146,State Road,499.41,8.83
+Cuddalore,11.7447,79.768,Kanchipuram,12.8342,79.7036,Local Road,62.72,0.87
+Coimbatore,11.0168,76.9558,Karur,10.9601,78.0766,Local Road,353.15,4.46
+Nagercoil,8.1773,77.4344,Salem,11.6643,78.146,Highway,327.21,7.11
+Tiruchirappalli,10.7905,78.7047,Madurai,9.9252,78.1198,Local Road,99.17,2.19
+Thanjavur,10.7867,79.1386,Nagercoil,8.1773,77.4344,Local Road,140.11,2.71
+Vellore,12.9165,79.1325,Thanjavur,10.7867,79.1386,Highway,282.95,3.75
+Pudukkottai,10.3833,78.8167,Cuddalore,11.7447,79.768,Highway,243.27,3.37
+Cuddalore,11.7447,79.768,Tirunelveli,8.7139,77.7567,State Road,191.08,2.79
+Krishnagiri,12.5192,78.2138,Nagercoil,8.1773,77.4344,Highway,410.73,8.1
+Dindigul,10.3624,77.9695,Coimbatore,11.0168,76.9558,State Road,464.34,6.27
+Cuddalore,11.7447,79.768,Dharmapuri,12.1357,78.1603,Highway,114.07,2.32
+Chennai,13.0827,80.2707,Thoothukudi,8.7642,78.1348,State Road,477.73,8.7
+Coimbatore,11.0168,76.9558,Chennai,13.0827,80.2707,Highway,279.47,6.27
+Thanjavur,10.7867,79.1386,Thoothukudi,8.7642,78.1348,State Road,286.15,3.92
+Thoothukudi,8.7642,78.1348,Coimbatore,11.0168,76.9558,Highway,405.55,5.85
+Thoothukudi,8.7642,78.1348,Pudukkottai,10.3833,78.8167,Local Road,426.4,7.35
+Coimbatore,11.0168,76.9558,Vellore,12.9165,79.1325,Highway,175.33,3.09
+Chennai,13.0827,80.2707,Salem,11.6643,78.146,Highway,124.15,2.05
+Thoothukudi,8.7642,78.1348,Thanjavur,10.7867,79.1386,State Road,392.28,5.72
+Chennai,13.0827,80.2707,Pudukkottai,10.3833,78.8167,Local Road,196.57,4.76
+Vellore,12.9165,79.1325,Tirunelveli,8.7139,77.7567,Highway,145.51,2.53
+Vellore,12.9165,79.1325,Thanjavur,10.7867,79.1386,Highway,120.41,2.31
+Erode,11.341,77.7172,Pudukkottai,10.3833,78.8167,Local Road,254.86,5.52
+Krishnagiri,12.5192,78.2138,Thoothukudi,8.7642,78.1348,State Road,183.82,2.98
+Dindigul,10.3624,77.9695,Madurai,9.9252,78.1198,State Road,284.86,3.9
+Chennai,13.0827,80.2707,Madurai,9.9252,78.1198,Local Road,213.0,3.13
+Cuddalore,11.7447,79.768,Kanchipuram,12.8342,79.7036,Highway,143.32,2.27
+Karur,10.9601,78.0766,Nagercoil,8.1773,77.4344,Highway,145.07,2.61
+Chennai,13.0827,80.2707,Thoothukudi,8.7642,78.1348,Highway,67.38,0.89
+Dharmapuri,12.1357,78.1603,Tirunelveli,8.7139,77.7567,State Road,377.42,7.26
+Erode,11.341,77.7172,Cuddalore,11.7447,79.768,Local Road,341.84,6.21
+Kanchipuram,12.8342,79.7036,Erode,11.341,77.7172,Local Road,103.79,1.58
+Dharmapuri,12.1357,78.1603,Salem,11.6643,78.146,Highway,58.81,0.86
+Chennai,13.0827,80.2707,Vellore,12.9165,79.1325,Local Road,453.69,5.97
+Cuddalore,11.7447,79.768,Krishnagiri,12.5192,78.2138,Local Road,488.6,10.05
+Madurai,9.9252,78.1198,Chennai,13.0827,80.2707,Local Road,68.46,1.42
+Dindigul,10.3624,77.9695,Madurai,9.9252,78.1198,State Road,158.38,2.61
+Madurai,9.9252,78.1198,Vellore,12.9165,79.1325,State Road,218.34,4.72
+Tirunelveli,8.7139,77.7567,Pudukkottai,10.3833,78.8167,State Road,166.53,3.63
+Karur,10.9601,78.0766,Cuddalore,11.7447,79.768,Local Road,107.58,2.02
+Sivakasi,9.4486,77.7984,Vellore,12.9165,79.1325,Highway,257.88,3.23
+Madurai,9.9252,78.1198,Kanchipuram,12.8342,79.7036,State Road,387.63,6.96
+Krishnagiri,12.5192,78.2138,Thoothukudi,8.7642,78.1348,State Road,463.95,6.76
+Dindigul,10.3624,77.9695,Krishnagiri,12.5192,78.2138,Highway,90.76,1.3
+Tiruchirappalli,10.7905,78.7047,Nagercoil,8.1773,77.4344,Local Road,409.76,8.78
+Krishnagiri,12.5192,78.2138,Thoothukudi,8.7642,78.1348,Highway,56.21,1.08
+Sivakasi,9.4486,77.7984,Madurai,9.9252,78.1198,Highway,80.01,1.54
+Nagercoil,8.1773,77.4344,Vellore,12.9165,79.1325,Highway,76.58,1.49
+Krishnagiri,12.5192,78.2138,Nagercoil,8.1773,77.4344,Highway,304.7,3.92
+Dindigul,10.3624,77.9695,Dharmapuri,12.1357,78.1603,State Road,396.98,5.62
+Krishnagiri,12.5192,78.2138,Pudukkottai,10.3833,78.8167,Highway,163.66,2.23
+Cuddalore,11.7447,79.768,Krishnagiri,12.5192,78.2138,Local Road,402.42,8.57
+Dindigul,10.3624,77.9695,Nagercoil,8.1773,77.4344,Highway,236.28,3.4
+Krishnagiri,12.5192,78.2138,Chennai,13.0827,80.2707,State Road,192.57,2.97
+Chennai,13.0827,80.2707,Dharmapuri,12.1357,78.1603,Highway,86.61,1.12
+Salem,11.6643,78.146,Pudukkottai,10.3833,78.8167,Local Road,108.28,1.36
+Dharmapuri,12.1357,78.1603,Coimbatore,11.0168,76.9558,State Road,161.63,2.64
+Kanchipuram,12.8342,79.7036,Dharmapuri,12.1357,78.1603,Highway,173.02,3.34
+Coimbatore,11.0168,76.9558,Madurai,9.9252,78.1198,Highway,286.35,4.59
+Kanchipuram,12.8342,79.7036,Pudukkottai,10.3833,78.8167,Local Road,350.96,7.54
+Chennai,13.0827,80.2707,Thoothukudi,8.7642,78.1348,Local Road,392.26,5.34
+Karur,10.9601,78.0766,Erode,11.341,77.7172,State Road,247.05,5.22
+Dharmapuri,12.1357,78.1603,Dindigul,10.3624,77.9695,Highway,133.11,3.05
+Kanchipuram,12.8342,79.7036,Coimbatore,11.0168,76.9558,State Road,163.57,3.11
+Vellore,12.9165,79.1325,Cuddalore,11.7447,79.768,State Road,367.16,4.64
+Chennai,13.0827,80.2707,Krishnagiri,12.5192,78.2138,State Road,364.6,6.93
+Dharmapuri,12.1357,78.1603,Thoothukudi,8.7642,78.1348,Highway,363.75,4.97
+Pudukkottai,10.3833,78.8167,Dharmapuri,12.1357,78.1603,Highway,406.72,7.54
+Tiruchirappalli,10.7905,78.7047,Tirunelveli,8.7139,77.7567,Local Road,153.99,2.97
+Salem,11.6643,78.146,Sivakasi,9.4486,77.7984,Local Road,211.78,4.1
+Thanjavur,10.7867,79.1386,Sivakasi,9.4486,77.7984,Highway,146.25,2.11
+Vellore,12.9165,79.1325,Tiruchirappalli,10.7905,78.7047,Local Road,127.82,2.6
+Nagercoil,8.1773,77.4344,Thanjavur,10.7867,79.1386,State Road,406.5,9.53
+Madurai,9.9252,78.1198,Krishnagiri,12.5192,78.2138,Highway,258.09,3.54
+Sivakasi,9.4486,77.7984,Tiruchirappalli,10.7905,78.7047,Highway,339.08,4.25
+Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,Highway,338.9,4.26
+Thanjavur,10.7867,79.1386,Karur,10.9601,78.0766,State Road,355.23,6.11
+Kanchipuram,12.8342,79.7036,Vellore,12.9165,79.1325,State Road,197.04,3.34
+Madurai,9.9252,78.1198,Tirunelveli,8.7139,77.7567,Local Road,239.17,3.38
+Vellore,12.9165,79.1325,Krishnagiri,12.5192,78.2138,State Road,350.29,7.23
+Tiruchirappalli,10.7905,78.7047,Salem,11.6643,78.146,Highway,50.97,1.11
+Sivakasi,9.4486,77.7984,Thanjavur,10.7867,79.1386,State Road,457.2,5.85
+Karur,10.9601,78.0766,Pudukkottai,10.3833,78.8167,Highway,114.8,2.23
+Thanjavur,10.7867,79.1386,Sivakasi,9.4486,77.7984,State Road,370.59,6.81
+Thanjavur,10.7867,79.1386,Chennai,13.0827,80.2707,Highway,319.83,6.88
+Thanjavur,10.7867,79.1386,Dindigul,10.3624,77.9695,Local Road,331.74,5.37
+Krishnagiri,12.5192,78.2138,Chennai,13.0827,80.2707,Highway,400.54,5.62
+Salem,11.6643,78.146,Thoothukudi,8.7642,78.1348,Highway,239.25,3.99
+Krishnagiri,12.5192,78.2138,Pudukkottai,10.3833,78.8167,Local Road,385.81,7.69
+Vellore,12.9165,79.1325,Krishnagiri,12.5192,78.2138,Local Road,359.56,7.36
+Salem,11.6643,78.146,Chennai,13.0827,80.2707,Highway,280.55,5.82
+Cuddalore,11.7447,79.768,Dindigul,10.3624,77.9695,State Road,178.36,4.38
+Tiruchirappalli,10.7905,78.7047,Karur,10.9601,78.0766,State Road,429.74,5.4
+Dindigul,10.3624,77.9695,Salem,11.6643,78.146,Local Road,372.66,7.2
+Dharmapuri,12.1357,78.1603,Salem,11.6643,78.146,Highway,338.92,4.7
+Dharmapuri,12.1357,78.1603,Krishnagiri,12.5192,78.2138,Highway,207.65,2.86
+Tiruchirappalli,10.7905,78.7047,Madurai,9.9252,78.1198,Highway,404.89,5.76
+Tiruchirappalli,10.7905,78.7047,Chennai,13.0827,80.2707,Highway,439.72,7.58
+Dharmapuri,12.1357,78.1603,Vellore,12.9165,79.1325,State Road,150.06,3.04
+Kanchipuram,12.8342,79.7036,Tirunelveli,8.7139,77.7567,Highway,145.45,3.07
+Chennai,13.0827,80.2707,Tiruchirappalli,10.7905,78.7047,State Road,491.79,8.48
+Nagercoil,8.1773,77.4344,Sivakasi,9.4486,77.7984,State Road,462.67,5.79
+Nagercoil,8.1773,77.4344,Cuddalore,11.7447,79.768,Local Road,327.61,4.99
+Dindigul,10.3624,77.9695,Krishnagiri,12.5192,78.2138,State Road,417.39,6.19
+Salem,11.6643,78.146,Kanchipuram,12.8342,79.7036,State Road,462.71,6.35
+Nagercoil,8.1773,77.4344,Dindigul,10.3624,77.9695,Highway,189.46,4.3
+Tiruchirappalli,10.7905,78.7047,Krishnagiri,12.5192,78.2138,Highway,367.74,8.44
+Tirunelveli,8.7139,77.7567,Thoothukudi,8.7642,78.1348,Local Road,416.8,6.37
+Thoothukudi,8.7642,78.1348,Salem,11.6643,78.146,Local Road,143.81,1.98
+Coimbatore,11.0168,76.9558,Erode,11.341,77.7172,State Road,315.79,5.6
+Karur,10.9601,78.0766,Sivakasi,9.4486,77.7984,State Road,90.13,1.17
+Nagercoil,8.1773,77.4344,Pudukkottai,10.3833,78.8167,Highway,453.84,8.39
+Vellore,12.9165,79.1325,Krishnagiri,12.5192,78.2138,Highway,346.46,6.04
+Salem,11.6643,78.146,Kanchipuram,12.8342,79.7036,Highway,335.69,4.94
+Salem,11.6643,78.146,Kanchipuram,12.8342,79.7036,Local Road,243.53,3.17
+Salem,11.6643,78.146,Coimbatore,11.0168,76.9558,State Road,190.45,3.49
+Dindigul,10.3624,77.9695,Cuddalore,11.7447,79.768,State Road,366.54,4.6
+Chennai,13.0827,80.2707,Madurai,9.9252,78.1198,Highway,168.81,2.77
+Erode,11.341,77.7172,Thanjavur,10.7867,79.1386,State Road,287.26,3.81
+Dharmapuri,12.1357,78.1603,Thoothukudi,8.7642,78.1348,State Road,236.08,3.81
+Coimbatore,11.0168,76.9558,Cuddalore,11.7447,79.768,Local Road,134.27,1.7
+Madurai,9.9252,78.1198,Karur,10.9601,78.0766,Local Road,456.84,6.85
+Thoothukudi,8.7642,78.1348,Tirunelveli,8.7139,77.7567,Highway,224.79,4.44
+Vellore,12.9165,79.1325,Tiruchirappalli,10.7905,78.7047,Highway,486.86,6.65
+Kanchipuram,12.8342,79.7036,Erode,11.341,77.7172,Local Road,475.98,7.68
+Kanchipuram,12.8342,79.7036,Dharmapuri,12.1357,78.1603,Local Road,230.3,4.98
+Tirunelveli,8.7139,77.7567,Kanchipuram,12.8342,79.7036,State Road,99.73,1.65
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,State Road,251.81,3.3
+Coimbatore,11.0168,76.9558,Cuddalore,11.7447,79.768,Highway,261.31,3.42
+Dindigul,10.3624,77.9695,Tirunelveli,8.7139,77.7567,Highway,71.61,0.98
+Erode,11.341,77.7172,Sivakasi,9.4486,77.7984,State Road,64.65,1.09
+Krishnagiri,12.5192,78.2138,Coimbatore,11.0168,76.9558,Highway,191.51,3.01
+Tiruchirappalli,10.7905,78.7047,Cuddalore,11.7447,79.768,State Road,133.36,2.02
+Thoothukudi,8.7642,78.1348,Nagercoil,8.1773,77.4344,Highway,229.95,3.67
+Sivakasi,9.4486,77.7984,Pudukkottai,10.3833,78.8167,Highway,392.29,8.69
+Madurai,9.9252,78.1198,Karur,10.9601,78.0766,Highway,144.01,2.19
+Krishnagiri,12.5192,78.2138,Salem,11.6643,78.146,State Road,452.55,10.67
+Tiruchirappalli,10.7905,78.7047,Salem,11.6643,78.146,Local Road,321.55,4.95
+Pudukkottai,10.3833,78.8167,Sivakasi,9.4486,77.7984,State Road,273.08,4.31
+Thanjavur,10.7867,79.1386,Dindigul,10.3624,77.9695,Highway,478.84,8.52
+Tiruchirappalli,10.7905,78.7047,Salem,11.6643,78.146,State Road,118.18,1.65
+Thanjavur,10.7867,79.1386,Tirunelveli,8.7139,77.7567,Local Road,178.09,2.27
+Nagercoil,8.1773,77.4344,Dindigul,10.3624,77.9695,State Road,238.56,3.79
+Salem,11.6643,78.146,Dharmapuri,12.1357,78.1603,Local Road,471.28,6.59
+Thoothukudi,8.7642,78.1348,Dindigul,10.3624,77.9695,Local Road,211.69,3.83
+Pudukkottai,10.3833,78.8167,Madurai,9.9252,78.1198,Highway,162.59,3.91
+Krishnagiri,12.5192,78.2138,Thoothukudi,8.7642,78.1348,State Road,410.07,8.87
+Vellore,12.9165,79.1325,Krishnagiri,12.5192,78.2138,Highway,275.71,4.09
+Kanchipuram,12.8342,79.7036,Erode,11.341,77.7172,Highway,131.34,2.44
+Nagercoil,8.1773,77.4344,Thanjavur,10.7867,79.1386,Local Road,277.91,5.09
+Madurai,9.9252,78.1198,Kanchipuram,12.8342,79.7036,Highway,323.35,4.14
+Krishnagiri,12.5192,78.2138,Nagercoil,8.1773,77.4344,Highway,429.39,6.21
+Nagercoil,8.1773,77.4344,Dindigul,10.3624,77.9695,State Road,73.83,1.69
+Tiruchirappalli,10.7905,78.7047,Erode,11.341,77.7172,Highway,357.67,4.57
+Vellore,12.9165,79.1325,Krishnagiri,12.5192,78.2138,Highway,398.87,7.31
+Erode,11.341,77.7172,Krishnagiri,12.5192,78.2138,State Road,137.83,3.24
+Sivakasi,9.4486,77.7984,Nagercoil,8.1773,77.4344,Highway,380.45,4.79
+Thoothukudi,8.7642,78.1348,Thanjavur,10.7867,79.1386,State Road,297.26,5.32
+Salem,11.6643,78.146,Thanjavur,10.7867,79.1386,State Road,352.8,8.49
+Sivakasi,9.4486,77.7984,Thoothukudi,8.7642,78.1348,Local Road,65.78,0.94
+Krishnagiri,12.5192,78.2138,Coimbatore,11.0168,76.9558,Local Road,133.48,1.96
+Pudukkottai,10.3833,78.8167,Karur,10.9601,78.0766,Local Road,57.83,0.8
+Pudukkottai,10.3833,78.8167,Thanjavur,10.7867,79.1386,Local Road,162.95,2.14
+Dindigul,10.3624,77.9695,Pudukkottai,10.3833,78.8167,State Road,352.92,5.81
+Erode,11.341,77.7172,Kanchipuram,12.8342,79.7036,State Road,120.27,2.57
+Madurai,9.9252,78.1198,Vellore,12.9165,79.1325,Local Road,362.48,6.86
+Salem,11.6643,78.146,Tiruchirappalli,10.7905,78.7047,State Road,381.29,8.57
+Madurai,9.9252,78.1198,Chennai,13.0827,80.2707,State Road,464.13,7.26
+Coimbatore,11.0168,76.9558,Pudukkottai,10.3833,78.8167,Highway,388.62,9.3
+Nagercoil,8.1773,77.4344,Pudukkottai,10.3833,78.8167,State Road,297.42,7.05
+Salem,11.6643,78.146,Pudukkottai,10.3833,78.8167,State Road,225.12,4.2
+Karur,10.9601,78.0766,Dharmapuri,12.1357,78.1603,State Road,390.1,6.64
+Kanchipuram,12.8342,79.7036,Erode,11.341,77.7172,Local Road,489.05,8.9
+Pudukkottai,10.3833,78.8167,Thanjavur,10.7867,79.1386,State Road,101.42,1.53
+Cuddalore,11.7447,79.768,Pudukkottai,10.3833,78.8167,State Road,447.28,9.79
+Tiruchirappalli,10.7905,78.7047,Pudukkottai,10.3833,78.8167,State Road,126.03,2.61
+Salem,11.6643,78.146,Tirunelveli,8.7139,77.7567,Local Road,418.04,8.64
+Chennai,13.0827,80.2707,Madurai,9.9252,78.1198,Highway,433.99,5.94
+Coimbatore,11.0168,76.9558,Krishnagiri,12.5192,78.2138,State Road,412.63,5.31
+Dharmapuri,12.1357,78.1603,Vellore,12.9165,79.1325,Highway,296.49,7.04
+Thanjavur,10.7867,79.1386,Vellore,12.9165,79.1325,Highway,325.96,7.04
+Cuddalore,11.7447,79.768,Sivakasi,9.4486,77.7984,Highway,327.31,4.65
+Coimbatore,11.0168,76.9558,Erode,11.341,77.7172,Highway,361.68,4.76
+Krishnagiri,12.5192,78.2138,Thoothukudi,8.7642,78.1348,Highway,441.06,6.74
+Tirunelveli,8.7139,77.7567,Coimbatore,11.0168,76.9558,State Road,279.48,6.85
+Krishnagiri,12.5192,78.2138,Erode,11.341,77.7172,State Road,466.44,9.12
+Kanchipuram,12.8342,79.7036,Krishnagiri,12.5192,78.2138,State Road,163.63,2.36
+Chennai,13.0827,80.2707,Cuddalore,11.7447,79.768,Local Road,456.53,5.96
+Nagercoil,8.1773,77.4344,Coimbatore,11.0168,76.9558,State Road,433.25,6.32
+Cuddalore,11.7447,79.768,Sivakasi,9.4486,77.7984,Highway,479.74,9.92
+Sivakasi,9.4486,77.7984,Karur,10.9601,78.0766,Local Road,67.0,0.93
+Tirunelveli,8.7139,77.7567,Chennai,13.0827,80.2707,Local Road,324.65,6.29
+Nagercoil,8.1773,77.4344,Vellore,12.9165,79.1325,Highway,278.51,3.76
+Thanjavur,10.7867,79.1386,Cuddalore,11.7447,79.768,State Road,178.55,2.35
+Erode,11.341,77.7172,Salem,11.6643,78.146,State Road,381.17,6.78
+Nagercoil,8.1773,77.4344,Krishnagiri,12.5192,78.2138,Highway,482.17,6.39
+Salem,11.6643,78.146,Dharmapuri,12.1357,78.1603,Highway,91.7,2.1
+Madurai,9.9252,78.1198,Kanchipuram,12.8342,79.7036,State Road,189.5,2.82
+Thoothukudi,8.7642,78.1348,Madurai,9.9252,78.1198,Local Road,345.96,5.9
+Erode,11.341,77.7172,Cuddalore,11.7447,79.768,State Road,368.26,5.5
+Pudukkottai,10.3833,78.8167,Dharmapuri,12.1357,78.1603,Highway,352.05,6.15
+Dindigul,10.3624,77.9695,Pudukkottai,10.3833,78.8167,Local Road,50.1,0.76
+Karur,10.9601,78.0766,Sivakasi,9.4486,77.7984,Local Road,355.68,6.91
+Erode,11.341,77.7172,Kanchipuram,12.8342,79.7036,Highway,375.1,5.08
+Erode,11.341,77.7172,Thoothukudi,8.7642,78.1348,State Road,252.14,3.8
+Chennai,13.0827,80.2707,Thoothukudi,8.7642,78.1348,Local Road,143.66,2.55
+Coimbatore,11.0168,76.9558,Dindigul,10.3624,77.9695,Local Road,198.37,4.6
+Erode,11.341,77.7172,Pudukkottai,10.3833,78.8167,State Road,244.52,4.56
+Coimbatore,11.0168,76.9558,Cuddalore,11.7447,79.768,State Road,201.22,2.62
+Thoothukudi,8.7642,78.1348,Sivakasi,9.4486,77.7984,Highway,139.11,2.71
+Salem,11.6643,78.146,Tirunelveli,8.7139,77.7567,State Road,190.99,2.51
+Vellore,12.9165,79.1325,Sivakasi,9.4486,77.7984,State Road,346.03,6.01
+Nagercoil,8.1773,77.4344,Salem,11.6643,78.146,Highway,490.35,11.07
+Erode,11.341,77.7172,Chennai,13.0827,80.2707,Local Road,242.59,5.18
+Krishnagiri,12.5192,78.2138,Chennai,13.0827,80.2707,Highway,198.74,2.83
+Chennai,13.0827,80.2707,Erode,11.341,77.7172,Highway,106.85,2.52
+Cuddalore,11.7447,79.768,Madurai,9.9252,78.1198,Local Road,182.91,4.01
+Coimbatore,11.0168,76.9558,Dindigul,10.3624,77.9695,Highway,321.61,4.61
+Dindigul,10.3624,77.9695,Krishnagiri,12.5192,78.2138,State Road,120.28,1.86
+Thanjavur,10.7867,79.1386,Nagercoil,8.1773,77.4344,State Road,99.67,2.3
+Krishnagiri,12.5192,78.2138,Erode,11.341,77.7172,Local Road,193.09,3.73
+Dharmapuri,12.1357,78.1603,Tirunelveli,8.7139,77.7567,Highway,80.75,1.1
+Thanjavur,10.7867,79.1386,Salem,11.6643,78.146,Highway,180.47,2.33
+Krishnagiri,12.5192,78.2138,Karur,10.9601,78.0766,Local Road,278.74,5.09
+Thoothukudi,8.7642,78.1348,Nagercoil,8.1773,77.4344,Local Road,324.34,5.18
+Thanjavur,10.7867,79.1386,Nagercoil,8.1773,77.4344,Local Road,193.15,4.05
+Sivakasi,9.4486,77.7984,Cuddalore,11.7447,79.768,Local Road,463.25,10.52
+Thanjavur,10.7867,79.1386,Tirunelveli,8.7139,77.7567,State Road,278.27,4.1
+Thoothukudi,8.7642,78.1348,Tirunelveli,8.7139,77.7567,Highway,258.34,3.63
+Sivakasi,9.4486,77.7984,Pudukkottai,10.3833,78.8167,Local Road,378.95,6.26
+Sivakasi,9.4486,77.7984,Karur,10.9601,78.0766,Local Road,222.26,3.05
+Pudukkottai,10.3833,78.8167,Thoothukudi,8.7642,78.1348,Highway,330.09,4.56
+Krishnagiri,12.5192,78.2138,Erode,11.341,77.7172,State Road,239.85,5.25
+Salem,11.6643,78.146,Dharmapuri,12.1357,78.1603,State Road,125.17,1.63
+Tiruchirappalli,10.7905,78.7047,Vellore,12.9165,79.1325,Local Road,64.91,0.94
+Nagercoil,8.1773,77.4344,Tirunelveli,8.7139,77.7567,Local Road,184.32,2.31
+Dindigul,10.3624,77.9695,Sivakasi,9.4486,77.7984,State Road,407.59,5.36
+Cuddalore,11.7447,79.768,Tirunelveli,8.7139,77.7567,Highway,262.13,3.95
+Thoothukudi,8.7642,78.1348,Krishnagiri,12.5192,78.2138,Highway,179.07,3.7
+Sivakasi,9.4486,77.7984,Thoothukudi,8.7642,78.1348,Highway,199.0,3.95
+Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,Local Road,92.44,1.48
+Karur,10.9601,78.0766,Thoothukudi,8.7642,78.1348,State Road,313.47,5.66
+Chennai,13.0827,80.2707,Krishnagiri,12.5192,78.2138,Highway,254.04,6.17
+Tirunelveli,8.7139,77.7567,Vellore,12.9165,79.1325,Local Road,241.94,5.95
+Krishnagiri,12.5192,78.2138,Erode,11.341,77.7172,Highway,200.88,2.9
+Vellore,12.9165,79.1325,Salem,11.6643,78.146,Highway,454.02,8.18
+Madurai,9.9252,78.1198,Vellore,12.9165,79.1325,Local Road,100.64,1.36
+Chennai,13.0827,80.2707,Thoothukudi,8.7642,78.1348,Highway,384.97,5.27
+Salem,11.6643,78.146,Dharmapuri,12.1357,78.1603,Local Road,260.98,3.51
+Vellore,12.9165,79.1325,Cuddalore,11.7447,79.768,Local Road,491.54,7.81
+Vellore,12.9165,79.1325,Salem,11.6643,78.146,State Road,326.51,7.0
+Krishnagiri,12.5192,78.2138,Tirunelveli,8.7139,77.7567,Local Road,320.98,4.77
+Coimbatore,11.0168,76.9558,Nagercoil,8.1773,77.4344,Highway,227.2,3.13
+Thoothukudi,8.7642,78.1348,Thanjavur,10.7867,79.1386,Highway,351.7,6.32
+Vellore,12.9165,79.1325,Karur,10.9601,78.0766,Local Road,62.04,1.31
+Sivakasi,9.4486,77.7984,Dharmapuri,12.1357,78.1603,Local Road,410.49,7.32
+Tirunelveli,8.7139,77.7567,Erode,11.341,77.7172,State Road,322.6,7.11
+Tirunelveli,8.7139,77.7567,Erode,11.341,77.7172,Local Road,427.73,9.87
+Krishnagiri,12.5192,78.2138,Kanchipuram,12.8342,79.7036,State Road,112.73,2.39
+Chennai,13.0827,80.2707,Krishnagiri,12.5192,78.2138,State Road,172.14,2.89
+Tiruchirappalli,10.7905,78.7047,Thoothukudi,8.7642,78.1348,Local Road,344.8,7.83
+Nagercoil,8.1773,77.4344,Salem,11.6643,78.146,Highway,88.95,1.64
+Karur,10.9601,78.0766,Sivakasi,9.4486,77.7984,Local Road,462.32,8.56
+Dindigul,10.3624,77.9695,Madurai,9.9252,78.1198,Highway,436.86,5.59
+Chennai,13.0827,80.2707,Thanjavur,10.7867,79.1386,State Road,85.14,1.95
+Chennai,13.0827,80.2707,Krishnagiri,12.5192,78.2138,Highway,149.32,1.9
+Chennai,13.0827,80.2707,Pudukkottai,10.3833,78.8167,Highway,327.36,7.19
+Krishnagiri,12.5192,78.2138,Vellore,12.9165,79.1325,Highway,171.55,3.68
+Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,Highway,407.84,10.01
+Dharmapuri,12.1357,78.1603,Vellore,12.9165,79.1325,State Road,257.03,5.13
+Dharmapuri,12.1357,78.1603,Pudukkottai,10.3833,78.8167,State Road,454.57,6.2
+Salem,11.6643,78.146,Thoothukudi,8.7642,78.1348,Local Road,394.38,6.07
+Tiruchirappalli,10.7905,78.7047,Karur,10.9601,78.0766,State Road,133.73,2.0
+Dindigul,10.3624,77.9695,Coimbatore,11.0168,76.9558,Highway,361.35,7.16
+Vellore,12.9165,79.1325,Thanjavur,10.7867,79.1386,Highway,413.78,6.53
+Tirunelveli,8.7139,77.7567,Salem,11.6643,78.146,State Road,90.82,1.56
+Dindigul,10.3624,77.9695,Karur,10.9601,78.0766,Local Road,202.32,5.02
+Salem,11.6643,78.146,Krishnagiri,12.5192,78.2138,State Road,269.67,3.65
+Tiruchirappalli,10.7905,78.7047,Salem,11.6643,78.146,State Road,486.79,6.33
+Nagercoil,8.1773,77.4344,Cuddalore,11.7447,79.768,Highway,159.57,3.08
+Pudukkottai,10.3833,78.8167,Dindigul,10.3624,77.9695,Highway,387.33,7.46
+Erode,11.341,77.7172,Thanjavur,10.7867,79.1386,Highway,444.98,7.3
+Krishnagiri,12.5192,78.2138,Tirunelveli,8.7139,77.7567,Local Road,452.07,5.82
+Tirunelveli,8.7139,77.7567,Krishnagiri,12.5192,78.2138,Highway,422.77,6.83
+Nagercoil,8.1773,77.4344,Kanchipuram,12.8342,79.7036,State Road,339.95,7.43
+Thoothukudi,8.7642,78.1348,Cuddalore,11.7447,79.768,Highway,373.76,7.59
+Salem,11.6643,78.146,Sivakasi,9.4486,77.7984,Highway,450.16,5.78
+Thoothukudi,8.7642,78.1348,Erode,11.341,77.7172,Local Road,489.53,6.66
+Dharmapuri,12.1357,78.1603,Erode,11.341,77.7172,Highway,228.98,3.1
+Madurai,9.9252,78.1198,Vellore,12.9165,79.1325,Local Road,195.37,3.64
+Sivakasi,9.4486,77.7984,Nagercoil,8.1773,77.4344,State Road,197.75,3.17
+Pudukkottai,10.3833,78.8167,Vellore,12.9165,79.1325,Highway,192.44,4.1
+Pudukkottai,10.3833,78.8167,Erode,11.341,77.7172,State Road,227.53,3.46
+Salem,11.6643,78.146,Tiruchirappalli,10.7905,78.7047,Local Road,140.24,2.36
+Salem,11.6643,78.146,Sivakasi,9.4486,77.7984,Highway,348.79,6.12
+Thoothukudi,8.7642,78.1348,Kanchipuram,12.8342,79.7036,Local Road,193.77,3.55
+Thanjavur,10.7867,79.1386,Vellore,12.9165,79.1325,State Road,495.4,9.39
+Thoothukudi,8.7642,78.1348,Pudukkottai,10.3833,78.8167,State Road,350.44,5.96
+Chennai,13.0827,80.2707,Coimbatore,11.0168,76.9558,State Road,84.04,1.4
+Krishnagiri,12.5192,78.2138,Vellore,12.9165,79.1325,Highway,404.68,5.57
+Cuddalore,11.7447,79.768,Nagercoil,8.1773,77.4344,Local Road,434.94,6.49
+Pudukkottai,10.3833,78.8167,Nagercoil,8.1773,77.4344,Local Road,214.25,4.72
+Krishnagiri,12.5192,78.2138,Vellore,12.9165,79.1325,State Road,407.04,9.86
+Salem,11.6643,78.146,Coimbatore,11.0168,76.9558,Local Road,250.96,3.52
+Coimbatore,11.0168,76.9558,Madurai,9.9252,78.1198,State Road,435.32,6.79
+Thanjavur,10.7867,79.1386,Cuddalore,11.7447,79.768,Highway,169.46,2.56
+Tiruchirappalli,10.7905,78.7047,Sivakasi,9.4486,77.7984,Highway,222.63,3.34
+Salem,11.6643,78.146,Nagercoil,8.1773,77.4344,Highway,159.55,2.5
+Sivakasi,9.4486,77.7984,Pudukkottai,10.3833,78.8167,State Road,328.64,5.06
+Dindigul,10.3624,77.9695,Erode,11.341,77.7172,Local Road,301.93,4.19
+Cuddalore,11.7447,79.768,Nagercoil,8.1773,77.4344,Highway,283.72,6.86
+Nagercoil,8.1773,77.4344,Tirunelveli,8.7139,77.7567,Highway,397.72,5.08
